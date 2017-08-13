@@ -79,7 +79,7 @@ AI
 - [Tensorflow Explained](https://chatbotslife.com/tensorflow-demystified-80987184faf7)
 - [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)
 - [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
-- [A Deep Learning Framework For Character Motion Synthesis and Editing(http://theorangeduck.com/page/deep-learning-framework-character-motion-synthesis-and-editing)
+- [A Deep Learning Framework For Character Motion Synthesis and Editing](http://theorangeduck.com/page/deep-learning-framework-character-motion-synthesis-and-editing)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
