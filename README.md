@@ -190,7 +190,7 @@ Libraries
 Voxels
 - [Rendering Huge Amounts of Voxels](http://jojendersie.de/rendering-huge-amounts-of-voxels/)
 - [Real-Time Voxels (blog)](http://realtimevoxels.blogspot.com/)
-- [Voxel Quest])(http://www.voxelquest.com/news/how-does-it-work)
+- [Voxel Quest](http://www.voxelquest.com/news/how-does-it-work)
 - [Cave Culling in Minecraft](https://tomcc.github.io/index.html)
 - [GigaVoxels](http://maverick.inria.fr/Publications/2011/Cra11/)
 - [Meshing in a Minecraft Game](https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/)
