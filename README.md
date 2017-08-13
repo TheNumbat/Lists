@@ -218,7 +218,7 @@ Low-Level: Memory, Assembly, Tools
 Computer Architecture/Design
 - [Computer Design Game](https://www.blinklight.io/)
 - [Computer Systems: a Programmer's Perspective - Textbook](http://www.csapp.cs.cmu.edu/)
-- [Building an 8-bit Breadboard Computer)[https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU]
+- [Building an 8-bit Breadboard Computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 
 Technical History
 - [The 640K Barrier](http://www.filfre.net/2017/04/the-640-k-barrier/#rf1-2788)
