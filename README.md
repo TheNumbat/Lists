@@ -22,6 +22,7 @@ Programming Methodology/Workflow
 - [Design Patterns &amp; Refactoring](https://sourcemaking.com/)
 - [Writing Small Programs in C](https://www.youtube.com/watch?v=eAhWIO1Ra6M)
 - [Designing and Evaluating Reusable Components](https://www.youtube.com/watch?v=ZQ5_u8Lgvyk)
+- [Jon Blow on Unit Testing and TDD](https://www.youtube.com/watch?v=21JlBOxgGwY)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -40,6 +41,9 @@ Game Design &amp; Indie Development
 - [Lessons Learned from a 5-year Indie Dev Cycle](https://www.reddit.com/r/gamedev/comments/6k1qb2/lessons_from_a_5_year_dev_cycle_on_an_indie/?st=j4na4mer&sh=526e5b87)
 - [GDC Rant](https://www.youtube.com/watch?v=kQWt5NYGSpQ)
 - [Free to Play Model Debate](https://www.youtube.com/watch?v=PQgFArro0GQ)
+- [How to Design Deep Games - Jon Blow](https://www.youtube.com/watch?v=d0m0jIzJfiQ)
+- [presskit()](http://dopresskit.com)
+- [distribute()](https://dodistribute.com)
 
 Tools
 - [Many-language Web IDE](http://ideone.com/)
@@ -124,6 +128,9 @@ Graphics
 - [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
 - [TinyRenderer Software 3D Renderer Tutorial - Part 1](https://github.com/ssloy/tinyrenderer/wiki/Lesson-1:-Bresenham%E2%80%99s-Line-Drawing-Algorithm)
 - [Fragment Shader Tutorials](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
+- [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
+- [Tone Mapping](https://en.wikipedia.org/wiki/Tone_mapping)
+- [Sparse Virtual Textures](http://silverspaceship.com/src/svt/)
 
 OpenGL/D3d/Vulkan
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
@@ -146,19 +153,21 @@ OpenGL/D3d/Vulkan
 Languages
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
 - [Language Theory for the Working Programmer](https://www.leafac.com/prose/programming-language-theory-explained-for-the-working-programmer--principles-of-programming-languages/)
-- [Rust](https://doc.rust-lang.org/book/)
 - [Rust for Game Dev](https://www.reddit.com/r/rust/comments/1gs93k/rust_for_game_development/)
 - [Taming Undefined Behavior in LLVM](https://blog.regehr.org/archives/1496)
-- [C Reflection with Clang](https://www.reddit.com/r/gamedev/comments/3lh0ba/using_clang_to_generate_c_reflection_data/)
 - [Building a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [LLVM Tutorial](http://llvm.org/docs/tutorial/)
 - [SBrain](https://silverwingedseraph.net/programming/2017/04/16/sbrain-an-extension-of-brainfzck.html)
 - [Awesome Compilers List](https://github.com/aalhour/awesome-compilers)
 - [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) [not exactly languages, but theory]
+
+C/C++
+- [C Reflection with Clang](https://www.reddit.com/r/gamedev/comments/3lh0ba/using_clang_to_generate_c_reflection_data/)
 - [Using libclang to Parse C++](http://shaharmike.com/cpp/libclang/)
 - [Building Useful ClangTools](https://www.youtube.com/watch?v=E6i8jmiy8MY)
 - [Generics in C](https://stackoverflow.com/questions/16522341/pseudo-generics-in-c)
 - [C Preprocessor Magic](http://jhnet.co.uk/articles/cpp_magic)
+- [GCC Function Names](https://gcc.gnu.org/onlinedocs/gcc/Function-Names.html)
 
 Modern C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -185,7 +194,7 @@ Libraries
 - [Easy Drawing Tablet Input](https://github.com/ApoorvaJ/EasyTab)
 - [Slug Font Rendering](http://sluglibrary.com/)
 - [NaCl Crypto](https://nacl.cr.yp.to/)
-- Recommended libraries (by me): STB, libcURL, postgreSQL, OpenGL, IMGUI
+- [Debug Menu for Games](https://github.com/Srekel/the-debuginator/)
 
 Voxels
 - [Rendering Huge Amounts of Voxels](http://jojendersie.de/rendering-huge-amounts-of-voxels/)
@@ -198,6 +207,7 @@ Voxels
 - [Ambient Occlusion for Minecraft-like Worlds](https://0fps.net/2013/07/03/ambient-occlusion-for-minecraft-like-worlds/)
 - [Minecraft Super Duper Graphics Pack](https://www.youtube.com/watch?v=W1WHYJH-JGk&feature=youtu.be)
 - [Voxel Editor](https://github.com/guillaumechereau/goxel)
+- [TransVoxel Algorithm](http://transvoxel.org/Transvoxel.cpp)
 
 Low-Level: Memory, Assembly, Tools
 - [Intro to Assembly](http://www.swansontec.com/sprogram.html)
@@ -233,12 +243,15 @@ Windows
 - [Blog - Raymond Chen](https://blogs.msdn.microsoft.com/oldnewthing/)
 - [What Just Ran on the Windows Console?](https://blogs.msdn.microsoft.com/commandline/2017/07/28/how-to-determine-what-just-ran-on-windows-console/)
 - [Requesting the Dedicated GPU](https://stackoverflow.com/questions/16823372/forcing-machine-to-use-dedicated-graphics-card)
+- [Windows AsyncIO for Unix Programmers](http://tinyclouds.org/iocp-links.html)
 
 Async
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
 - [Multithreaded Game Engine Design](https://blog.molecular-matters.com/tag/game-engine/page/2/)
 - [Designing a Parallel Game Engine](https://software.intel.com/sites/default/files/m/d/4/1/d/8/Designing_a_Parallel_Game_Engine.pdf)
 - [Lock-free Dequeue in Rust](https://github.com/kinghajj/deque)
+- [Lock-free Dequeue in C++](http://msinilo.pl/download/LockFreeDEQueue.h)
+- [Game Async API & Virtual Memory Design](https://www.youtube.com/watch?v=gFFqYLgPOWI)
 
 Web Dev
 - [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
@@ -269,6 +282,7 @@ Project Ideas/Tutorials
 Personal Development
 - [How to Present a GitHub Project](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [Mock Interview - Shawn McGrath/Casey Muratori](https://www.youtube.com/watch?v=cfyWvJdsDRI)
 
 Blender Modeling &amp; Animation
 - [Sprites in Blender](http://www.gamefromscratch.com/post/2013/09/14/Creating-a-game-sprite-The-Blender-Camera.aspx)
@@ -289,3 +303,4 @@ Other Lists &amp; Blogs
 - [CS Illustrated](http://csillustrated.berkeley.edu/illustrations.php)
 - [CS Industry, Networking, etc. - Julia Evans](https://jvns.ca/)
 - [Recommended Papers - Fabian Giesen](https://fgiesen.wordpress.com/2017/08/12/papers-i-like-part-1/)
+- [C++/Async/Util/Random Projects - Maciej Sinilo](http://msinilo.pl/blog2/projects/projects/) [[blog](http://msinilo.pl/blog2/)]
