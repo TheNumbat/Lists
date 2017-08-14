@@ -357,7 +357,8 @@ Useful Free Software (Windows)
 - [WireShark](https://www.wireshark.org/download.html)
 - [x64dbg](https://x64dbg.com/#start)
 
-My Sublime Text 3 Packages
+My Sublime Text 3 Packages  
+- Color Scheme: Flatland Monokai
 - AlignTab
 - AutoHotkey
 - LaTeXTools
@@ -369,5 +370,4 @@ My Sublime Text 3 Packages
 - Transparency [modified]
 - WordCount
 - x86 and x86_64 Assembly
-- Modified C/C++ Language Packages
-+ Flatland Monokai Color Scheme
+- Modified C/C++ Language Packages  
