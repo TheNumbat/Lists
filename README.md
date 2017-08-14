@@ -306,7 +306,7 @@ Other Lists &amp; Blogs
 - [C++/Async/Util/Random Projects - Maciej Sinilo](http://msinilo.pl/blog2/projects/projects/) [[blog](http://msinilo.pl/blog2/)]
 
 
-### Lists of non-bookmark stuff
+# Non-Bookmark Lists
 
 Useful Free Software (Windows)
 - [7-Zip](http://www.7-zip.org/download.html)
