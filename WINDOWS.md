@@ -66,11 +66,6 @@ Windows Settings
 - Notifications &amp; Actions
 	- All off
 
-TODO
-	disable-windows-defender again
-	Prof Picture
-	Steam Games
-
 Display Settings
 - 150% scaling
 
