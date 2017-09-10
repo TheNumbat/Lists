@@ -110,7 +110,7 @@ AI
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
 - [Maze Generation](http://www.astrolog.org/labyrnth/algrithm.htm)
-- [Maze + Room Generation](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)-
+- [Maze + Room Generation](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
 - [Terrain Generation from Noise](http://www.redblobgames.com/maps/terrain-from-noise/)
 - [Polygonal Terrain Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
 - [What Does Randomness Look Like?](http://www.empiricalzeal.com/2012/12/21/what-does-randomness-look-like/)
