@@ -3,14 +3,30 @@ Useful and interesting links accumulated from around the web.
 
 This is by no means an exaustive list of everything interesting I've come across; just those I threw in a CS bookmarks folder in case I couldn't find them again in the future. I've read just about all of these articles, but it's only moderately curated. For more, check out another of the many accumulation lists on GitHub.  
 
-Technical Things to Know
+Other Lists
+- [Recommended Papers - Fabian Giesen](https://fgiesen.wordpress.com/2017/08/12/papers-i-like-part-1/)
+- [C++/Async/Util/Random Projects - Maciej Sinilo](http://msinilo.pl/blog2/projects/projects/) [[blog](http://msinilo.pl/blog2/)]
+- [An Entire Self-Taught CS Education](https://github.com/open-source-society/computer-science)
+- [Every Programmer Should Know...](https://github.com/mr-mig/every-programmer-should-know/blob/master/README.md)
 - [97 things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
+- [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
+
+Blogs
+- [Red Blob Games](http://www.redblobgames.com/)
+- [Articles - Paul Graham](http://paulgraham.com/articles.html)
+- [Notes on Programming - Richard Mitton](http://www.codersnotes.com/notes/)
+- [Fractals, Graphics, Mathematics, Demoscenes and more - Inigo Quilez](http://iquilezles.org/)
+- [CS Illustrated](http://csillustrated.berkeley.edu/illustrations.php)
+- [CS Industry, Networking, etc. - Julia Evans](https://jvns.ca/)
+
+Technical Explanations
 - [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 - [Electron is Flash for the Desktop](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
 - [Testing all Floats](https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/)
 - [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
 - [What Happens When You Type google.com...](https://github.com/alex/what-happens-when?referrer=google.com)
+- [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
 
 Programming Methodology/Workflow
 - [Compression-oriented Programming](http://mollyrocket.com/casey/stream_0019.html)
@@ -23,6 +39,7 @@ Programming Methodology/Workflow
 - [Writing Small Programs in C](https://www.youtube.com/watch?v=eAhWIO1Ra6M)
 - [Designing and Evaluating Reusable Components](https://www.youtube.com/watch?v=ZQ5_u8Lgvyk)
 - [Jon Blow on Unit Testing and TDD](https://www.youtube.com/watch?v=21JlBOxgGwY)
+- [The World Needs a Better way to Create Cross Platform GUI Apps](https://handmade.network/forums/t/2260-the_world_needs_a_better_way_to_create_cross_platform_desktop_gui_apps/2)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -44,6 +61,9 @@ Game Design &amp; Indie Development
 - [How to Design Deep Games - Jon Blow](https://www.youtube.com/watch?v=d0m0jIzJfiQ)
 - [presskit()](http://dopresskit.com)
 - [distribute()](https://dodistribute.com)
+- [50 Game Camera Mistakes](https://www.youtube.com/watch?v=C7307qRmlMI)
+- [Factorio Modding API](http://lua-api.factorio.com/latest/)
+- [Indie Polish](https://www.youtube.com/watch?v=fYBvYWf_dTg)
 
 Tools
 - [Many-language Web IDE](http://ideone.com/)
@@ -53,6 +73,7 @@ Tools
 - [Free Low-Poly Animal Meshes](https://sketchfab.com/jeremielouvetz/collections/3k-animals)
 - [ripgrep Benchmarks](http://blog.burntsushi.net/ripgrep/)
 - [Free to Use Sounds](http://freetousesounds.com/)
+- [Free Icons](https://feathericons.com/)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -77,6 +98,7 @@ Algorithms
 - [Hash-Array-Mapped Trie](https://www.youtube.com/watch?v=WT9kmIE3Uis)
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
 - [Skip List](https://en.wikipedia.org/wiki/Skip_list)
+- [Rope](https://en.m.wikipedia.org/wiki/Rope_(data_structure))
 
 AI
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -174,6 +196,7 @@ Modern C++
 - [C++11 Multithreaded Memory Model](http://stackoverflow.com/questions/6319146/c11-introduced-a-standardized-memory-model-what-does-it-mean-and-how-is-it-g?rq=1)
 - [C++ Interview Questions](https://www.reddit.com/r/cpp/comments/62s5z9/here_is_a_list_of_things_i_have_been_quizzed_on/)
 - [Modern C++ Features Cheat-Sheet](https://github.com/AnthonyCalandra/modern-cpp-features)
+- [Functional Programming in C++](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -183,8 +206,7 @@ JAI
 
 Libraries
 - [STB](https://github.com/nothings/stb) [powerful &amp; easy-to-integrate utilities]
-- [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
-- [A Logging Library](https://github.com/emilk/loguru)
+- [Loguru](https://github.com/emilk/loguru)
 - [SDL_net](http://sdl.beuc.net/sdl.wiki/SDL_net)
 - [SDL Wiki](https://wiki.libsdl.org/)
 - [GLFW Reference](http://www.glfw.org/docs/latest/modules.html)
@@ -195,6 +217,8 @@ Libraries
 - [Slug Font Rendering](http://sluglibrary.com/)
 - [NaCl Crypto](https://nacl.cr.yp.to/)
 - [Debug Menu for Games](https://github.com/Srekel/the-debuginator/)
+- [C++ Memory Profiler](https://github.com/milostosic/MTuner)
+- [TinyHeaders](https://github.com/RandyGaul/tinyheaders)
 
 Voxels
 - [Rendering Huge Amounts of Voxels](http://jojendersie.de/rendering-huge-amounts-of-voxels/)
@@ -209,9 +233,8 @@ Voxels
 - [Voxel Editor](https://github.com/guillaumechereau/goxel)
 - [TransVoxel Algorithm](http://transvoxel.org/Transvoxel.cpp)
 
-Low-Level: Memory, Assembly, Tools
+Low-Level: Memory, Assembly, CPUs
 - [Intro to Assembly](http://www.swansontec.com/sprogram.html)
-- [Using Val/call/cachegrind](http://c.learncodethehardway.org/book/ex41.html)
 - [Programming with 1s and 0s](http://www.hanshq.net/ones-and-zeros.html) [machine code]
 - [Implementing/Debugging malloc](https://danluu.com/malloc-tutorial/) 
 - [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README.md)
@@ -221,22 +244,35 @@ Low-Level: Memory, Assembly, Tools
 - [rpmalloc](https://github.com/rampantpixels/rpmalloc)
 - [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 - [Generating Executable Files from Scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
+- [ASM Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
+- [RDTSC vs. QueryPerformanceCounter](https://hero.handmade.network/forums/code-discussion/t/57-__rdtsc,_queryperformancecounter,_and_quadpart)
+
+Slightly Less Low-Level: OSes, Tools, Optimization
+- [Using Val/call/cachegrind](http://c.learncodethehardway.org/book/ex41.html)
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Linux Program Startup](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
-- [ASM Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
+- [Why is this C++ Faster than Hand-Written ASM?](https://stackoverflow.com/questions/40354978/why-is-this-c-code-faster-than-my-hand-written-assembly-for-testing-the-collat)
+- [Optimization Resources](http://agner.org/optimize/)
+- [Don't Use Inline ASM](https://gcc.gnu.org/wiki/DontUseInlineAsm)
+- [Handmade XCB Platform Layer](https://github.com/nxsy/xcb_handmade/blob/master/src/xcb_handmade.cpp#L1400)
 
-Computer Architecture/Design
+More Low-Level: Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
 - [Computer Systems: a Programmer's Perspective - Textbook](http://www.csapp.cs.cmu.edu/)
 - [Building an 8-bit Breadboard Computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+- [Making Logic Gates from Transistors](https://www.youtube.com/watch?v=sTu3LwpF6XI)
 
-Technical History
+Technical History &amp; Stories
 - [The 640K Barrier](http://www.filfre.net/2017/04/the-640-k-barrier/#rf1-2788)
 - [Understanding Pac-Man Ghost Behavior](http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior)
 - [A Brief History of Quantum Computing](https://www.doc.ic.ac.uk/~nd/surprise_97/journal/vol4/spb3/)
 - [Forgotten Unix CLI Commands](https://hackernoon.com/unknown-and-forgotten-cli-commands-ca73b3cdd1fd)
 - [Wolfenstien 3D - Game Engine Black Book](http://fabiensanglard.net/Game_Engine_Black_Book/index.php)
 - [0 Based Arrays - Dijkstra](http://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF)
+- [BYTE Magazine LISP Issue](https://ia902603.us.archive.org/30/items/byte-magazine-1979-08/1979_08_BYTE_04-08_LISP.pdf)
+- [Flash Games Postmortem](https://www.youtube.com/watch?v=65crLKNQR0E)
+- [The Ultimate Garbage Collector](https://groups.google.com/forum/message/raw?msg=comp.lang.ada/E9bNCvDQ12k/1tezW24ZxdAJ)
+- [The Case of the 500-Mile Email](https://www.ibiblio.org/harris/500milemail.html)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -244,6 +280,7 @@ Windows
 - [What Just Ran on the Windows Console?](https://blogs.msdn.microsoft.com/commandline/2017/07/28/how-to-determine-what-just-ran-on-windows-console/)
 - [Requesting the Dedicated GPU](https://stackoverflow.com/questions/16823372/forcing-machine-to-use-dedicated-graphics-card)
 - [Windows AsyncIO for Unix Programmers](http://tinyclouds.org/iocp-links.html)
+- [Loading a DLL from Memory](https://www.joachim-bauch.de/tutorials/loading-a-dll-from-memory/)
 
 Async
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -257,6 +294,7 @@ Web Dev
 - [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [The Road to Learning React](https://www.robinwieruch.de/the-road-to-learn-react/)
 - [Backend Programming in C](https://www.youtube.com/watch?v=duAri1OytqY)
+- [Optimizing Web Servers (nginx) for High Throughput and Low Latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 
 HTML
 - [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -269,11 +307,13 @@ HTML
 Databases
 - [DBMS Tutorial](https://www.tutorialspoint.com/dbms/index.htm)
 - [State Machines in postgreSQL](http://felixge.de/2017/07/27/implementing-state-machines-in-postgresql.html)
+- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
-Multiplayer Networking
+Networking
 - [How Multiplayer Games Sync their State](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1)
 - [What Every Game Programmer Needs to Know About Networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/)
 - [Overwatch Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ)
+- [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
 
 Project Ideas/Tutorials
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
@@ -283,10 +323,15 @@ Personal Development
 - [How to Present a GitHub Project](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [Mock Interview - Shawn McGrath/Casey Muratori](https://www.youtube.com/watch?v=cfyWvJdsDRI)
+- [What Books have Made the Biggest Impact on your Mental Models?](https://news.ycombinator.com/item?id=15155833)
 
 Blender Modeling &amp; Animation
 - [Sprites in Blender](http://www.gamefromscratch.com/post/2013/09/14/Creating-a-game-sprite-The-Blender-Camera.aspx)
 - [Blender Game Art Tutorial](http://www.gamefromscratch.com/page/Complete-Blender-Game-Art-Tutorial-From-zero-experience-to-2D-or-3D-game-ready-asset.aspx)
+
+Music, Sound Design, &amp; Art
+- [DOOM Behind the Music](https://www.youtube.com/watch?v=U4FNBMZsqrY)
+- [Pixel Art Advice](http://blog.studiominiboss.com/pixelart)
 
 Misc.
 - [Continuous Time Simulation](https://www.youtube.com/watch?v=jTzIDmjkLQo)
@@ -294,13 +339,5 @@ Misc.
 - [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
 - [Advanced Character Physics](http://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
 - [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
+- [Doomsday Prepping for Less Crazy Folk](http://lcamtuf.coredump.cx/prep/)
 
-Other Lists &amp; Blogs
-- [Red Blob Games](http://www.redblobgames.com/)
-- [Articles - Paul Graham](http://paulgraham.com/articles.html)
-- [Notes on Programming - Richard Mitton](http://www.codersnotes.com/notes/)
-- [Fractals, Graphics, Mathematics, Demoscenes and more - Inigo Quilez](http://iquilezles.org/)
-- [CS Illustrated](http://csillustrated.berkeley.edu/illustrations.php)
-- [CS Industry, Networking, etc. - Julia Evans](https://jvns.ca/)
-- [Recommended Papers - Fabian Giesen](https://fgiesen.wordpress.com/2017/08/12/papers-i-like-part-1/)
-- [C++/Async/Util/Random Projects - Maciej Sinilo](http://msinilo.pl/blog2/projects/projects/) [[blog](http://msinilo.pl/blog2/)]
