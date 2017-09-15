@@ -10,6 +10,7 @@ Other Lists
 - [Every Programmer Should Know...](https://github.com/mr-mig/every-programmer-should-know/blob/master/README.md)
 - [97 things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
 - [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 Blogs
 - [Red Blob Games](http://www.redblobgames.com/)
@@ -19,16 +20,16 @@ Blogs
 - [CS Illustrated](http://csillustrated.berkeley.edu/illustrations.php)
 - [CS Industry, Networking, etc. - Julia Evans](https://jvns.ca/)
 
-Technical Explanations
+Technical Explanations/Misc. 
 - [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
-- [Electron is Flash for the Desktop](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
 - [Testing all Floats](https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/)
 - [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
 - [What Happens When You Type google.com...](https://github.com/alex/what-happens-when?referrer=google.com)
 - [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
+- [Building a Computer to play Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 
-Programming Methodology/Workflow
+Programming Methodology/Philosophy
 - [Compression-oriented Programming](http://mollyrocket.com/casey/stream_0019.html)
 - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1)
 - [How do You Make Programmers Work 60-80 Hour Weeks?](http://brianknapp.me/programmer-60-80-hour-weeks/)
@@ -40,6 +41,8 @@ Programming Methodology/Workflow
 - [Designing and Evaluating Reusable Components](https://www.youtube.com/watch?v=ZQ5_u8Lgvyk)
 - [Jon Blow on Unit Testing and TDD](https://www.youtube.com/watch?v=21JlBOxgGwY)
 - [The World Needs a Better way to Create Cross Platform GUI Apps](https://handmade.network/forums/t/2260-the_world_needs_a_better_way_to_create_cross_platform_desktop_gui_apps/2)
+- [General and Surprising](http://paulgraham.com/sun.html)
+- [Electron is Flash for the Desktop](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -50,20 +53,27 @@ Handmade Community
 - [4Coder](https://www.patreon.com/mr4thdimention)
 - [Handmade Dev Show](http://handmadedev.show/)
 - [Implementing a Handmade PNG Reader](https://handmade.network/forums/wip/t/2363-implementing_a_basic_png_reader_the_handmade_way)
+- [Handmade Project Guidelines](https://handmade.network/project-guidelines)
 
 Game Design &amp; Indie Development
 - [Finishing](http://makegames.tumblr.com/post/1136623767/finishing-a-game)          
-- [How do I Release my Game?](https://www.reddit.com/r/gamedev/comments/64pxku/how_do_i_release_my_game/)
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
 - [Lessons Learned from a 5-year Indie Dev Cycle](https://www.reddit.com/r/gamedev/comments/6k1qb2/lessons_from_a_5_year_dev_cycle_on_an_indie/?st=j4na4mer&sh=526e5b87)
 - [GDC Rant](https://www.youtube.com/watch?v=kQWt5NYGSpQ)
-- [Free to Play Model Debate](https://www.youtube.com/watch?v=PQgFArro0GQ)
 - [How to Design Deep Games - Jon Blow](https://www.youtube.com/watch?v=d0m0jIzJfiQ)
-- [presskit()](http://dopresskit.com)
-- [distribute()](https://dodistribute.com)
 - [50 Game Camera Mistakes](https://www.youtube.com/watch?v=C7307qRmlMI)
 - [Factorio Modding API](http://lua-api.factorio.com/latest/)
 - [Indie Polish](https://www.youtube.com/watch?v=fYBvYWf_dTg)
+
+Publishing 
+- [How do I Release my Game?](https://www.reddit.com/r/gamedev/comments/64pxku/how_do_i_release_my_game/)
+- [Free to Play Model Debate](https://www.youtube.com/watch?v=PQgFArro0GQ)
+- [presskit()](http://dopresskit.com)
+- [distribute()](https://dodistribute.com)
+- [Steam API](https://plus.google.com/+flibitijibibo/posts/9CnJH98W9pK)
+- [Steam Direct](https://partner.steamgames.com/steamdirect)
+- [Steam FAQ](http://www.steampowered.com/steamworks/FAQ.php)
+- [Ultimate Legal Guide](https://www.reddit.com/r/gamedev/comments/5pxldd/ultimate_as_promised_guide_to_legal_needs_and/)
 
 Tools
 - [Many-language Web IDE](http://ideone.com/)
@@ -85,6 +95,7 @@ Math
 - [Fractals in Python](https://github.com/neozhaoliang/pywonderland/blob/master/README.md)
 - [Implementing Inverse Kinematics](http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php)
 - [Hacking Quaternions - nlerp + spline](http://number-none.com/product/Hacking%20Quaternions/)
+- [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -182,6 +193,7 @@ Languages
 - [SBrain](https://silverwingedseraph.net/programming/2017/04/16/sbrain-an-extension-of-brainfzck.html)
 - [Awesome Compilers List](https://github.com/aalhour/awesome-compilers)
 - [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) [not exactly languages, but theory]
+- [Embedding LuaJIT](https://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/)
 
 C/C++
 - [C Reflection with Clang](https://www.reddit.com/r/gamedev/comments/3lh0ba/using_clang_to_generate_c_reflection_data/)
@@ -231,7 +243,12 @@ Voxels
 - [Ambient Occlusion for Minecraft-like Worlds](https://0fps.net/2013/07/03/ambient-occlusion-for-minecraft-like-worlds/)
 - [Minecraft Super Duper Graphics Pack](https://www.youtube.com/watch?v=W1WHYJH-JGk&feature=youtu.be)
 - [Voxel Editor](https://github.com/guillaumechereau/goxel)
-- [TransVoxel Algorithm](http://transvoxel.org/Transvoxel.cpp)
+- [TransVoxel Algorithm](http://transvoxel.org/)
+- [TransVoxel Implementation](http://transvoxel.org/Transvoxel.cpp)
+- [Terrain Engine: Dual Contouring](https://upvoid.com/devblog/2013/05/terrain-engine-part-1-dual-contouring/)
+- [Terrain Engine: Volume Generation &amp; CSG Tree](https://upvoid.com/devblog/2013/07/terrain-engine-part-2-volume-generation-and-the-csg-tree/)
+- [MagicVoxel](http://ephtracy.github.io/)
+- [MagicaVoxel Shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders)
 
 Low-Level: Memory, Assembly, CPUs
 - [Intro to Assembly](http://www.swansontec.com/sprogram.html)
@@ -248,6 +265,7 @@ Low-Level: Memory, Assembly, CPUs
 - [RDTSC vs. QueryPerformanceCounter](https://hero.handmade.network/forums/code-discussion/t/57-__rdtsc,_queryperformancecounter,_and_quadpart)
 
 Slightly Less Low-Level: OSes, Tools, Optimization
+
 - [Using Val/call/cachegrind](http://c.learncodethehardway.org/book/ex41.html)
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Linux Program Startup](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
@@ -281,6 +299,10 @@ Windows
 - [Requesting the Dedicated GPU](https://stackoverflow.com/questions/16823372/forcing-machine-to-use-dedicated-graphics-card)
 - [Windows AsyncIO for Unix Programmers](http://tinyclouds.org/iocp-links.html)
 - [Loading a DLL from Memory](https://www.joachim-bauch.de/tutorials/loading-a-dll-from-memory/)
+- [OpenGL PixelFormat takes forever](https://hero.handmade.network/forums/code-discussion/t/2503-%5Bday_235%5D_opengls_pixel_format_takes_a_long_time#13068)
+
+Linux
+- [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
 
 Async
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
