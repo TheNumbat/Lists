@@ -28,6 +28,7 @@ Technical Explanations/Misc.
 - [What Happens When You Type google.com...](https://github.com/alex/what-happens-when?referrer=google.com)
 - [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
 - [Building a Computer to play Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
+- [It's Time to Kill the Web (as an applications platform)](https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89)
 
 Programming Methodology/Philosophy
 - [Compression-oriented Programming](http://mollyrocket.com/casey/stream_0019.html)
@@ -43,6 +44,8 @@ Programming Methodology/Philosophy
 - [The World Needs a Better way to Create Cross Platform GUI Apps](https://handmade.network/forums/t/2260-the_world_needs_a_better_way_to_create_cross_platform_desktop_gui_apps/2)
 - [General and Surprising](http://paulgraham.com/sun.html)
 - [Electron is Flash for the Desktop](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
+- [5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+- [How I got to 200 Productive Hours / Month](https://qotoqot.com/blog/improving-focus/)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -64,8 +67,9 @@ Game Design &amp; Indie Development
 - [50 Game Camera Mistakes](https://www.youtube.com/watch?v=C7307qRmlMI)
 - [Factorio Modding API](http://lua-api.factorio.com/latest/)
 - [Indie Polish](https://www.youtube.com/watch?v=fYBvYWf_dTg)
+- [Advice on Designing Maps/Levels](https://handmade.network/forums/t/2607-asking_for_advice_about_best_approach_to_make_maps_or_design_levels_in_general...#13088)
 
-Publishing 
+Game Publishing
 - [How do I Release my Game?](https://www.reddit.com/r/gamedev/comments/64pxku/how_do_i_release_my_game/)
 - [Free to Play Model Debate](https://www.youtube.com/watch?v=PQgFArro0GQ)
 - [presskit()](http://dopresskit.com)
@@ -74,6 +78,9 @@ Publishing
 - [Steam Direct](https://partner.steamgames.com/steamdirect)
 - [Steam FAQ](http://www.steampowered.com/steamworks/FAQ.php)
 - [Ultimate Legal Guide](https://www.reddit.com/r/gamedev/comments/5pxldd/ultimate_as_promised_guide_to_legal_needs_and/)
+
+Startups
+- [YC's Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 
 Tools
 - [Many-language Web IDE](http://ideone.com/)
@@ -84,6 +91,9 @@ Tools
 - [ripgrep Benchmarks](http://blog.burntsushi.net/ripgrep/)
 - [Free to Use Sounds](http://freetousesounds.com/)
 - [Free Icons](https://feathericons.com/)
+- [VIM Adventures](https://vim-adventures.com/)
+- [Logo Crunch](http://brandmark.io/logo-crunch/)
+- [Google Sanitizers](https://github.com/google/sanitizers)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -110,6 +120,7 @@ Algorithms
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
 - [Skip List](https://en.wikipedia.org/wiki/Skip_list)
 - [Rope](https://en.m.wikipedia.org/wiki/Rope_(data_structure))
+- [Concurrency - Why is Memory Reclamation so Important?](https://concurrencyfreaks.blogspot.com/2017/08/why-is-memory-reclamation-so-important.html)
 
 AI
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -117,6 +128,7 @@ AI
 - [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)
 - [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
 - [A Deep Learning Framework For Character Motion Synthesis and Editing](http://theorangeduck.com/page/deep-learning-framework-character-motion-synthesis-and-editing)
+- [Example-Based Image Synthesis - PixelNN](http://www.cs.cmu.edu/~aayushb/pixelNN/)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -164,6 +176,10 @@ Graphics
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
 - [Tone Mapping](https://en.wikipedia.org/wiki/Tone_mapping)
 - [Sparse Virtual Textures](http://silverspaceship.com/src/svt/)
+- [Real-time Global Illumination by Precomputed Local Reconstruction from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/index.html)
+- [SSDO](https://people.mpi-inf.mpg.de/~ritschel/Papers/SSDO.pdf)
+- [Ambient Occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion)
+- [Rendering Equation](https://en.wikipedia.org/wiki/Rendering_equation)
 
 OpenGL/D3d/Vulkan
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
@@ -183,7 +199,7 @@ OpenGL/D3d/Vulkan
 - [30 Minute Intro](https://renderdoc.org/vulkan-in-30-minutes.html)
 - [Vulkan Tutorial](https://vulkan-tutorial.com/)
 
-Languages
+Languages/Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
 - [Language Theory for the Working Programmer](https://www.leafac.com/prose/programming-language-theory-explained-for-the-working-programmer--principles-of-programming-languages/)
 - [Rust for Game Dev](https://www.reddit.com/r/rust/comments/1gs93k/rust_for_game_development/)
@@ -194,6 +210,7 @@ Languages
 - [Awesome Compilers List](https://github.com/aalhour/awesome-compilers)
 - [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) [not exactly languages, but theory]
 - [Embedding LuaJIT](https://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/)
+- [Auto-vectorization in GCC](https://locklessinc.com/articles/vectorize/)
 
 C/C++
 - [C Reflection with Clang](https://www.reddit.com/r/gamedev/comments/3lh0ba/using_clang_to_generate_c_reflection_data/)
@@ -209,6 +226,7 @@ Modern C++
 - [C++ Interview Questions](https://www.reddit.com/r/cpp/comments/62s5z9/here_is_a_list_of_things_i_have_been_quizzed_on/)
 - [Modern C++ Features Cheat-Sheet](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [Functional Programming in C++](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
+- [Low-Latency C++](https://github.com/CppCon/CppCon2017/blob/master/Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -249,6 +267,11 @@ Voxels
 - [Terrain Engine: Volume Generation &amp; CSG Tree](https://upvoid.com/devblog/2013/07/terrain-engine-part-2-volume-generation-and-the-csg-tree/)
 - [MagicVoxel](http://ephtracy.github.io/)
 - [MagicaVoxel Shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders)
+- [Dual Contouring](https://upvoid.com/devblog/2013/05/terrain-engine-part-1-dual-contouring/)
+- [Vertex Positions to Packed Element Arrays](http://blog.blackhc.net/2009/07/from-vertex-positions-to-packed-element-arrays/)
+- [Compact Cube Meshes &amp; Unity](https://yave.handmade.network/blogs/p/2629-compact_cube_meshes,_and_compact_cube_meshes_in_unity)
+- [Rendering Without Vertex Data](https://www.opengl.org/discussion_boards/showthread.php/168316-Rendering-without-vertex-data-%28gl_VertexID-only%29)
+- [Help Learning ASM/CPUs](https://handmade.network/forums/t/2630-help_learning_asm_and_understanding_the_cpu#13166)
 
 Low-Level: Memory, Assembly, CPUs
 - [Intro to Assembly](http://www.swansontec.com/sprogram.html)
@@ -263,9 +286,11 @@ Low-Level: Memory, Assembly, CPUs
 - [Generating Executable Files from Scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
 - [ASM Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
 - [RDTSC vs. QueryPerformanceCounter](https://hero.handmade.network/forums/code-discussion/t/57-__rdtsc,_queryperformancecounter,_and_quadpart)
+- [Micro-controllers with Rust](https://japaric.github.io/discovery/)
+- [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
+- [Documentation for the RISC-V BOOM CPU](https://github.com/ccelio/riscv-boom-doc)
 
 Slightly Less Low-Level: OSes, Tools, Optimization
-
 - [Using Val/call/cachegrind](http://c.learncodethehardway.org/book/ex41.html)
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Linux Program Startup](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
@@ -273,6 +298,9 @@ Slightly Less Low-Level: OSes, Tools, Optimization
 - [Optimization Resources](http://agner.org/optimize/)
 - [Don't Use Inline ASM](https://gcc.gnu.org/wiki/DontUseInlineAsm)
 - [Handmade XCB Platform Layer](https://github.com/nxsy/xcb_handmade/blob/master/src/xcb_handmade.cpp#L1400)
+- [Recompiling NES Games with LLVM](http://andrewkelley.me/post/jamulator.html)
+- [Simple Heap Allocator](https://github.com/CCareaga/heap_allocator#shmall---simple-heap-memory-allocator)
+- [What if Main is not a Function?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
 More Low-Level: Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
@@ -300,9 +328,12 @@ Windows
 - [Windows AsyncIO for Unix Programmers](http://tinyclouds.org/iocp-links.html)
 - [Loading a DLL from Memory](https://www.joachim-bauch.de/tutorials/loading-a-dll-from-memory/)
 - [OpenGL PixelFormat takes forever](https://hero.handmade.network/forums/code-discussion/t/2503-%5Bday_235%5D_opengls_pixel_format_takes_a_long_time#13068)
+- [D3D Rendering Setup Example](https://git.handmade.network/snippets/19)
+- [Signing a Windows EXE](https://stackoverflow.com/questions/252226/signing-a-windows-exe-file)
 
 Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
+- [30 Interesting Shell Commands](https://www.lopezferrando.com/30-interesting-shell-commands/)
 
 Async
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -360,6 +391,9 @@ Misc.
 - [Crafting Plausible Maps](https://m.mythcreants.com/blog/crafting-plausible-maps/)
 - [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
 - [Advanced Character Physics](http://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
-- [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
 - [Doomsday Prepping for Less Crazy Folk](http://lcamtuf.coredump.cx/prep/)
+- [Thinkpad X62](https://geoff.greer.fm/2017/07/16/thinkpad-x62/)
 
+Humor
+- [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
+- [The Evolution of a Programmer](https://handmade.network/forums/career-advice/t/2610-the_evolution_of_a_programmer)
