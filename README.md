@@ -27,6 +27,7 @@ Technical Explanations/Misc.
 - [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
 - [What Happens When You Type google.com...](https://github.com/alex/what-happens-when?referrer=google.com)
 - [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
+- [Normalized Byte Multiplication](https://pastebin.com/WsiW2BCz)
 - [Building a Computer to play Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 - [It's Time to Kill the Web (as an applications platform)](https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89)
 
@@ -94,6 +95,8 @@ Tools
 - [VIM Adventures](https://vim-adventures.com/)
 - [Logo Crunch](http://brandmark.io/logo-crunch/)
 - [Google Sanitizers](https://github.com/google/sanitizers)
+- [Quick C++ Microbenchmark](http://quick-bench.com/XM3odpntQoWZJTB5UOx84sIZfdw)
+- [Godbolt Compiler Explorer (View ASM Output)](https://godbolt.org/)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -129,6 +132,7 @@ AI
 - [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
 - [A Deep Learning Framework For Character Motion Synthesis and Editing](http://theorangeduck.com/page/deep-learning-framework-character-motion-synthesis-and-editing)
 - [Example-Based Image Synthesis - PixelNN](http://www.cs.cmu.edu/~aayushb/pixelNN/)
+- [Is AI Riding a One-Trick Pony? (Backprop)](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -180,6 +184,7 @@ Graphics
 - [SSDO](https://people.mpi-inf.mpg.de/~ritschel/Papers/SSDO.pdf)
 - [Ambient Occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion)
 - [Rendering Equation](https://en.wikipedia.org/wiki/Rendering_equation)
+- [Real-Time Rendering for Artists](https://jesshiderue4.wordpress.com/real-time-rendering-an-overview-for-artists/)
 
 OpenGL/D3d/Vulkan
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
@@ -198,6 +203,7 @@ OpenGL/D3d/Vulkan
 - [Setting up D3D11](https://git.handmade.network/snippets/19)
 - [30 Minute Intro](https://renderdoc.org/vulkan-in-30-minutes.html)
 - [Vulkan Tutorial](https://vulkan-tutorial.com/)
+- [GLSL Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
 
 Languages/Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -227,6 +233,7 @@ Modern C++
 - [Modern C++ Features Cheat-Sheet](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [Functional Programming in C++](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
 - [Low-Latency C++](https://github.com/CppCon/CppCon2017/blob/master/Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf)
+- [Compile-Time String Hashing](https://handmade.network/forums/t/1507-compile_time_string_hashing_with_c++_constexpr_vs._your_own_preprocessor#13212)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -301,6 +308,7 @@ Slightly Less Low-Level: OSes, Tools, Optimization
 - [Recompiling NES Games with LLVM](http://andrewkelley.me/post/jamulator.html)
 - [Simple Heap Allocator](https://github.com/CCareaga/heap_allocator#shmall---simple-heap-memory-allocator)
 - [What if Main is not a Function?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
+- [Are Jump Tables Always Fastest?](http://www.cipht.net/2017/10/03/are-jump-tables-always-fastest.html)
 
 More Low-Level: Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
