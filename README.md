@@ -19,6 +19,7 @@ Blogs
 - [Fractals, Graphics, Mathematics, Demoscenes and more - Inigo Quilez](http://iquilezles.org/)
 - [CS Illustrated](http://csillustrated.berkeley.edu/illustrations.php)
 - [CS Industry, Networking, etc. - Julia Evans](https://jvns.ca/)
+- [Home Automation](https://www.superhouse.tv/episodes/)
 
 Technical Explanations/Misc. 
 - [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
@@ -26,10 +27,15 @@ Technical Explanations/Misc.
 - [Testing all Floats](https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/)
 - [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
 - [What Happens When You Type google.com...](https://github.com/alex/what-happens-when?referrer=google.com)
-- [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
-- [Normalized Byte Multiplication](https://pastebin.com/WsiW2BCz)
 - [Building a Computer to play Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 - [It's Time to Kill the Web (as an applications platform)](https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89)
+- [Things You Should Never Do - Rewrite](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
+Code Snippets
+- [Branches UTF8 Decode](https://github.com/skeeto/branchless-utf8/blob/master/utf8.h)
+- [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
+- [Normalized Byte Multiplication](https://pastebin.com/WsiW2BCz)
+- [Xinput (Odin)](https://github.com/ThisDrunkDane/odin-xinput/blob/master/xinput.odin)
 
 Programming Methodology/Philosophy
 - [Compression-oriented Programming](http://mollyrocket.com/casey/stream_0019.html)
@@ -47,6 +53,10 @@ Programming Methodology/Philosophy
 - [Electron is Flash for the Desktop](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
 - [5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
 - [How I got to 200 Productive Hours / Month](https://qotoqot.com/blog/improving-focus/)
+- [Jon Blow - Techniques for dealing with lack of motivation, malaise, depression](https://www.youtube.com/watch?v=i7kh8pNRWOo)
+- [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/)
+- [How to do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
+- [Making Wrong Code Look Wrong](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -58,6 +68,7 @@ Handmade Community
 - [Handmade Dev Show](http://handmadedev.show/)
 - [Implementing a Handmade PNG Reader](https://handmade.network/forums/wip/t/2363-implementing_a_basic_png_reader_the_handmade_way)
 - [Handmade Project Guidelines](https://handmade.network/project-guidelines)
+- [Understanding the Debug System](https://hero.handmade.network/forums/game-discussion/t/2680-understanding_the_debug_system#13339)
 
 Game Design &amp; Indie Development
 - [Finishing](http://makegames.tumblr.com/post/1136623767/finishing-a-game)          
@@ -82,14 +93,14 @@ Game Publishing
 
 Startups
 - [YC's Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
+- [Setting my Bootstrapped SaaS Business](https://www.indiehackers.com/@tylertringas/selling-my-bootstrapped-saas-business-26c8406e1d)
 
-Tools
+Online Tools
 - [Many-language Web IDE](http://ideone.com/)
 - [Color Theming](https://color.adobe.com/)
 - [Semantic Versioning](http://semver.org/#why-use-semantic-versioning)
 - [Monospace Fonts](https://freebiesupply.com/blog/top-monospace-fonts-for-developers/)
 - [Free Low-Poly Animal Meshes](https://sketchfab.com/jeremielouvetz/collections/3k-animals)
-- [ripgrep Benchmarks](http://blog.burntsushi.net/ripgrep/)
 - [Free to Use Sounds](http://freetousesounds.com/)
 - [Free Icons](https://feathericons.com/)
 - [VIM Adventures](https://vim-adventures.com/)
@@ -97,6 +108,8 @@ Tools
 - [Google Sanitizers](https://github.com/google/sanitizers)
 - [Quick C++ Microbenchmark](http://quick-bench.com/XM3odpntQoWZJTB5UOx84sIZfdw)
 - [Godbolt Compiler Explorer (View ASM Output)](https://godbolt.org/)
+- [C++ Development with VS Code](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
+- [DevDocs.io](https://devdocs.io/)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -109,6 +122,7 @@ Math
 - [Implementing Inverse Kinematics](http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php)
 - [Hacking Quaternions - nlerp + spline](http://number-none.com/product/Hacking%20Quaternions/)
 - [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
+- [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -124,6 +138,9 @@ Algorithms
 - [Skip List](https://en.wikipedia.org/wiki/Skip_list)
 - [Rope](https://en.m.wikipedia.org/wiki/Rope_(data_structure))
 - [Concurrency - Why is Memory Reclamation so Important?](https://concurrencyfreaks.blogspot.com/2017/08/why-is-memory-reclamation-so-important.html)
+- [Esoteric Data Structures and Where to Find Them](https://www.youtube.com/watch?v=-8UZhDjgeZU)
+- [Concurrency is not Parallelism](https://www.youtube.com/watch?time_continue=1495&v=cN_DpYBzKso)
+- [Dynamic Programming: First Principles](http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles)
 
 AI
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -133,6 +150,7 @@ AI
 - [A Deep Learning Framework For Character Motion Synthesis and Editing](http://theorangeduck.com/page/deep-learning-framework-character-motion-synthesis-and-editing)
 - [Example-Based Image Synthesis - PixelNN](http://www.cs.cmu.edu/~aayushb/pixelNN/)
 - [Is AI Riding a One-Trick Pony? (Backprop)](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)
+- [Machine Learning - Spotify Discover Weekly](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -156,6 +174,7 @@ Procedural Generation
 - [L-Systems](https://en.wikipedia.org/wiki/L-system)
 - [SIMD FastNoise](https://github.com/jackmott/FastNoise-SIMD)
 - [Top-Down Cave Gen](http://noelberry.ca/#thecaves)
+- [RoboHash](https://robohash.org/)
 
 Graphics
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -185,6 +204,11 @@ Graphics
 - [Ambient Occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion)
 - [Rendering Equation](https://en.wikipedia.org/wiki/Rendering_equation)
 - [Real-Time Rendering for Artists](https://jesshiderue4.wordpress.com/real-time-rendering-an-overview-for-artists/)
+- [Graphics Programming Weekly 10 - Real-Time for Artists, Design Patterns, Physical Cameras, Compact Cube Meshes, Debug Draw](https://jendrikillner.bitbucket.io/post/graphics-programming-weekly-issue-10/)
+- [Destiny's Multi-threaded Rendering Architecture](http://advances.realtimerendering.com/destiny/gdc_2015/Tatarchuk_GDC_2015__Destiny_Renderer_web.pdf)
+- [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
+- [How Unreal Renders a Frame](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
+- [WebGL Path Tracing](http://madebyevan.com/webgl-path-tracing/)
 
 OpenGL/D3d/Vulkan
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
@@ -204,6 +228,7 @@ OpenGL/D3d/Vulkan
 - [30 Minute Intro](https://renderdoc.org/vulkan-in-30-minutes.html)
 - [Vulkan Tutorial](https://vulkan-tutorial.com/)
 - [GLSL Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
+- [NVIDIA GPU Threading / Inefficient Design](https://twitter.com/rygorous/status/921529471169019904)
 
 Languages/Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -234,6 +259,9 @@ Modern C++
 - [Functional Programming in C++](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
 - [Low-Latency C++](https://github.com/CppCon/CppCon2017/blob/master/Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf)
 - [Compile-Time String Hashing](https://handmade.network/forums/t/1507-compile_time_string_hashing_with_c++_constexpr_vs._your_own_preprocessor#13212)
+- [Stroustrup Learning and Teaching Modern C++](https://www.youtube.com/watch?v=fX2W3nNjJIo)
+- [C++ Tips of the Week](https://abseil.io/tips/)
+- [Defer in C++11](http://www.gingerbill.org/article/defer-in-cpp.html)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -296,6 +324,8 @@ Low-Level: Memory, Assembly, CPUs
 - [Micro-controllers with Rust](https://japaric.github.io/discovery/)
 - [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
 - [Documentation for the RISC-V BOOM CPU](https://github.com/ccelio/riscv-boom-doc)
+- [Disabling IME](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
+- [UEFI Programming](http://x86asm.net/articles/uefi-programming-first-steps/)
 
 Slightly Less Low-Level: OSes, Tools, Optimization
 - [Using Val/call/cachegrind](http://c.learncodethehardway.org/book/ex41.html)
@@ -309,12 +339,15 @@ Slightly Less Low-Level: OSes, Tools, Optimization
 - [Simple Heap Allocator](https://github.com/CCareaga/heap_allocator#shmall---simple-heap-memory-allocator)
 - [What if Main is not a Function?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 - [Are Jump Tables Always Fastest?](http://www.cipht.net/2017/10/03/are-jump-tables-always-fastest.html)
+- [Keyboard Latency](https://danluu.com/keyboard-latency/)
+- [ripgrep Benchmarks](http://blog.burntsushi.net/ripgrep/)
 
 More Low-Level: Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
 - [Computer Systems: a Programmer's Perspective - Textbook](http://www.csapp.cs.cmu.edu/)
 - [Building an 8-bit Breadboard Computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 - [Making Logic Gates from Transistors](https://www.youtube.com/watch?v=sTu3LwpF6XI)
+- [Inseparable from Magic - Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4)
 
 Technical History &amp; Stories
 - [The 640K Barrier](http://www.filfre.net/2017/04/the-640-k-barrier/#rf1-2788)
@@ -327,6 +360,8 @@ Technical History &amp; Stories
 - [Flash Games Postmortem](https://www.youtube.com/watch?v=65crLKNQR0E)
 - [The Ultimate Garbage Collector](https://groups.google.com/forum/message/raw?msg=comp.lang.ada/E9bNCvDQ12k/1tezW24ZxdAJ)
 - [The Case of the 500-Mile Email](https://www.ibiblio.org/harris/500milemail.html)
+- [LAND OF LISP](http://landoflisp.com/)
+- [Inside the Xerox Alto's Display](http://www.righto.com/2017/10/inside-vintage-xerox-altos-display-tiny.html)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -338,6 +373,10 @@ Windows
 - [OpenGL PixelFormat takes forever](https://hero.handmade.network/forums/code-discussion/t/2503-%5Bday_235%5D_opengls_pixel_format_takes_a_long_time#13068)
 - [D3D Rendering Setup Example](https://git.handmade.network/snippets/19)
 - [Signing a Windows EXE](https://stackoverflow.com/questions/252226/signing-a-windows-exe-file)
+- [Avoiding the Visual C++ Runtime](http://www.drdobbs.com/avoiding-the-visual-c-runtime-library/184416623)
+- [Everything you ever wanted to know about DLLs](https://www.youtube.com/watch?v=JPQWQfDhICA)
+- [Reclaim Windows 10](https://gist.github.com/alirobe/7f3b34ad89a159e6daa1#file-reclaimwindows10-ps1)
+- [Using/Avoiding the Windows Debug Heap](https://ofekshilon.com/2014/09/20/accelerating-debug-runs-part-1-_no_debug_heap-2/)
 
 Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
@@ -356,6 +395,9 @@ Web Dev
 - [The Road to Learning React](https://www.robinwieruch.de/the-road-to-learn-react/)
 - [Backend Programming in C](https://www.youtube.com/watch?v=duAri1OytqY)
 - [Optimizing Web Servers (nginx) for High Throughput and Low Latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+- [WebAudio Modem](https://martinmelhus.com/web-audio-modem/)
+- [Web | C++](https://www.youtube.com/watch?v=J4_pbat8Urg)
+- [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 HTML
 - [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -405,3 +447,4 @@ Misc.
 Humor
 - [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
 - [The Evolution of a Programmer](https://handmade.network/forums/career-advice/t/2610-the_evolution_of_a_programmer)
+- [Reasons to Learn Programming](https://i.redd.it/vzqfzsp4i7tz.jpg)
