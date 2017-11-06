@@ -1,7 +1,7 @@
 # Bookmarks
 Useful and interesting links accumulated from around the web.  
 
-This is by no means an exaustive list of everything interesting I've come across; just those I threw in a CS bookmarks folder in case I couldn't find them again in the future. I've read just about all of these articles, but it's only moderately curated. For more, check out another of the many accumulation lists on GitHub.  
+This is by no means an exhaustive list of everything interesting I've come across; just those I bookmarked in case I couldn't find them again in the future. I've read just about all of these articles, but it's not strictly curated. For more, check out another one of the many lists on GitHub.  
 
 Other Lists
 - [Recommended Papers - Fabian Giesen](https://fgiesen.wordpress.com/2017/08/12/papers-i-like-part-1/)
@@ -11,6 +11,7 @@ Other Lists
 - [97 things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
 - [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [List of Awesome Language Style Guidelines](https://github.com/Kristories/awesome-guidelines/blob/master/README.md)
 
 Blogs
 - [Red Blob Games](http://www.redblobgames.com/)
@@ -21,28 +22,17 @@ Blogs
 - [CS Industry, Networking, etc. - Julia Evans](https://jvns.ca/)
 - [Home Automation](https://www.superhouse.tv/episodes/)
 
-Technical Explanations/Misc. 
-- [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
-- [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
-- [Testing all Floats](https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/)
-- [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
-- [What Happens When You Type google.com...](https://github.com/alex/what-happens-when?referrer=google.com)
-- [Building a Computer to play Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
-- [It's Time to Kill the Web (as an applications platform)](https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89)
-- [Things You Should Never Do - Rewrite](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
-
 Code Snippets
 - [Branches UTF8 Decode](https://github.com/skeeto/branchless-utf8/blob/master/utf8.h)
 - [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
 - [Normalized Byte Multiplication](https://pastebin.com/WsiW2BCz)
 - [Xinput (Odin)](https://github.com/ThisDrunkDane/odin-xinput/blob/master/xinput.odin)
 
-Programming Methodology/Philosophy
+Programming Advice
 - [Compression-oriented Programming](http://mollyrocket.com/casey/stream_0019.html)
 - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1)
 - [How do You Make Programmers Work 60-80 Hour Weeks?](http://brianknapp.me/programmer-60-80-hour-weeks/)
 - [What Are Your Unpopular Opinions on Software Development?](https://www.quora.com/What-unpopular-opinions-do-you-have-about-software-development)
-- [List of Awesome Language Style Guidelines](https://github.com/Kristories/awesome-guidelines/blob/master/README.md)
 - [NASA Development Philosophy](https://www.twitch.tv/videos/159126334)
 - [Design Patterns &amp; Refactoring](https://sourcemaking.com/)
 - [Writing Small Programs in C](https://www.youtube.com/watch?v=eAhWIO1Ra6M)
@@ -57,6 +47,8 @@ Programming Methodology/Philosophy
 - [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/)
 - [How to do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 - [Making Wrong Code Look Wrong](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
+- [Recommendations for OS Projects](https://twitter.com/sortiecat/status/901907267934724101)
+- [Things You Should Never Do - Rewrite](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -91,11 +83,13 @@ Game Publishing
 - [Steam FAQ](http://www.steampowered.com/steamworks/FAQ.php)
 - [Ultimate Legal Guide](https://www.reddit.com/r/gamedev/comments/5pxldd/ultimate_as_promised_guide_to_legal_needs_and/)
 
-Startups
+Business
 - [YC's Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 - [Setting my Bootstrapped SaaS Business](https://www.indiehackers.com/@tylertringas/selling-my-bootstrapped-saas-business-26c8406e1d)
+- [Surviving Your First Year](https://www.backblaze.com/blog/startup-stages-surviving-your-first-year/)
+- [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
 
-Online Tools
+Tools
 - [Many-language Web IDE](http://ideone.com/)
 - [Color Theming](https://color.adobe.com/)
 - [Semantic Versioning](http://semver.org/#why-use-semantic-versioning)
@@ -110,6 +104,8 @@ Online Tools
 - [Godbolt Compiler Explorer (View ASM Output)](https://godbolt.org/)
 - [C++ Development with VS Code](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
 - [DevDocs.io](https://devdocs.io/)
+- [Excel](https://www.youtube.com/watch?v=3ciH34Qexn4)
+- [4coder Alpha](https://4coder.itch.io/4coder)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -123,6 +119,7 @@ Math
 - [Hacking Quaternions - nlerp + spline](http://number-none.com/product/Hacking%20Quaternions/)
 - [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
+- [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -141,6 +138,8 @@ Algorithms
 - [Esoteric Data Structures and Where to Find Them](https://www.youtube.com/watch?v=-8UZhDjgeZU)
 - [Concurrency is not Parallelism](https://www.youtube.com/watch?time_continue=1495&v=cN_DpYBzKso)
 - [Dynamic Programming: First Principles](http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles)
+- [Quacee Quantum Circuit Simulation](https://github.com/kat31416/quacee/blob/master/papers/QuaceeV1dot1_Paper.pdf)
+- [Fantastic Algorithms and Where to Find Them](https://www.youtube.com/watch?v=YA-nB2wjVcI)
 
 AI
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -151,6 +150,7 @@ AI
 - [Example-Based Image Synthesis - PixelNN](http://www.cs.cmu.edu/~aayushb/pixelNN/)
 - [Is AI Riding a One-Trick Pony? (Backprop)](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)
 - [Machine Learning - Spotify Discover Weekly](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+- [3Blue1Brown Deep Learning Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -209,6 +209,7 @@ Graphics
 - [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
 - [How Unreal Renders a Frame](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
 - [WebGL Path Tracing](http://madebyevan.com/webgl-path-tracing/)
+- [What Makes a Good HDRI](http://adaptivesamples.com/2016/02/23/what-makes-good-hdri/)
 
 OpenGL/D3d/Vulkan
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
@@ -229,27 +230,33 @@ OpenGL/D3d/Vulkan
 - [Vulkan Tutorial](https://vulkan-tutorial.com/)
 - [GLSL Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
 - [NVIDIA GPU Threading / Inefficient Design](https://twitter.com/rygorous/status/921529471169019904)
+- [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
+- [OpenGL Instancing](http://www.informit.com/articles/article.aspx?p=2033340&seqNum=5)
 
-Languages/Compilers
+Language/Compiler Theory
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
 - [Language Theory for the Working Programmer](https://www.leafac.com/prose/programming-language-theory-explained-for-the-working-programmer--principles-of-programming-languages/)
-- [Rust for Game Dev](https://www.reddit.com/r/rust/comments/1gs93k/rust_for_game_development/)
-- [Taming Undefined Behavior in LLVM](https://blog.regehr.org/archives/1496)
-- [Building a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
-- [LLVM Tutorial](http://llvm.org/docs/tutorial/)
-- [SBrain](https://silverwingedseraph.net/programming/2017/04/16/sbrain-an-extension-of-brainfzck.html)
 - [Awesome Compilers List](https://github.com/aalhour/awesome-compilers)
 - [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) [not exactly languages, but theory]
-- [Embedding LuaJIT](https://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/)
-- [Auto-vectorization in GCC](https://locklessinc.com/articles/vectorize/)
+- [Probabilistic Context-Free Grammar](https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar)
 
-C/C++
-- [C Reflection with Clang](https://www.reddit.com/r/gamedev/comments/3lh0ba/using_clang_to_generate_c_reflection_data/)
+Languages/Compilers
+- [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
+- [Taming Undefined Behavior in LLVM](https://blog.regehr.org/archives/1496)
+- [LLVM Tutorial](http://llvm.org/docs/tutorial/)
+- [Building a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+- [SBrain](https://silverwingedseraph.net/programming/2017/04/16/sbrain-an-extension-of-brainfzck.html)
+- [Embedding LuaJIT](https://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/)
 - [Using libclang to Parse C++](http://shaharmike.com/cpp/libclang/)
 - [Building Useful ClangTools](https://www.youtube.com/watch?v=E6i8jmiy8MY)
+- [Compiling C/C++ To WebASM](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm)
+
+C
 - [Generics in C](https://stackoverflow.com/questions/16522341/pseudo-generics-in-c)
 - [C Preprocessor Magic](http://jhnet.co.uk/articles/cpp_magic)
 - [GCC Function Names](https://gcc.gnu.org/onlinedocs/gcc/Function-Names.html)
+- [Auto-vectorization in GCC](https://locklessinc.com/articles/vectorize/)
+- [C Reflection with Clang](https://www.reddit.com/r/gamedev/comments/3lh0ba/using_clang_to_generate_c_reflection_data/)
 
 Modern C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -262,6 +269,7 @@ Modern C++
 - [Stroustrup Learning and Teaching Modern C++](https://www.youtube.com/watch?v=fX2W3nNjJIo)
 - [C++ Tips of the Week](https://abseil.io/tips/)
 - [Defer in C++11](http://www.gingerbill.org/article/defer-in-cpp.html)
+- [The C++ Bestiary](http://videocortex.io/2017/Bestiary/)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -306,48 +314,61 @@ Voxels
 - [Vertex Positions to Packed Element Arrays](http://blog.blackhc.net/2009/07/from-vertex-positions-to-packed-element-arrays/)
 - [Compact Cube Meshes &amp; Unity](https://yave.handmade.network/blogs/p/2629-compact_cube_meshes,_and_compact_cube_meshes_in_unity)
 - [Rendering Without Vertex Data](https://www.opengl.org/discussion_boards/showthread.php/168316-Rendering-without-vertex-data-%28gl_VertexID-only%29)
-- [Help Learning ASM/CPUs](https://handmade.network/forums/t/2630-help_learning_asm_and_understanding_the_cpu#13166)
+- [VBOs or Geometry Shaders? (Or Instancing?)](https://gamedev.stackexchange.com/questions/17171/for-voxel-rendering-what-is-more-efficient-pre-made-vbo-or-a-geometry-shader)
+- [Voxel Instancing](http://procworld.blogspot.com/2013/09/voxel-instancing.html)
 
-Low-Level: Memory, Assembly, CPUs
-- [Intro to Assembly](http://www.swansontec.com/sprogram.html)
-- [Programming with 1s and 0s](http://www.hanshq.net/ones-and-zeros.html) [machine code]
-- [Implementing/Debugging malloc](https://danluu.com/malloc-tutorial/) 
-- [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README.md)
-- [AVX512 Benchmarks](https://developer.numscale.com/bsimd/benchmarks/)
-- [Agner's CPU Blog - Ryzen](http://agner.org/optimize/blog/read.php?i=838)
-- [jemalloc](https://www.facebook.com/notes/facebook-engineering/scalable-memory-allocation-using-jemalloc/480222803919)
-- [rpmalloc](https://github.com/rampantpixels/rpmalloc)
-- [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
-- [Generating Executable Files from Scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
-- [ASM Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
-- [RDTSC vs. QueryPerformanceCounter](https://hero.handmade.network/forums/code-discussion/t/57-__rdtsc,_queryperformancecounter,_and_quadpart)
-- [Micro-controllers with Rust](https://japaric.github.io/discovery/)
-- [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
-- [Documentation for the RISC-V BOOM CPU](https://github.com/ccelio/riscv-boom-doc)
-- [Disabling IME](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
-- [UEFI Programming](http://x86asm.net/articles/uefi-programming-first-steps/)
-
-Slightly Less Low-Level: OSes, Tools, Optimization
-- [Using Val/call/cachegrind](http://c.learncodethehardway.org/book/ex41.html)
-- [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
-- [Linux Program Startup](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
-- [Why is this C++ Faster than Hand-Written ASM?](https://stackoverflow.com/questions/40354978/why-is-this-c-code-faster-than-my-hand-written-assembly-for-testing-the-collat)
-- [Optimization Resources](http://agner.org/optimize/)
-- [Don't Use Inline ASM](https://gcc.gnu.org/wiki/DontUseInlineAsm)
-- [Handmade XCB Platform Layer](https://github.com/nxsy/xcb_handmade/blob/master/src/xcb_handmade.cpp#L1400)
-- [Recompiling NES Games with LLVM](http://andrewkelley.me/post/jamulator.html)
-- [Simple Heap Allocator](https://github.com/CCareaga/heap_allocator#shmall---simple-heap-memory-allocator)
-- [What if Main is not a Function?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
-- [Are Jump Tables Always Fastest?](http://www.cipht.net/2017/10/03/are-jump-tables-always-fastest.html)
-- [Keyboard Latency](https://danluu.com/keyboard-latency/)
-- [ripgrep Benchmarks](http://blog.burntsushi.net/ripgrep/)
-
-More Low-Level: Computer Engineering/Design
+Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
 - [Computer Systems: a Programmer's Perspective - Textbook](http://www.csapp.cs.cmu.edu/)
 - [Building an 8-bit Breadboard Computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 - [Making Logic Gates from Transistors](https://www.youtube.com/watch?v=sTu3LwpF6XI)
 - [Inseparable from Magic - Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4)
+- [Building a Computer to play Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
+
+Memory
+- [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+- [jemalloc](https://www.facebook.com/notes/facebook-engineering/scalable-memory-allocation-using-jemalloc/480222803919)
+- [rpmalloc](https://github.com/rampantpixels/rpmalloc)
+- [wb_alloc - STB-Style Allocators](https://github.com/WilliamBundy/wb_alloc)
+- [Implementing/Debugging malloc](https://danluu.com/malloc-tutorial/) 
+
+CPUs, Assembly
+- [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
+- [Intro to Assembly](http://www.swansontec.com/sprogram.html)
+- [Programming with 1s and 0s](http://www.hanshq.net/ones-and-zeros.html) [machine code]
+- [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README.md)
+- [AVX512 Benchmarks](https://developer.numscale.com/bsimd/benchmarks/)
+- [Agner's CPU Blog - Ryzen](http://agner.org/optimize/blog/read.php?i=838)
+- [Generating Executable Files from Scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
+- [ASM Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
+- [Micro-controllers with Rust](https://japaric.github.io/discovery/)
+- [Documentation for the RISC-V BOOM CPU](https://github.com/ccelio/riscv-boom-doc)
+- [Disabling IME](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
+- [UEFI Programming](http://x86asm.net/articles/uefi-programming-first-steps/)
+- [Help Learning ASM/CPUs](https://handmade.network/forums/t/2630-help_learning_asm_and_understanding_the_cpu#13166)
+
+Optimization &amp; Testing
+- [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
+- [RDTSC vs. QueryPerformanceCounter](https://hero.handmade.network/forums/code-discussion/t/57-__rdtsc,_queryperformancecounter,_and_quadpart)
+- [Using Val/call/cachegrind](http://c.learncodethehardway.org/book/ex41.html)
+- [Why is this C++ Faster than Hand-Written ASM?](https://stackoverflow.com/questions/40354978/why-is-this-c-code-faster-than-my-hand-written-assembly-for-testing-the-collat)
+- [Optimization Resources](http://agner.org/optimize/)
+- [Don't Use Inline ASM](https://gcc.gnu.org/wiki/DontUseInlineAsm)
+- [Are Jump Tables Always Fastest?](http://www.cipht.net/2017/10/03/are-jump-tables-always-fastest.html)
+- [ripgrep Benchmarks](http://blog.burntsushi.net/ripgrep/)
+- [Going Nowhere Faster](https://www.youtube.com/watch?v=2EWejmkKlxs)
+- [Testing all Floats](https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/)
+- [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
+
+Operating Systems
+- [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+- [Linux Program Startup](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
+- [Handmade XCB Platform Layer](https://github.com/nxsy/xcb_handmade/blob/master/src/xcb_handmade.cpp#L1400)
+- [Recompiling NES Games with LLVM](http://andrewkelley.me/post/jamulator.html)
+- [Simple Heap Allocator](https://github.com/CCareaga/heap_allocator#shmall---simple-heap-memory-allocator)
+- [What if Main is not a Function?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
+- [Keyboard Latency](https://danluu.com/keyboard-latency/)
+- [Bare Bones OS Tutorial](http://wiki.osdev.org/Bare_Bones)
 
 Technical History &amp; Stories
 - [The 640K Barrier](http://www.filfre.net/2017/04/the-640-k-barrier/#rf1-2788)
@@ -377,10 +398,13 @@ Windows
 - [Everything you ever wanted to know about DLLs](https://www.youtube.com/watch?v=JPQWQfDhICA)
 - [Reclaim Windows 10](https://gist.github.com/alirobe/7f3b34ad89a159e6daa1#file-reclaimwindows10-ps1)
 - [Using/Avoiding the Windows Debug Heap](https://ofekshilon.com/2014/09/20/accelerating-debug-runs-part-1-_no_debug_heap-2/)
+- [Behind the Scenes of Desktop Bridge](https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-behind-the-scenes)
 
 Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
 - [30 Interesting Shell Commands](https://www.lopezferrando.com/30-interesting-shell-commands/)
+- [Capture the output of a child process in C](http://www.microhowto.info/howto/capture_the_output_of_a_child_process_in_c.html)
+- [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 
 Async
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -398,6 +422,9 @@ Web Dev
 - [WebAudio Modem](https://martinmelhus.com/web-audio-modem/)
 - [Web | C++](https://www.youtube.com/watch?v=J4_pbat8Urg)
 - [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [Against an Increasing User-Hostile Web](https://www.neustadt.fr/essays/against-a-user-hostile-web/)
+- [What Happens When You Type google.com...](https://github.com/alex/what-happens-when?referrer=google.com)
+- [It's Time to Kill the Web (as an applications platform)](https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89)
 
 HTML
 - [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -448,3 +475,4 @@ Humor
 - [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
 - [The Evolution of a Programmer](https://handmade.network/forums/career-advice/t/2610-the_evolution_of_a_programmer)
 - [Reasons to Learn Programming](https://i.redd.it/vzqfzsp4i7tz.jpg)
+- [If the World was Created by a Programmer](https://i.imgur.com/PeryFXB.jpg)
