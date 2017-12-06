@@ -49,6 +49,7 @@ Programming Advice
 - [Making Wrong Code Look Wrong](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
 - [Recommendations for OS Projects](https://twitter.com/sortiecat/status/901907267934724101)
 - [Things You Should Never Do - Rewrite](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+- [McSoftware](https://hackernoon.com/mcsoftware-b33888f5f7c)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -106,6 +107,9 @@ Tools
 - [DevDocs.io](https://devdocs.io/)
 - [Excel](https://www.youtube.com/watch?v=3ciH34Qexn4)
 - [4coder Alpha](https://4coder.itch.io/4coder)
+- [Alternatives to PPT](https://news.ycombinator.com/item?id=15575363)
+- [VMF Sketch](http://williambundy.xyz/vmfsketch.html)
+- [IBM Plex Font](https://ibm.github.io/type/)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -205,33 +209,42 @@ Graphics
 - [Rendering Equation](https://en.wikipedia.org/wiki/Rendering_equation)
 - [Real-Time Rendering for Artists](https://jesshiderue4.wordpress.com/real-time-rendering-an-overview-for-artists/)
 - [Graphics Programming Weekly 10 - Real-Time for Artists, Design Patterns, Physical Cameras, Compact Cube Meshes, Debug Draw](https://jendrikillner.bitbucket.io/post/graphics-programming-weekly-issue-10/)
+- [Compact Cube Meshes](https://yave.handmade.network/blogs/p/2629-compact_cube_meshes,_and_compact_cube_meshes_in_unity#13159)
 - [Destiny's Multi-threaded Rendering Architecture](http://advances.realtimerendering.com/destiny/gdc_2015/Tatarchuk_GDC_2015__Destiny_Renderer_web.pdf)
 - [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
 - [How Unreal Renders a Frame](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
 - [WebGL Path Tracing](http://madebyevan.com/webgl-path-tracing/)
 - [What Makes a Good HDRI](http://adaptivesamples.com/2016/02/23/what-makes-good-hdri/)
+- [Skeletal Animation](https://www.khronos.org/opengl/wiki/Skeletal_Animation)
+- [Skeletal Animation Tutorial](http://ogldev.atspace.co.uk/www/tutorial38/tutorial38.html)
 
-OpenGL/D3d/Vulkan
+GPUs &amp; APIs
+- [RenderDoc Debugger](https://renderdoc.org/)
+- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
+- [Setting up D3D11](https://git.handmade.network/snippets/19)
+- [Vulkan in 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
+- [Vulkan Tutorial](https://vulkan-tutorial.com/)
+- [NVIDIA GPU Threading / Inefficient Design](https://twitter.com/rygorous/status/921529471169019904)
+- [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
+
+OpenGL
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
 - [SDL Setup](http://headerphile.com/sdl2/opengl-part-1-sdl-opengl-awesome/)
 - [SDL API](https://wiki.libsdl.org/CategoryVideo)
 - [Basic Shader Examples](http://www.lighthouse3d.com/tutorials/glsl-12-tutorial/shader-examples/)
 - [What State is Stored in a VAO?](http://gamedev.stackexchange.com/questions/99236/what-state-is-stored-in-an-opengl-vertex-array-object-vao-and-how-do-i-use-the)
-- [Skeletal Animation](https://www.khronos.org/opengl/wiki/Skeletal_Animation)
-- [Skeletal Animation Tutorial](http://ogldev.atspace.co.uk/www/tutorial38/tutorial38.html)
-- [RenderDoc Debugger](https://renderdoc.org/)
 - [Using OpenGL Like Vulkan](https://developer.nvidia.com/opengl-vulkan)
 - [Modern OpenGL Text Rendering](https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_Text_Rendering_02)
 - [Array Textures](https://www.khronos.org/opengl/wiki/Array_Texture)
 - [Single-Pass Wireframe Rendering](http://strattonbrazil.blogspot.com/2011/09/single-pass-wireframe-rendering_10.html)
-- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
-- [Setting up D3D11](https://git.handmade.network/snippets/19)
-- [30 Minute Intro](https://renderdoc.org/vulkan-in-30-minutes.html)
-- [Vulkan Tutorial](https://vulkan-tutorial.com/)
-- [GLSL Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
-- [NVIDIA GPU Threading / Inefficient Design](https://twitter.com/rygorous/status/921529471169019904)
-- [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
 - [OpenGL Instancing](http://www.informit.com/articles/article.aspx?p=2033340&seqNum=5)
+- [OpenGL Lighting and More](https://www.tomdalling.com/blog/modern-opengl/08-even-more-lighting-directional-lights-spotlights-multiple-lights/)
+
+GLSL
+- [Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
+- [Lighting](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Diffuse_Reflection)
+- [Specular Highlights](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Smooth_Specular_Highlights)
+- [Noise](https://stackoverflow.com/questions/4200224/random-noise-functions-for-glsl)
 
 Language/Compiler Theory
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -239,6 +252,7 @@ Language/Compiler Theory
 - [Awesome Compilers List](https://github.com/aalhour/awesome-compilers)
 - [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) [not exactly languages, but theory]
 - [Probabilistic Context-Free Grammar](https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar)
+- [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
 
 Languages/Compilers
 - [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
@@ -250,6 +264,8 @@ Languages/Compilers
 - [Using libclang to Parse C++](http://shaharmike.com/cpp/libclang/)
 - [Building Useful ClangTools](https://www.youtube.com/watch?v=E6i8jmiy8MY)
 - [Compiling C/C++ To WebASM](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm)
+- [Odin Import System](https://odin.handmade.network/blogs/p/2706-odin_changes,_improvements,_and_the_future)
+- [How Media Molecule Does Serialization](https://yave.handmade.network/blogs/p/2723-how_media_molecule_does_serialization#13476)
 
 C
 - [Generics in C](https://stackoverflow.com/questions/16522341/pseudo-generics-in-c)
@@ -270,6 +286,7 @@ Modern C++
 - [C++ Tips of the Week](https://abseil.io/tips/)
 - [Defer in C++11](http://www.gingerbill.org/article/defer-in-cpp.html)
 - [The C++ Bestiary](http://videocortex.io/2017/Bestiary/)
+- [Rethinking Exceptions](https://www.youtube.com/watch?v=OkgvqjJzH_Y)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -383,6 +400,8 @@ Technical History &amp; Stories
 - [The Case of the 500-Mile Email](https://www.ibiblio.org/harris/500milemail.html)
 - [LAND OF LISP](http://landoflisp.com/)
 - [Inside the Xerox Alto's Display](http://www.righto.com/2017/10/inside-vintage-xerox-altos-display-tiny.html)
+- [Visualizing the Sound of Dial-Up](http://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html?m=1)
+- [Quake on an Oscilloscope](http://www.lofibucket.com/articles/oscilloscope_quake.html)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -399,6 +418,8 @@ Windows
 - [Reclaim Windows 10](https://gist.github.com/alirobe/7f3b34ad89a159e6daa1#file-reclaimwindows10-ps1)
 - [Using/Avoiding the Windows Debug Heap](https://ofekshilon.com/2014/09/20/accelerating-debug-runs-part-1-_no_debug_heap-2/)
 - [Behind the Scenes of Desktop Bridge](https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-behind-the-scenes)
+- [Switching a Window to Fullscreen and Back](https://blogs.msdn.microsoft.com/oldnewthing/20100412-00/?p=14353)
+- [D's Windows Platform Layer](http://svn.dsource.org/projects/bindings/trunk/win32/mmsystem.d)
 
 Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
