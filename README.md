@@ -49,7 +49,10 @@ Programming Advice
 - [Making Wrong Code Look Wrong](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
 - [Recommendations for OS Projects](https://twitter.com/sortiecat/status/901907267934724101)
 - [Things You Should Never Do - Rewrite](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
-- [McSoftware](https://hackernoon.com/mcsoftware-b33888f5f7c)
+- [Data Oriented Design Slides](http://www.dice.se/wp-content/uploads/2014/12/Introduction_to_Data-Oriented_Design.pdf)
+- [UTF8 Everywhere](http://utf8everywhere.org/)
+- [Stanford Paper Reading List 1990](http://mcvoy.com/lm/papers/stanford.txt)
+- [Building Software Capital](https://www.youtube.com/watch?v=ta3S8CRN2TM)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -73,6 +76,10 @@ Game Design &amp; Indie Development
 - [Factorio Modding API](http://lua-api.factorio.com/latest/)
 - [Indie Polish](https://www.youtube.com/watch?v=fYBvYWf_dTg)
 - [Advice on Designing Maps/Levels](https://handmade.network/forums/t/2607-asking_for_advice_about_best_approach_to_make_maps_or_design_levels_in_general...#13088)
+- [30 Things I Hate About Your Game Pitch](https://www.youtube.com/watch?v=4LTtr45y7P0&feature=youtu.be)
+- [Fireside Chat with Jon Blow](https://www.youtube.com/watch?v=wQJ8iPSO0jE)
+- [Imirt Inspire Interview: Jon Blow](https://www.youtube.com/watch?v=5YnTSrIFUxg)
+- [Truth in Game Design](https://www.youtube.com/watch?v=C5FUtrmO7gI)
 
 Game Publishing
 - [How do I Release my Game?](https://www.reddit.com/r/gamedev/comments/64pxku/how_do_i_release_my_game/)
@@ -89,6 +96,7 @@ Business
 - [Setting my Bootstrapped SaaS Business](https://www.indiehackers.com/@tylertringas/selling-my-bootstrapped-saas-business-26c8406e1d)
 - [Surviving Your First Year](https://www.backblaze.com/blog/startup-stages-surviving-your-first-year/)
 - [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
+- [Support Groups for Solo Founders](https://news.ycombinator.com/item?id=15732087)
 
 Tools
 - [Many-language Web IDE](http://ideone.com/)
@@ -110,6 +118,8 @@ Tools
 - [Alternatives to PPT](https://news.ycombinator.com/item?id=15575363)
 - [VMF Sketch](http://williambundy.xyz/vmfsketch.html)
 - [IBM Plex Font](https://ibm.github.io/type/)
+- [Atom Teletype](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
+- [Matrix Calculus](http://www.matrixcalculus.org/)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -124,6 +134,11 @@ Math
 - [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
 - [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
+- [Geometric Mean](https://en.wikipedia.org/wiki/Geometric_mean#Properties)
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [Coq Theorem Prover](https://www.stephanboyer.com/post/134/my-unusual-hobby)
+- [PCG - A Family of Better RNGs](https://www.youtube.com/watch?v=45Oet5qjlms)
+- [PCG Website](http://www.pcg-random.org/)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -144,6 +159,9 @@ Algorithms
 - [Dynamic Programming: First Principles](http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles)
 - [Quacee Quantum Circuit Simulation](https://github.com/kat31416/quacee/blob/master/papers/QuaceeV1dot1_Paper.pdf)
 - [Fantastic Algorithms and Where to Find Them](https://www.youtube.com/watch?v=YA-nB2wjVcI)
+- [Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf)
+- [An Interesting Lock-Free Queue](https://www.youtube.com/watch?v=HP2InVqgBFM)
+- [Designing a Lock-Free, Wait-Free Hash Map](https://shlomisteinberg.com/2015/09/28/designing-a-lock-free-wait-free-hash-map/)
 
 AI
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -155,6 +173,8 @@ AI
 - [Is AI Riding a One-Trick Pony? (Backprop)](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)
 - [Machine Learning - Spotify Discover Weekly](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 - [3Blue1Brown Deep Learning Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
+- [Tensorflow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -217,6 +237,10 @@ Graphics
 - [What Makes a Good HDRI](http://adaptivesamples.com/2016/02/23/what-makes-good-hdri/)
 - [Skeletal Animation](https://www.khronos.org/opengl/wiki/Skeletal_Animation)
 - [Skeletal Animation Tutorial](http://ogldev.atspace.co.uk/www/tutorial38/tutorial38.html)
+- [Shadow Mapping in Monter](https://monter.handmade.network/blogs/p/2729-monter_blog_1:_shadow_mappiing)
+- [Order-Independent Transparency](https://en.wikipedia.org/wiki/Order-independent_transparency)
+- [Rendering Vector Art on the GPU](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch25.html)
+- [The Poor Man's 3D Camera](https://deceiver.handmade.network/blogs/p/2759-the_poor_mans_3d_camera)
 
 GPUs &amp; APIs
 - [RenderDoc Debugger](https://renderdoc.org/)
@@ -239,6 +263,7 @@ OpenGL
 - [Single-Pass Wireframe Rendering](http://strattonbrazil.blogspot.com/2011/09/single-pass-wireframe-rendering_10.html)
 - [OpenGL Instancing](http://www.informit.com/articles/article.aspx?p=2033340&seqNum=5)
 - [OpenGL Lighting and More](https://www.tomdalling.com/blog/modern-opengl/08-even-more-lighting-directional-lights-spotlights-multiple-lights/)
+- [Check if an Object is Outside the Clipping Volume](https://stackoverflow.com/questions/6301085/how-to-check-if-an-object-lies-outside-the-clipping-volume-in-opengl)
 
 GLSL
 - [Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
@@ -253,6 +278,7 @@ Language/Compiler Theory
 - [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) [not exactly languages, but theory]
 - [Probabilistic Context-Free Grammar](https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar)
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+- [Using Types Effectively](https://www.youtube.com/watch?v=ojZbFIQSdl8)
 
 Languages/Compilers
 - [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
@@ -266,6 +292,9 @@ Languages/Compilers
 - [Compiling C/C++ To WebASM](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm)
 - [Odin Import System](https://odin.handmade.network/blogs/p/2706-odin_changes,_improvements,_and_the_future)
 - [How Media Molecule Does Serialization](https://yave.handmade.network/blogs/p/2723-how_media_molecule_does_serialization#13476)
+- [There Will Be Build Systems](https://www.youtube.com/watch?v=7THzO-D0ta4)
+- [Lisp in 200 Lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
+- [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 
 C
 - [Generics in C](https://stackoverflow.com/questions/16522341/pseudo-generics-in-c)
@@ -287,6 +316,12 @@ Modern C++
 - [Defer in C++11](http://www.gingerbill.org/article/defer-in-cpp.html)
 - [The C++ Bestiary](http://videocortex.io/2017/Bestiary/)
 - [Rethinking Exceptions](https://www.youtube.com/watch?v=OkgvqjJzH_Y)
+- [Curiously Recurring C++ Bugs at Facebook](https://www.youtube.com/watch?v=lkgszkPnV8g)
+- [Low-Latency C++ for Fun and Profit](https://www.youtube.com/watch?v=BxfT9fiUsZ4)
+- [C++ Language Server](https://github.com/jacobdufault/cquery/#cquery)
+- [Regular Expressions Redefined in C++](https://www.youtube.com/watch?v=3WGsN_Hp9QY)
+- [Metaclasses Proposal Summary](http://www.fluentcpp.com/2017/08/04/metaclasses-cpp-summary/)
+- [C++17](https://www.viva64.com/en/b/0533/)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -309,6 +344,7 @@ Libraries
 - [Debug Menu for Games](https://github.com/Srekel/the-debuginator/)
 - [C++ Memory Profiler](https://github.com/milostosic/MTuner)
 - [TinyHeaders](https://github.com/RandyGaul/tinyheaders)
+- [ImWindow](https://github.com/thennequin/ImWindow)
 
 Voxels
 - [Rendering Huge Amounts of Voxels](http://jojendersie.de/rendering-huge-amounts-of-voxels/)
@@ -402,6 +438,8 @@ Technical History &amp; Stories
 - [Inside the Xerox Alto's Display](http://www.righto.com/2017/10/inside-vintage-xerox-altos-display-tiny.html)
 - [Visualizing the Sound of Dial-Up](http://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html?m=1)
 - [Quake on an Oscilloscope](http://www.lofibucket.com/articles/oscilloscope_quake.html)
+- [IRC Necromancy](https://virtuallyfun.com/2017/11/18/irc-necromancy/)
+- [Why Does man print "gimme gimme gimme" at 00:30?](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -420,6 +458,7 @@ Windows
 - [Behind the Scenes of Desktop Bridge](https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-behind-the-scenes)
 - [Switching a Window to Fullscreen and Back](https://blogs.msdn.microsoft.com/oldnewthing/20100412-00/?p=14353)
 - [D's Windows Platform Layer](http://svn.dsource.org/projects/bindings/trunk/win32/mmsystem.d)
+- [Executable Compressor](http://www.un4seen.com/petite/)
 
 Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
@@ -475,6 +514,8 @@ Personal Development
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [Mock Interview - Shawn McGrath/Casey Muratori](https://www.youtube.com/watch?v=cfyWvJdsDRI)
 - [What Books have Made the Biggest Impact on your Mental Models?](https://news.ycombinator.com/item?id=15155833)
+- [McSoftware](https://hackernoon.com/mcsoftware-b33888f5f7c)
+- [AI Researcher Seeking Advice](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/)
 
 Blender Modeling &amp; Animation
 - [Sprites in Blender](http://www.gamefromscratch.com/post/2013/09/14/Creating-a-game-sprite-The-Blender-Camera.aspx)
@@ -491,9 +532,13 @@ Misc.
 - [Advanced Character Physics](http://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
 - [Doomsday Prepping for Less Crazy Folk](http://lcamtuf.coredump.cx/prep/)
 - [Thinkpad X62](https://geoff.greer.fm/2017/07/16/thinkpad-x62/)
+- [Magic: the Gathering is Turing Complete](https://www.toothycat.net/~hologram/Turing/index.html)
+- [Deceiver Game](https://github.com/etodd/deceiver/tree/master/src)
 
 Humor
 - [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
 - [The Evolution of a Programmer](https://handmade.network/forums/career-advice/t/2610-the_evolution_of_a_programmer)
 - [Reasons to Learn Programming](https://i.redd.it/vzqfzsp4i7tz.jpg)
 - [If the World was Created by a Programmer](https://i.imgur.com/PeryFXB.jpg)
+- [Lisp Cycles](https://xkcd.com/297/)
+- [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](https://james-iry.blogspot.com.uy/2009/05/brief-incomplete-and-mostly-wrong.html)
