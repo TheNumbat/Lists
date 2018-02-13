@@ -12,6 +12,7 @@ Other Lists
 - [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [List of Awesome Language Style Guidelines](https://github.com/Kristories/awesome-guidelines/blob/master/README.md)
+- [Game Dev Resources Thread](https://twitter.com/amzeratul/status/946768612404187136)
 
 Blogs
 - [Red Blob Games](http://www.redblobgames.com/)
@@ -55,6 +56,8 @@ Programming Advice
 - [Stanford Paper Reading List 1990](http://mcvoy.com/lm/papers/stanford.txt)
 - [Building Software Capital](https://www.youtube.com/watch?v=ta3S8CRN2TM)
 - [How to Write Your Own C++ Game Engine](http://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
+- [Don't Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
+- [Ideology](https://www.destroyallsoftware.com/talks/ideology)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -82,6 +85,7 @@ Game Design &amp; Indie Development
 - [Fireside Chat with Jon Blow](https://www.youtube.com/watch?v=wQJ8iPSO0jE)
 - [Imirt Inspire Interview: Jon Blow](https://www.youtube.com/watch?v=5YnTSrIFUxg)
 - [Truth in Game Design](https://www.youtube.com/watch?v=C5FUtrmO7gI)
+- [The Cost oF Games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
 
 Game Publishing
 - [How do I Release my Game?](https://www.reddit.com/r/gamedev/comments/64pxku/how_do_i_release_my_game/)
@@ -123,6 +127,9 @@ Tools
 - [Atom Teletype](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 - [Matrix Calculus](http://www.matrixcalculus.org/)
 - [Oh Shit, Git](http://ohshitgit.com/)
+- [Peekaboo](https://www.dropbox.com/s/ionox7ocgj8ndfx/peekaboo_09.exe?dl=0)
+- [Using ffmpeg](https://github.com/leandromoreira/ffmpeg-libav-tutorial/blob/master/README.md)
+- [Tools for Small Project Management](https://news.ycombinator.com/item?id=16322942)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -144,6 +151,9 @@ Math
 - [PCG Website](http://www.pcg-random.org/)
 - [How to Read Math](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 - [Modes, Medians, and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
+- [Tinymath](https://github.com/azmr/tinyheaders/blob/master/tinymath.h)
+- [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
+- [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -168,6 +178,10 @@ Algorithms
 - [An Interesting Lock-Free Queue](https://www.youtube.com/watch?v=HP2InVqgBFM)
 - [Designing a Lock-Free, Wait-Free Hash Map](https://shlomisteinberg.com/2015/09/28/designing-a-lock-free-wait-free-hash-map/)
 - [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
+- [Simulating Crowds in Planet Coaster](https://www.gamasutra.com/view/news/288020/Game_Design_Deep_Dive_Creating_believable_crowds_in_Planet_Coaster.php)
+- [Continuous Time Simulation](https://www.youtube.com/watch?v=jTzIDmjkLQo)
+- [Generating Quotes with Markov Chains](http://www.ramtin.xyz/post/4)
+- [Xi Algorithms/Rope](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 
 AI
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -182,6 +196,7 @@ AI
 - [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 - [Tensorflow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes)
 - [Machine Learning 101 Sidedeck](https://news.ycombinator.com/item?id=15919115)
+- [Build a Neural Network](https://enlight.nyc/neural-network)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -254,16 +269,26 @@ Graphics
 - [Graphics Programming Black Book](http://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
 - [Sphere of Influence](https://www.youtube.com/watch?v=I_qjY_cSJOA&feature=youtu.be)
 - [Writing a Custom Vector Graphics Renderer Part 1](https://top.handmade.network/blogs/p/2795-writing_a_custom_vector_graphics_renderer_-_part_1#13785)
+- [Atmospheric Scattering](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter16.html)
+- [Forward vs. Deferred Rendering](https://gamedevelopment.tutsplus.com/articles/forward-rendering-vs-deferred-rendering--gamedev-12342)
+- [Creating a Volumetric Ray Marcher](http://shaderbits.com/blog/creating-volumetric-ray-marcher)
+- [Modeling with SDFs](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm)
+- [Color Grading &amp; Correction](https://kosmonautblog.wordpress.com/2017/04/26/color-grading-correction/)
 
 GPUs &amp; APIs
 - [RenderDoc Debugger](https://renderdoc.org/)
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
 - [Setting up D3D11](https://git.handmade.network/snippets/19)
-- [Vulkan in 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
-- [Vulkan Tutorial](https://vulkan-tutorial.com/)
 - [NVIDIA GPU Threading / Inefficient Design](https://twitter.com/rygorous/status/921529471169019904)
 - [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
-- [Vulkan Examples and Demos](https://github.com/SaschaWillems/Vulkan)
+- [GPU Fluid Simulation](https://benedikt-bitterli.me/gpu-fluid.html)
+- [Interactive CUDA](https://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA)
+
+Vulkan
+- [Vulkan in 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
+- [Tutorial](https://vulkan-tutorial.com/)
+- [Examples and Demos](https://github.com/SaschaWillems/Vulkan)
+- [First 1000 Lines](https://www.fasterthan.life/blog/2017/7/12/i-am-graphics-and-so-can-you-part-3-breaking-ground)
 
 OpenGL
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
@@ -280,12 +305,16 @@ OpenGL
 - [Check if an Object is Outside the Clipping Volume](https://stackoverflow.com/questions/6301085/how-to-check-if-an-object-lies-outside-the-clipping-volume-in-opengl)
 - [OpenGL Constants List](https://github.com/odin-lang/Odin/blob/master/core/opengl_constants.odin)
 - [Multisampling](https://www.khronos.org/opengl/wiki/Multisampling)
+- [Shadow Mapping](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/)
+- [Shadow Mapping Example](http://fabiensanglard.net/shadowmapping/main.c)
 
 GLSL
 - [Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
 - [Lighting](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Diffuse_Reflection)
 - [Specular Highlights](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Smooth_Specular_Highlights)
 - [Noise](https://stackoverflow.com/questions/4200224/random-noise-functions-for-glsl)
+- [Making a Rain on a Windshield Shader](https://news.ycombinator.com/item?id=16036232)
+- [Making The Drive Home shader](https://www.youtube.com/watch?v=eKtsY7hYTPg)
 
 Language/Compiler Theory
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -297,13 +326,9 @@ Language/Compiler Theory
 - [Using Types Effectively](https://www.youtube.com/watch?v=ojZbFIQSdl8)
 
 Languages/Compilers
-- [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
-- [Taming Undefined Behavior in LLVM](https://blog.regehr.org/archives/1496)
-- [LLVM Tutorial](http://llvm.org/docs/tutorial/)
 - [Building a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [SBrain](https://silverwingedseraph.net/programming/2017/04/16/sbrain-an-extension-of-brainfzck.html)
 - [Embedding LuaJIT](https://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/)
-- [Using libclang to Parse C++](http://shaharmike.com/cpp/libclang/)
 - [Building Useful ClangTools](https://www.youtube.com/watch?v=E6i8jmiy8MY)
 - [Compiling C/C++ To WebASM](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm)
 - [Odin Import System](https://odin.handmade.network/blogs/p/2706-odin_changes,_improvements,_and_the_future)
@@ -312,6 +337,19 @@ Languages/Compilers
 - [Lisp in 200 Lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
 - [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 - [Physics Engine Development - Metaprogramming, serialization, IPC, etc.](http://www.gdcvault.com/play/1020065/Physics-for-Game-Programmers-Debugging)
+- [Python Decorators](https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb)
+- [Go Pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
+- [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
+- [Terra - Low Level Embedded Lua Metaprogramming](http://terralang.org/)
+- [C ASCII Executable Compiler](http://www.cs.cmu.edu/~tom7/abc/paper.pdf)
+
+LLVM
+- [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
+- [Taming Undefined Behavior in LLVM](https://blog.regehr.org/archives/1496)
+- [LLVM Tutorial](http://llvm.org/docs/tutorial/)
+- [LLVM Architecture](http://www.aosabook.org/en/llvm.html)
+- [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
+- [Using libclang to Parse C++](http://shaharmike.com/cpp/libclang/)
 
 C
 - [Generics in C](https://stackoverflow.com/questions/16522341/pseudo-generics-in-c)
@@ -319,6 +357,9 @@ C
 - [GCC Function Names](https://gcc.gnu.org/onlinedocs/gcc/Function-Names.html)
 - [Auto-vectorization in GCC](https://locklessinc.com/articles/vectorize/)
 - [C Reflection with Clang](https://www.reddit.com/r/gamedev/comments/3lh0ba/using_clang_to_generate_c_reflection_data/)
+- [Test "Sweet"](https://github.com/azmr/sweet)
+- [Making Smaller C/C++ Binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
+- [Making a Minimal Container Library in C](http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
 
 Modern C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -339,6 +380,9 @@ Modern C++
 - [Regular Expressions Redefined in C++](https://www.youtube.com/watch?v=3WGsN_Hp9QY)
 - [Metaclasses Proposal Summary](http://www.fluentcpp.com/2017/08/04/metaclasses-cpp-summary/)
 - [C++17](https://www.viva64.com/en/b/0533/)
+- [Constexpr Everything](https://solarianprogrammer.com/2017/12/27/cpp-17-constexpr-everything-as-much-as-the-compiler-can/)
+- [Orthodox C++](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
+- [The Culture of Complexity](http://blog.greaterthanzero.com/post/58482859780/c-and-the-culture-of-complexity)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -386,6 +430,8 @@ Voxels
 - [Rendering Without Vertex Data](https://www.opengl.org/discussion_boards/showthread.php/168316-Rendering-without-vertex-data-%28gl_VertexID-only%29)
 - [VBOs or Geometry Shaders? (Or Instancing?)](https://gamedev.stackexchange.com/questions/17171/for-voxel-rendering-what-is-more-efficient-pre-made-vbo-or-a-geometry-shader)
 - [Voxel Instancing](http://procworld.blogspot.com/2013/09/voxel-instancing.html)
+- [Greedy Voxel Meshing](http://www.gedge.ca/dev/2014/08/17/greedy-voxel-meshing)
+- [Backface Culling](https://gist.github.com/mtwilliams/32e3c418ede0113cb64f6a3980ccaa53)
 
 Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
@@ -416,6 +462,8 @@ CPUs, Assembly
 - [Disabling IME](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
 - [UEFI Programming](http://x86asm.net/articles/uefi-programming-first-steps/)
 - [Help Learning ASM/CPUs](https://handmade.network/forums/t/2630-help_learning_asm_and_understanding_the_cpu#13166)
+- [Ten Years of the TTL CPU](https://www.youtube.com/watch?v=0jRgpTp8pR8)
+- [Finding a CPU Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 
 Optimization &amp; Testing
 - [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
@@ -431,6 +479,9 @@ Optimization &amp; Testing
 - [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 - [Avast Open-Sources Machine Code Decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
 - [The Best Optimizer is between Your Ears](http://twimgs.com/ddj/abrashblackbook/gpbb1.pdf)
+- [Using SSE](https://www.cs.uaf.edu/2009/fall/cs301/lecture/11_13_sse_intrinsics.html)
+- [PS4 Kernel Crashdump](https://fail0verflow.com/blog/2017/ps4-crashdump-dump/)
+- [Riot Profiling C++](https://engineering.riotgames.com/news/profiling-measurement-and-analysis)
 
 Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -441,6 +492,7 @@ Operating Systems
 - [What if Main is not a Function?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 - [Keyboard Latency](https://danluu.com/keyboard-latency/)
 - [Bare Bones OS Tutorial](http://wiki.osdev.org/Bare_Bones)
+- [OS Abstractions with Plan 9](https://lsub.org/who/nemo/9.intro.pdf)
 
 Quantum Computing
 - [A Brief History of Quantum Computing](https://www.doc.ic.ac.uk/~nd/surprise_97/journal/vol4/spb3/)
@@ -464,6 +516,8 @@ Technical History &amp; Stories
 - [Why Does man print "gimme gimme gimme" at 00:30?](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 - [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 - [Breaking Minecraft Economy](https://www.alicemaz.com/writing/minecraft.html)
+- [Modern Linux on a 486](http://yeokhengmeng.com/2018/01/make-the-486-great-again/)
+- [What Happens if you append grep results to the file?](https://anniecherkaev.com/grep-your-way-to-freedom)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -489,6 +543,7 @@ Linux
 - [30 Interesting Shell Commands](https://www.lopezferrando.com/30-interesting-shell-commands/)
 - [Capture the output of a child process in C](http://www.microhowto.info/howto/capture_the_output_of_a_child_process_in_c.html)
 - [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [10 Things I Wish I'd Known about Bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
 
 Async
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -498,8 +553,9 @@ Async
 - [Lock-free Dequeue in C++](http://msinilo.pl/download/LockFreeDEQueue.h)
 - [Game Async API & Virtual Memory Design](https://www.youtube.com/watch?v=gFFqYLgPOWI)
 
-Cryptocurrency
-- [Basic Introduction](https://blog.goodaudience.com/a-beginners-guide-to-getting-started-in-the-cryptocurrency-world-69c50516be71)
+Technical Finance
+- [Quantitative Trading](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
+- [Introduction to Cryptocurrency](https://blog.goodaudience.com/a-beginners-guide-to-getting-started-in-the-cryptocurrency-world-69c50516be71)
 
 Web Dev
 - [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
@@ -512,6 +568,8 @@ Web Dev
 - [Against an Increasing User-Hostile Web](https://www.neustadt.fr/essays/against-a-user-hostile-web/)
 - [What Happens When You Type google.com...](https://github.com/alex/what-happens-when?referrer=google.com)
 - [It's Time to Kill the Web (as an applications platform)](https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89)
+- [Airmash Game](https://news.ycombinator.com/item?id=15892066)
+- [RPC for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f)
 
 HTML
 - [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -531,11 +589,14 @@ Networking
 - [What Every Game Programmer Needs to Know About Networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/)
 - [Overwatch Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ)
 - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
+- [Game Networking Blog](https://gafferongames.com/categories/game-networking/)
+- [Networked Physics Blog](https://gafferongames.com/categories/networked-physics/)
 
 Project Ideas/Tutorials
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [Automated Wedding](https://www.twilio.com/blog/2017/04/wedding-at-scale-how-i-used-twilio-python-and-google-to-automate-my-wedding.html)
 - [Papercraft with Blender](https://matiasmorant.wordpress.com/2017/12/23/papercraft-with-blender/)
+- [Run Your Own Mail Server](https://www.c0ffee.net/blog/mail-server-guide)
 
 Personal Development
 - [How to Present a GitHub Project](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
@@ -544,6 +605,8 @@ Personal Development
 - [What Books have Made the Biggest Impact on your Mental Models?](https://news.ycombinator.com/item?id=15155833)
 - [McSoftware](https://hackernoon.com/mcsoftware-b33888f5f7c)
 - [AI Researcher Seeking Advice](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/)
+- [Programming Notes for Professionals](http://books.goalkicker.com/)
+- [Teach Yourself Programming in Ten Years](https://archive.is/m2G7g)
 
 Blender Modeling &amp; Animation
 - [Sprites in Blender](http://www.gamefromscratch.com/post/2013/09/14/Creating-a-game-sprite-The-Blender-Camera.aspx)
@@ -552,16 +615,16 @@ Blender Modeling &amp; Animation
 Music, Sound Design, &amp; Art
 - [DOOM Behind the Music](https://www.youtube.com/watch?v=U4FNBMZsqrY)
 - [Pixel Art Advice](http://blog.studiominiboss.com/pixelart)
+- [Pen Plotter Art &amp; Algorithms](https://mattdesl.svbtle.com/pen-plotter-1)
 
 Misc.
-- [Continuous Time Simulation](https://www.youtube.com/watch?v=jTzIDmjkLQo)
 - [Crafting Plausible Maps](https://m.mythcreants.com/blog/crafting-plausible-maps/)
-- [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
 - [Advanced Character Physics](http://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
 - [Doomsday Prepping for Less Crazy Folk](http://lcamtuf.coredump.cx/prep/)
 - [Thinkpad X62](https://geoff.greer.fm/2017/07/16/thinkpad-x62/)
 - [Magic: the Gathering is Turing Complete](https://www.toothycat.net/~hologram/Turing/index.html)
 - [Deceiver Game](https://github.com/etodd/deceiver/tree/master/src)
+- [GitFiti](https://github.com/gelstudios/gitfiti)
 
 Humor
 - [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
