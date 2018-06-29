@@ -48,6 +48,23 @@ Programming Advice
 - [How to Write Your Own C++ Game Engine](http://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
 - [Confessions of a UE4 Engineering Firefighter](https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/)
+- [Why is nearing Completion do De-motivating?](https://news.ycombinator.com/item?id=17138794)
+- [Writing Minimalist C Libraries](http://nullprogram.com/blog/2018/06/10/)
+
+Professional Development
+- [How to Present a GitHub Project](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [Mock Interview - Shawn McGrath/Casey Muratori](https://www.youtube.com/watch?v=cfyWvJdsDRI)
+- [What Books have Made the Biggest Impact on your Mental Models?](https://news.ycombinator.com/item?id=15155833)
+- [McSoftware](https://hackernoon.com/mcsoftware-b33888f5f7c)
+- [AI Researcher Seeking Advice](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/)
+- [Programming Notes for Professionals](http://books.goalkicker.com/)
+- [Teach Yourself Programming in Ten Years](https://archive.is/m2G7g)
+- [A Career Cold Start Algorithm](http://boz.com/articles/career-cold-start.html)
+- [Engineers Willing to Mentor You](http://stephaniehurlburt.com/blog/2016/11/14/list-of-engineers-willing-to-mentor-you)
+- [Hiring """""Test"""""](http://www.gwan.com/blog/20160405.html)
+- [Founder/CEO Advice](https://mobile.twitter.com/Suhail/status/998660806005768192)
+- [What info do you wish every job posting included?](https://news.ycombinator.com/item?id=17143437)
 
 Culture
 - [How do You Make Programmers Work 60-80 Hour Weeks?](http://brianknapp.me/programmer-60-80-hour-weeks/)
@@ -98,6 +115,7 @@ Game Design/Programming &amp; Indie Development
 - [The Cost oF Games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
 - [The Art of The Witness](https://www.youtube.com/watch?v=A_Gni_2ecd4)
 - [Taxonomy of Tech Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
+- [Factorio GUI Update](https://www.factorio.com/blog/post/fff-246)
 
 Game Publishing
 - [How do I Release my Game?](https://www.reddit.com/r/gamedev/comments/64pxku/how_do_i_release_my_game/)
@@ -115,6 +133,8 @@ Business
 - [Surviving Your First Year](https://www.backblaze.com/blog/startup-stages-surviving-your-first-year/)
 - [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
 - [Support Groups for Solo Founders](https://news.ycombinator.com/item?id=15732087)
+- [Credit Card Fraud Warning Signs](https://www.candyjapan.com/behind-the-scenes/fraudulent-transaction-warning-signs)
+- [How to Come up with Profitable On-line Business Ideas](https://www.indiehackers.com/round-table/how-to-come-up-with-profitable-online-business-ideas)
 
 Tools
 - [Many-language Web IDE](http://ideone.com/)
@@ -167,6 +187,9 @@ Math
 - [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
 - [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
+- [Eigenvalue Loops](https://plus.google.com/113086553300459368002/posts/JKChCjz26uh)
+- [Discrete Math Overview/Recommendations](https://handmade.network/blogs/p/3118-discrete_mathematics_for_software_engineers#15131)
+- [Eigenvalues and Vectors](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -196,6 +219,11 @@ Algorithms
 - [Generating Quotes with Markov Chains](http://www.ramtin.xyz/post/4)
 - [Xi Algorithms/Rope](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 - [MIT Algorithms Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/)
+- [Structured Concurrency: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
+- [Structured Concurrency in High-level Languages](http://250bpm.com/blog:124)
+- [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+- [PageRank](https://en.wikipedia.org/wiki/PageRank)
+- [Solving DP Problems](http://blog.refdash.com/dynamic-programming-tutorial-example/)
 
 AI/ML/NN
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -218,6 +246,9 @@ AI/ML/NN
 - [A Neural Network in 10 Lines of C++](https://cognitivedemons.wordpress.com/2017/07/06/a-neural-network-in-10-lines-of-c-code/)
 - [Learning to write programs that generate images](https://deepmind.com/blog/learning-to-generate-images/)
 - [TiNN](https://github.com/glouw/tinn)
+- [Google Duplex](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html?m=1)
+- [Code Generation and Semantic Parsing - Hearthstone Cards](http://nlp.cs.berkeley.edu/pubs/Rabinovich-Stern-Klein_2017_AbstractSyntaxNetworks_paper.pdf)
+- [Empiricism and the Limits of Gradient Descent](http://togelius.blogspot.com/2018/05/empiricism-and-limits-of-gradient.html?m=1)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -261,7 +292,6 @@ Graphics
 - [Texture Atlases, Wrapping, and Mipmapping](https://0fps.net/2013/07/09/texture-atlases-wrapping-and-mip-mapping/)
 - [Business Card Ray-Tracer](http://fabiensanglard.net/rayTracing_back_of_business_card/index.php)
 - [Bitmap Sorter](http://larixk.nl/experiments/sort/)
-- [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
 - [TinyRenderer Software 3D Renderer Tutorial - Part 1](https://github.com/ssloy/tinyrenderer/wiki/Lesson-1:-Bresenham%E2%80%99s-Line-Drawing-Algorithm)
 - [Fragment Shader Tutorials](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -303,6 +333,8 @@ Graphics
 - [Better Texture Filtering - Shadertoy](https://www.shadertoy.com/view/XsfGDn)
 - [Maximizing Depth Buffer Range and Precision](http://outerra.blogspot.com/2012/11/maximizing-depth-buffer-range-and.html)
 - [Scratchapixel - learn graphics from scratch](https://www.scratchapixel.com/)
+- [GPU Font Rendering](http://terathon.com/font_rendering_sota_lengyel.pdf)
+- [Real-Time Raytracing in UE4](https://www.unrealengine.com/en-US/blog/technology-sneak-peek-real-time-ray-tracing-with-unreal-engine)
 
 GPUs &amp; APIs
 - [RenderDoc Debugger](https://renderdoc.org/)
@@ -343,6 +375,7 @@ OpenGL
 - [Shadow Mapping Example](http://fabiensanglard.net/shadowmapping/main.c)
 
 GLSL
+- [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
 - [Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
 - [Lighting](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Diffuse_Reflection)
 - [Specular Highlights](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Smooth_Specular_Highlights)
@@ -350,6 +383,7 @@ GLSL
 - [Making a Rain on a Windshield Shader](https://news.ycombinator.com/item?id=16036232)
 - [Making The Drive Home shader](https://www.youtube.com/watch?v=eKtsY7hYTPg)
 - [Shader_Minifier](https://github.com/laurentlb/Shader_Minifier)
+- [Stupid OpenGL Shader Tricks](http://www.nvidia.com/docs/io/8230/gdc2003_openglshadertricks.pdf)
 
 Language/Compiler Theory
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -378,6 +412,8 @@ Languages/Compilers
 - [Terra - Low Level Embedded Lua Metaprogramming](http://terralang.org/)
 - [C ASCII Executable Compiler](http://www.cs.cmu.edu/~tom7/abc/paper.pdf)
 - [You can't Rust that](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/)
+- [dartfmt](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
+- [What I Learned Making my own JIT Language](http://www.mikedrivendevelopment.com/2018/06/what-i-learned-making-my-own-jit.html?m=1)
 
 LLVM
 - [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
@@ -386,6 +422,7 @@ LLVM
 - [LLVM Architecture](http://www.aosabook.org/en/llvm.html)
 - [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
 - [Using libclang to Parse C++](http://shaharmike.com/cpp/libclang/)
+- [How Clang Compiles a Function](https://blog.regehr.org/archives/1605)
 
 C
 - [Generics in C](https://stackoverflow.com/questions/16522341/pseudo-generics-in-c)
@@ -396,6 +433,7 @@ C
 - [Test "Sweet"](https://github.com/azmr/sweet)
 - [Making Smaller C/C++ Binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 - [Making a Minimal Container Library in C](http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
+- [Embedded - What happens before main() is executed?](http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/)
 
 Modern C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -420,6 +458,7 @@ Modern C++
 - [Orthodox C++](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
 - [The Culture of Complexity](http://blog.greaterthanzero.com/post/58482859780/c-and-the-culture-of-complexity)
 - [Live C++ (hot reloading)](https://molecular-matters.com/products_livepp.html)
+- [C++ Without Redundancy](https://github.com/vrsperanza/CPY)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -474,6 +513,7 @@ Voxels
 - [Distant Scenery](http://www.sea-of-memes.com/LetsCode64/LetsCode64.html)
 - [Distant Scenery 2](http://www.sea-of-memes.com/LetsCode67/LetsCode67.html)
 - [LOD for Voxels](https://0fps.net/2018/03/03/a-level-of-detail-method-for-blocky-voxels/)
+- [How Voxels Became 'The Next Big Thing'](https://medium.com/@EightyLevel/how-voxels-became-the-next-big-thing-4eb9665cd13a)
 
 Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
@@ -483,6 +523,7 @@ Computer Engineering/Design
 - [Inseparable from Magic - Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4)
 - [Building a Computer to play Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 - [Implementing FizzBuzz on an FPGA](http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html)
+- [Why Spend 1.5 Months on a Gameboy Emulator?](http://blog.rekawek.eu/2017/02/09/coffee-gb/)
 
 Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -508,6 +549,9 @@ CPUs, Assembly
 - [Ten Years of the TTL CPU](https://www.youtube.com/watch?v=0jRgpTp8pR8)
 - [Finding a CPU Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 - [X86 Design Flaw Memory Sinkhole](https://www.youtube.com/watch?v=lR0nh-TdpVg)
+- [Bit Hacks](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
+- [Why Skylake CPUs are Sometimes 50% Slower - C# Spinlocks](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
+- [Verilog 6502](http://www.aholme.co.uk/6502/Main.htm)
 
 Optimization &amp; Testing
 - [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
@@ -526,6 +570,8 @@ Optimization &amp; Testing
 - [Using SSE](https://www.cs.uaf.edu/2009/fall/cs301/lecture/11_13_sse_intrinsics.html)
 - [PS4 Kernel Crashdump](https://fail0verflow.com/blog/2017/ps4-crashdump-dump/)
 - [Riot Profiling C++](https://engineering.riotgames.com/news/profiling-measurement-and-analysis)
+- [SIMD String Prefix Matching](https://trent.me/is-prefix-of-string-in-table/)
+- [When FFI Calls Beat Native C](https://nullprogram.com/blog/2018/05/27/)
 
 Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -565,6 +611,12 @@ Technical History &amp; Stories
 - [50/60 Years of Processor Development](https://www.eejournal.com/article/fifty-or-sixty-years-of-processor-developmentfor-this/)
 - [It's fine just ship it - unsecured web connected interfaces](https://www.youtube.com/watch?v=yBA6u5IsXyc)
 - [Norman's Sky](http://nothkedev.blogspot.no/2018/04/normans-sky-2-years-later-joke-made-in.html)
+- [Fabricating and Integrated Circuit](http://sam.zeloof.xyz/first-ic/#)
+- [7-Zip Uninitialized Memory to Remote Code Execution](https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/?hn)
+- [StuxNet](https://www.quora.com/What-is-the-most-sophisticated-piece-of-software-code-ever-written/answer/John-Byrd-2)
+- [Pranking my Roommate with Targeted Ads](http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/)
+- [Playing Battleships over BGP](https://blog.benjojo.co.uk/post/bgp-battleships)
+- [5k 360 Video with John Carmack](https://developer.oculus.com/blog/behind-the-tech-with-john-carmack-5k-immersive-video/)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -584,6 +636,8 @@ Windows
 - [Switching a Window to Fullscreen and Back](https://blogs.msdn.microsoft.com/oldnewthing/20100412-00/?p=14353)
 - [D's Windows Platform Layer](http://svn.dsource.org/projects/bindings/trunk/win32/mmsystem.d)
 - [Lockless Programming Considerations](https://msdn.microsoft.com/en-us/library/ee418650%28v=vs.85%29.aspx)
+- [Xperf](https://blogs.msdn.microsoft.com/ntdebugging/2008/04/03/windows-performance-toolkit-xperf/)
+- [Make MSVC Compile in Parallel](https://randomascii.wordpress.com/2014/03/22/make-vc-compiles-fast-through-parallel-compilation/)
 
 Demoscene
 - [4klang](http://4klang.untergrund.net/)
@@ -591,6 +645,7 @@ Demoscene
 - [Executable Compressor](http://www.un4seen.com/petite/)
 - [Crinkler Executable Compressor](http://www.crinkler.net/)
 - [Making of Immersion](http://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/)
+- [Animation and Shader Tool](https://github.com/trevorvanhoof/sqrmelon/blob/master/SqrMelon%20manual.pdf)
 
 Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
@@ -600,6 +655,11 @@ Linux
 - [10 Things I Wish I'd Known about Bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
 - [Inside the Linux Boot Process](https://www.ibm.com/developerworks/library/l-linuxboot/)
 - [Linux Program Startup](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
+- [Julia Evan's Linux Drawings](https://twitter.com/i/moments/983006808473088000)
+- [Doing things in Bash Safely](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
+- [Command-Line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+- [Using GDB](https://handmade.network/wiki/2883-gdb)
+- [FBGraphics](https://github.com/grz0zrg/fbg/blob/master/README.md)
 
 Async
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -627,6 +687,9 @@ Web Dev
 - [Airmash Game](https://news.ycombinator.com/item?id=15892066)
 - [RPC for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f)
 - [Back to RSS](https://news.ycombinator.com/item?id=16721690)
+- [Minimal JS Framework](https://github.com/hyperapp/hyperapp/blob/master/README.md)
+- [BSD, C, httpd, SQLite](https://learnbchs.org/index.html)
+- [Certificates for localhost](https://letsencrypt.org/docs/certificates-for-localhost/)
 
 HTML
 - [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -656,18 +719,6 @@ Project Ideas/Tutorials
 - [Automated Wedding](https://www.twilio.com/blog/2017/04/wedding-at-scale-how-i-used-twilio-python-and-google-to-automate-my-wedding.html)
 - [Papercraft with Blender](https://matiasmorant.wordpress.com/2017/12/23/papercraft-with-blender/)
 - [Run Your Own Mail Server](https://www.c0ffee.net/blog/mail-server-guide)
-
-Professional Development
-- [How to Present a GitHub Project](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
-- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-- [Mock Interview - Shawn McGrath/Casey Muratori](https://www.youtube.com/watch?v=cfyWvJdsDRI)
-- [What Books have Made the Biggest Impact on your Mental Models?](https://news.ycombinator.com/item?id=15155833)
-- [McSoftware](https://hackernoon.com/mcsoftware-b33888f5f7c)
-- [AI Researcher Seeking Advice](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/)
-- [Programming Notes for Professionals](http://books.goalkicker.com/)
-- [Teach Yourself Programming in Ten Years](https://archive.is/m2G7g)
-- [A Career Cold Start Algorithm](http://boz.com/articles/career-cold-start.html)
-- [Engineers Willing to Mentor You](http://stephaniehurlburt.com/blog/2016/11/14/list-of-engineers-willing-to-mentor-you)
 
 Blender Modeling &amp; Animation
 - [Sprites in Blender](http://www.gamefromscratch.com/post/2013/09/14/Creating-a-game-sprite-The-Blender-Camera.aspx)
