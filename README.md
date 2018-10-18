@@ -25,6 +25,7 @@ Blogs
 - [Home Automation](https://www.superhouse.tv/episodes/)
 - [Tech Stories, Projects - Alice Maz](https://www.alicemaz.com/)
 - [Graphics - Alan Wolfe](https://blog.demofox.org/)
+- [Mediocre Game Technology](http://tuxedolabs.blogspot.com/)
 
 Code Snippets
 - [Branches UTF8 Decode](https://github.com/skeeto/branchless-utf8/blob/master/utf8.h)
@@ -67,6 +68,9 @@ Professional Development
 - [Founder/CEO Advice](https://mobile.twitter.com/Suhail/status/998660806005768192)
 - [What info do you wish every job posting included?](https://news.ycombinator.com/item?id=17143437)
 - [Making Example GIFs](https://blog.github.com/2018-06-29-GIF-that-keeps-on-GIFing/)
+- [Salary Negotiation - Name a Number](http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/)
+- [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [What do you struggle with? Ask HN](https://news.ycombinator.com/item?id=17867109)
 
 Culture
 - [How do You Make Programmers Work 60-80 Hour Weeks?](http://brianknapp.me/programmer-60-80-hour-weeks/)
@@ -167,6 +171,8 @@ Tools
 - [Peekaboo](https://www.dropbox.com/s/ionox7ocgj8ndfx/peekaboo_09.exe?dl=0)
 - [Using ffmpeg](https://github.com/leandromoreira/ffmpeg-libav-tutorial/blob/master/README.md)
 - [Tools for Small Project Management](https://news.ycombinator.com/item?id=16322942)
+- [Home Automation](https://www.home-assistant.io/)
+- [Tools for Writing Books](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -200,6 +206,11 @@ Math
 - [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/)
 - [Using Modern SAT Solvers](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 - [The Surreal Numbers](https://en.m.wikipedia.org/wiki/Surreal_number)
+- [Deriving the Boltzmann Distribution via Atmospheric Density](https://gravityandlevity.wordpress.com/)
+- [Discrete Math Text](https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf)
+- [Fundamentals of Grassmann Algebra](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
+- [Efficiently Computing Fibonacci](http://raganwald.com/2015/12/20/an-es6-program-to-compute-fibonacci.html)
+- [Diff-Eq Notes](http://tutorial.math.lamar.edu/Classes/DE/Definitions.aspx)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -229,6 +240,11 @@ Algorithms
 - [PageRank](https://en.wikipedia.org/wiki/PageRank)
 - [Solving DP Problems](http://blog.refdash.com/dynamic-programming-tutorial-example/)
 - [GJK and Expanding Polytope Explanation](https://www.youtube.com/watch?v=6rgiPrzqt9w&t=24m50s)
+- [FSM Designer](http://madebyevan.com/fsm/)
+- [WebGL Fluid Simulation Guide/Example](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/)
+- [Generative Algorithms](https://inconvergent.net/generative/)
+- [Masstree: Cache-Friendly trie/b-tree](https://www.the-paper-trail.org/post/masstree-paper-notes/)
+- [What's your favorite algorithm? Ask HN](https://news.ycombinator.com/item?id=18236396)
 
 Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -266,6 +282,7 @@ AI/ML/NN
 - [Google Duplex](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html?m=1)
 - [Code Generation and Semantic Parsing - Hearthstone Cards](http://nlp.cs.berkeley.edu/pubs/Rabinovich-Stern-Klein_2017_AbstractSyntaxNetworks_paper.pdf)
 - [Empiricism and the Limits of Gradient Descent](http://togelius.blogspot.com/2018/05/empiricism-and-limits-of-gradient.html?m=1)
+- [Beginner's Guide to Game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -291,6 +308,7 @@ Procedural Generation
 - [Top-Down Cave Gen](http://noelberry.ca/#thecaves)
 - [RoboHash](https://robohash.org/)
 - [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
+- [PCG Family of pseudo-random generators](https://www.youtube.com/watch?v=45Oet5qjlms)
 
 Graphics
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -355,6 +373,13 @@ Graphics
 - [Rendering Moana with pbrt](http://pharr.org/matt/blog/2018/07/16/moana-island-pbrt-all.html)
 - [Filament Physically Based Graphics Engine (Android)](https://google.github.io/filament/Filament.md.html)
 - [Foam and Flowmaps Demo](https://twitter.com/greje656/status/1025925404861915136)
+- [Projection Matrix Tricks](http://www.terathon.com/gdc07_lengyel.pdf)
+- [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
+- [Normal Transforms - Inverse Transpose](https://paroj.github.io/gltut/Illumination/Tut09%20Normal%20Transformation.html)
+- [Rendering Black Holes in Interstellar](https://arxiv.org/abs/1502.03808)
+- [How to Draw a Black Hole](http://rantonels.github.io/starless/)
+- [Fractal Engine](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
+- [Physically Based Rendering (text)](http://www.pbr-book.org/3ed-2018/contents.html)
 
 GPUs &amp; APIs
 - [RenderDoc Debugger](https://renderdoc.org/)
@@ -397,6 +422,7 @@ OpenGL
 - [Multisampling](https://www.khronos.org/opengl/wiki/Multisampling)
 - [Shadow Mapping](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/)
 - [Shadow Mapping Example](http://fabiensanglard.net/shadowmapping/main.c)
+- [WebGL PBR Example](https://github.com/KhronosGroup/glTF-WebGL-PBR/blob/master/mesh.js)
 
 GLSL
 - [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
@@ -494,6 +520,7 @@ Modern C++
 - [Compiling C/C++ To WebASM](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm)
 - [Physics Engine Development - Metaprogramming, serialization, IPC, etc.](http://www.gdcvault.com/play/1020065/Physics-for-Game-Programmers-Debugging)
 - [Compile-Time Snake](https://github.com/mattbierner/STT-C-Compile-Time-Snake)
+- [Meson Build System](https://www.youtube.com/watch?v=SCZLnopmYBM)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -542,6 +569,7 @@ Voxels
 - [Rendering Without Vertex Data](https://www.opengl.org/discussion_boards/showthread.php/168316-Rendering-without-vertex-data-%28gl_VertexID-only%29)
 - [VBOs or Geometry Shaders? (Or Instancing?)](https://gamedev.stackexchange.com/questions/17171/for-voxel-rendering-what-is-more-efficient-pre-made-vbo-or-a-geometry-shader)
 - [Voxel Instancing](http://procworld.blogspot.com/2013/09/voxel-instancing.html)
+- [Voxel Dual Contouring](http://procworld.blogspot.com/2010/11/from-voxels-to-polygons.html)
 - [Greedy Voxel Meshing](http://www.gedge.ca/dev/2014/08/17/greedy-voxel-meshing)
 - [Backface Culling](https://gist.github.com/mtwilliams/32e3c418ede0113cb64f6a3980ccaa53)
 - [Sea of Memes Blog](http://www.sea-of-memes.com/summary/blog_parts.html)
@@ -549,6 +577,7 @@ Voxels
 - [Distant Scenery 2](http://www.sea-of-memes.com/LetsCode67/LetsCode67.html)
 - [LOD for Voxels](https://0fps.net/2018/03/03/a-level-of-detail-method-for-blocky-voxels/)
 - [How Voxels Became 'The Next Big Thing'](https://medium.com/@EightyLevel/how-voxels-became-the-next-big-thing-4eb9665cd13a)
+- [Ray-Box Intersection Algorithm for Efficient Dynamic Voxel Rendering](http://www.jcgt.org/published/0007/03/04/paper.pdf)
 
 Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
@@ -559,6 +588,7 @@ Computer Engineering/Design
 - [Building a Computer to play Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 - [Implementing FizzBuzz on an FPGA](http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html)
 - [Why Spend 1.5 Months on a Gameboy Emulator?](http://blog.rekawek.eu/2017/02/09/coffee-gb/)
+- [Emulating the Wii vs. the GameCube](https://dolphin-emu.org/blog/2018/07/21/myth-debugging-wii-more-demanding-emulate-gamecube/)
 
 Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -587,6 +617,9 @@ CPUs, Assembly
 - [Bit Hacks](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
 - [Why Skylake CPUs are Sometimes 50% Slower - C# Spinlocks](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 - [Verilog 6502](http://www.aholme.co.uk/6502/Main.htm)
+- [A2Z Computer (from scratch)](https://hackaday.io/project/18206-a2z-computer)
+- [Hardware Backdoors in x86](https://www.youtube.com/watch?v=_eSAF_qT_FY&feature=youtu.be)
+- [Spectre &amp; Co Overview](https://www.youtube.com/watch?v=_f7O3IfIR2k)
 
 Optimization &amp; Testing
 - [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
@@ -608,6 +641,7 @@ Optimization &amp; Testing
 - [SIMD String Prefix Matching](https://trent.me/is-prefix-of-string-in-table/)
 - [When FFI Calls Beat Native C](https://nullprogram.com/blog/2018/05/27/)
 - [Rules of Optimization](http://www.humus.name/index.php?page=News&ID=383)
+- [Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc)
 
 Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -656,6 +690,10 @@ Technical History &amp; Stories
 - [Technological Unemployment](https://slatestarcodex.com/2018/02/19/technological-unemployment-much-more-than-you-wanted-to-know/)
 - [Version Control Before Git with CVS](https://twobithistory.org/2018/07/07/cvs.html)
 - [A Programmer's Worst Nightmare](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute)
+- [Art in a Database Command](https://news.ycombinator.com/item?id=17969843)
+- [Raikoth: Laws, Language, and Society](http://slatestarcodex.com/2013/05/06/raikoth-laws-language-and-society/)
+- [Five Thousand Years in an Alternate Universe](http://slatestarcodex.com/2013/04/15/things-i-learned-by-spending-five-thousand-years-in-an-alternate-universe/)
+- [An old-timey game dev. hack](http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -728,6 +766,7 @@ Web Dev
 - [GIFs the hard way](http://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html)
 - [Real-World WebASM Benchmark](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu)
+- [js13k - Making of UNDERRUN](https://phoboslab.org/log/2018/09/underrun-making-of)
 
 HTML
 - [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -753,6 +792,7 @@ Networking
 - [Agones Google Game Server Hosting](https://cloudplatform.googleblog.com/2018/03/introducing-Agones-open-source-multiplayer-dedicated-game-server-hosting-built-on-Kubernetes.html)
 - [Overbuilt home network setup](https://github.com/bradfitz/homelab/blob/master/README.md)
 - [Age of Empires II Multiplayer Networking](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php?print=1)
+- [Illustrated TLS Connection](https://tls.ulfheim.net/)
 
 Project Ideas/Tutorials
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
@@ -779,6 +819,7 @@ Misc.
 - [Deceiver Game](https://github.com/etodd/deceiver/tree/master/src)
 - [GitFiti](https://github.com/gelstudios/gitfiti)
 - [MS Paint Coloring Book](https://imgur.com/gallery/zaMqr)
+- [Collection of botnets](https://github.com/maestron/botnets)
 
 Humor
 - [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
