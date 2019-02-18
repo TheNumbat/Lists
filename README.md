@@ -52,6 +52,10 @@ Programming Advice
 - [Why is nearing Completion do De-motivating?](https://news.ycombinator.com/item?id=17138794)
 - [Writing Minimalist C Libraries](http://nullprogram.com/blog/2018/06/10/)
 - [The Wrong Abstraction (is worse than duplication)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+- [OOP is Dead, Long Live Data Oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU)
+- [Programming Paradigms all Programmers Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+- [How to Design Software Good](https://www.haiku-os.org/docs/HIG/index.xml)
+- [How to be a Programmer](https://www.doc.ic.ac.uk/~susan/475/HowToBeAProgrammer.pdf)
 
 Professional Development
 - [How to Present a GitHub Project](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
@@ -89,6 +93,7 @@ Culture
 - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
 - [Containers Won't Fix Your Broken Culture](https://queue.acm.org/detail.cfm?id=3185224)
 - [Learning to Program is Getting Harder](http://allendowney.blogspot.com/2018/02/learning-to-program-is-getting-harder.html)
+- [The Bug-O Notation](https://overreacted.io/the-bug-o-notation/)
 
 Handmade Community
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -125,6 +130,8 @@ Game Design/Programming &amp; Indie Development
 - [Riot's Approach to Anti-Cheat](https://engineering.riotgames.com/news/riots-approach-anti-cheat)
 - [Fortnite Service Outage Postmortem](https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-at-3-4m-ccu?sessionInvalidated=true)
 - [Voronoi Split Screen](https://twitter.com/gooses_/status/1025723504929505280?s=19)
+- [Types of Game Loops](http://gameprogrammingpatterns.com/game-loop.html)
+- [In Defense of Writing your own Game Engine](https://www.executionunit.com/blog/2017/07/14/in-defence-of-writing-your-own-engine/)
 
 Game Publishing
 - [How do I Release my Game?](https://www.reddit.com/r/gamedev/comments/64pxku/how_do_i_release_my_game/)
@@ -177,6 +184,9 @@ Tools
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
 - [Quaternions Double Cover](http://mollyrocket.com/837)
+- [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
+- [Visualizing Quaternions](https://news.ycombinator.com/item?id=18310788)
+- [Let's Remove Quaternions - Geometric Algebra](http://marctenbosch.com/quaternions/)
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 - [Two-link Inverse Kinematics Solver](http://mrl.nyu.edu/~perlin/ik/ik.java.html)
 - [Signed Distance Functions](https://en.wikipedia.org/wiki/Signed_distance_function)
@@ -211,6 +221,7 @@ Math
 - [Fundamentals of Grassmann Algebra](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
 - [Efficiently Computing Fibonacci](http://raganwald.com/2015/12/20/an-es6-program-to-compute-fibonacci.html)
 - [Diff-Eq Notes](http://tutorial.math.lamar.edu/Classes/DE/Definitions.aspx)
+- [Classic Math Books](https://medium.com/however-mathematics/13-classic-mathematics-books-for-lifelong-learners-7ec2759142da)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -245,6 +256,9 @@ Algorithms
 - [Generative Algorithms](https://inconvergent.net/generative/)
 - [Masstree: Cache-Friendly trie/b-tree](https://www.the-paper-trail.org/post/masstree-paper-notes/)
 - [What's your favorite algorithm? Ask HN](https://news.ycombinator.com/item?id=18236396)
+- [Wavefunction Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
+- [Wavefunction Collapse Demo](https://marian42.itch.io/wfc)
+- [Algorithms (textbook)](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 
 Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -283,6 +297,8 @@ AI/ML/NN
 - [Code Generation and Semantic Parsing - Hearthstone Cards](http://nlp.cs.berkeley.edu/pubs/Rabinovich-Stern-Klein_2017_AbstractSyntaxNetworks_paper.pdf)
 - [Empiricism and the Limits of Gradient Descent](http://togelius.blogspot.com/2018/05/empiricism-and-limits-of-gradient.html?m=1)
 - [Beginner's Guide to Game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)
+- [End-to-End Machine Learning Pipeline](https://blog.roblox.com/2013/02/dynamic-lighting-and-shadows-the-voxel-solution/)
+- [AlphaStar - Mastering Starcraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 
 Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -380,6 +396,16 @@ Graphics
 - [How to Draw a Black Hole](http://rantonels.github.io/starless/)
 - [Fractal Engine](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
 - [Physically Based Rendering (text)](http://www.pbr-book.org/3ed-2018/contents.html)
+- [Deciphering the Postcard Raytracer](http://fabiensanglard.net/postcard_pathtracer/)
+- [DOOM Fire Particle Effect](http://fabiensanglard.net/doom_fire_psx/)
+- [Marble Marcher](https://codeparade.itch.io/marblemarcher)
+- [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
+- [Interactive Indirect Illumination using Voxel Cone Tracing](https://research.nvidia.com/sites/default/files/pubs/2011-09_Interactive-Indirect-Illumination/GIVoxels-pg2011-authors.pdf)
+- [Cascaded Voxel Cone Tracing in The Tomorrow Children](https://www.gamasutra.com/view/news/286023/Graphics_Deep_Dive_Cascaded_voxel_cone_tracing_in_The_Tomorrow_Children.php)
+- [Portal Rendering with Off-Screen Render Targets](http://tomhulton.blogspot.com/2015/08/portal-rendering-with-offscreen-render.html)
+- [Real-Time Raytraced Quake 2](http://brechpunkt.de/q2vkpt/)
+- [Raymarched Explosion in C++](https://github.com/ssloy/tinykaboom/wiki)
+- [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
 
 GPUs &amp; APIs
 - [RenderDoc Debugger](https://renderdoc.org/)
@@ -439,6 +465,8 @@ Functional Programming
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [Most Functional (IOCCC)](http://www.ioccc.org/2012/tromp/hint.html)
+- [Functional Programming in C++](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
+ -[A Monad is a Monoid in the Category of Endofunctors](https://www.reddit.com/r/math/comments/ap25mr/a_monad_is_a_monoid_in_the_category_of/)
 
 Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -455,6 +483,7 @@ Compilers
 - [What I Learned Making my own JIT Language](http://www.mikedrivendevelopment.com/2018/06/what-i-learned-making-my-own-jit.html?m=1)
 - [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 - [Lisp in 200 Lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
+- [How we get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
 
 Misc. Languages
 - [Go Pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
@@ -492,6 +521,7 @@ C
 - [Making Smaller C/C++ Binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 - [Making a Minimal Container Library in C](http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
 - [Embedded - What happens before main() is executed?](http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/)
+- [Why Aren't there C Conferences?](https://nullprogram.com/blog/2018/11/21/)
 
 Modern C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -521,6 +551,9 @@ Modern C++
 - [Physics Engine Development - Metaprogramming, serialization, IPC, etc.](http://www.gdcvault.com/play/1020065/Physics-for-Game-Programmers-Debugging)
 - [Compile-Time Snake](https://github.com/mattbierner/STT-C-Compile-Time-Snake)
 - [Meson Build System](https://www.youtube.com/watch?v=SCZLnopmYBM)
+- [Modern C++ Lamentations - Pythagorean Triples](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
+- [C++ Advice](https://twitter.com/SebAaltonen/status/1080069784644059139?s=20)
+- [Is C++ Fast?](https://zeuxcg.org/2019/01/17/is-c-fast/)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -578,6 +611,10 @@ Voxels
 - [LOD for Voxels](https://0fps.net/2018/03/03/a-level-of-detail-method-for-blocky-voxels/)
 - [How Voxels Became 'The Next Big Thing'](https://medium.com/@EightyLevel/how-voxels-became-the-next-big-thing-4eb9665cd13a)
 - [Ray-Box Intersection Algorithm for Efficient Dynamic Voxel Rendering](http://www.jcgt.org/published/0007/03/04/paper.pdf)
+- [Flood-Fill Voxel Lighting](https://www.seedofandromeda.com/blogs/29-fast-flood-fill-lighting-in-a-blocky-voxel-game-pt-1)
+- [Voxel Dynamic Lighting and Shadows](https://blog.roblox.com/2013/02/dynamic-lighting-and-shadows-the-voxel-solution/)
+- [MagicVoxel](https://news.ycombinator.com/item?id=18721555)
+- [Voxel Editor Evolved](https://www.enkisoftware.com/devlogpost-20180206-1-Voxel-Editor-Evolved)
 
 Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
@@ -589,6 +626,9 @@ Computer Engineering/Design
 - [Implementing FizzBuzz on an FPGA](http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html)
 - [Why Spend 1.5 Months on a Gameboy Emulator?](http://blog.rekawek.eu/2017/02/09/coffee-gb/)
 - [Emulating the Wii vs. the GameCube](https://dolphin-emu.org/blog/2018/07/21/myth-debugging-wii-more-demanding-emulate-gamecube/)
+- [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
+- [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
+- [Bedroom Electronics Factory](https://spun.io/2018/12/15/lessons-from-running-a-small-scale-electronics-factory-in-my-guest-bedroom-part-1-design/)
 
 Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -597,12 +637,22 @@ Memory
 - [wb_alloc - STB-Style Allocators](https://github.com/WilliamBundy/wb_alloc)
 - [Implementing/Debugging malloc](https://danluu.com/malloc-tutorial/) 
 - [Testing Memory Allocators](http://ithare.com/testing-memory-allocators-ptmalloc2-tcmalloc-hoard-jemalloc-while-trying-to-simulate-real-world-loads/)
+- [RAM Refresh Cycles](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/)
 
-CPUs, Assembly
-- [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
+Security
+- [X86 Design Flaw Memory Sinkhole](https://www.youtube.com/watch?v=lR0nh-TdpVg)
+- [Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc)
+- [Hardware Backdoors in x86](https://www.youtube.com/watch?v=_eSAF_qT_FY&feature=youtu.be)
+- [Spectre &amp; Co Overview](https://www.youtube.com/watch?v=_f7O3IfIR2k)
+- [Breaking the x86 ISA](https://www.youtube.com/watch?v=KrksBdWcZgQ&feature=youtu.be)
+- [PS4 Kernel Crashdump](https://fail0verflow.com/blog/2017/ps4-crashdump-dump/)
+- [Finding a CPU Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
+- [Avast Open-Sources Machine Code Decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
+- [Finding Statically-Linked Vulnerable Code](https://googleprojectzero.blogspot.com/2018/12/searching-statically-linked-vulnerable.html?m=1)
+
+Low Level Optimization, Testing / Assembly
 - [Intro to Assembly](http://www.swansontec.com/sprogram.html)
 - [Programming with 1s and 0s](http://www.hanshq.net/ones-and-zeros.html) [machine code]
-- [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README.md)
 - [AVX512 Benchmarks](https://developer.numscale.com/bsimd/benchmarks/)
 - [Agner's CPU Blog - Ryzen](http://agner.org/optimize/blog/read.php?i=838)
 - [Generating Executable Files from Scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
@@ -612,17 +662,10 @@ CPUs, Assembly
 - [UEFI Programming](http://x86asm.net/articles/uefi-programming-first-steps/)
 - [Help Learning ASM/CPUs](https://handmade.network/forums/t/2630-help_learning_asm_and_understanding_the_cpu#13166)
 - [Ten Years of the TTL CPU](https://www.youtube.com/watch?v=0jRgpTp8pR8)
-- [Finding a CPU Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
-- [X86 Design Flaw Memory Sinkhole](https://www.youtube.com/watch?v=lR0nh-TdpVg)
 - [Bit Hacks](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
 - [Why Skylake CPUs are Sometimes 50% Slower - C# Spinlocks](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 - [Verilog 6502](http://www.aholme.co.uk/6502/Main.htm)
 - [A2Z Computer (from scratch)](https://hackaday.io/project/18206-a2z-computer)
-- [Hardware Backdoors in x86](https://www.youtube.com/watch?v=_eSAF_qT_FY&feature=youtu.be)
-- [Spectre &amp; Co Overview](https://www.youtube.com/watch?v=_f7O3IfIR2k)
-
-Optimization &amp; Testing
-- [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
 - [RDTSC vs. QueryPerformanceCounter](https://hero.handmade.network/forums/code-discussion/t/57-__rdtsc,_queryperformancecounter,_and_quadpart)
 - [Using Val/call/cachegrind](http://c.learncodethehardway.org/book/ex41.html)
 - [Why is this C++ Faster than Hand-Written ASM?](https://stackoverflow.com/questions/40354978/why-is-this-c-code-faster-than-my-hand-written-assembly-for-testing-the-collat)
@@ -633,15 +676,14 @@ Optimization &amp; Testing
 - [Going Nowhere Faster](https://www.youtube.com/watch?v=2EWejmkKlxs)
 - [Testing all Floats](https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/)
 - [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
-- [Avast Open-Sources Machine Code Decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
 - [The Best Optimizer is between Your Ears](http://twimgs.com/ddj/abrashblackbook/gpbb1.pdf)
 - [Using SSE](https://www.cs.uaf.edu/2009/fall/cs301/lecture/11_13_sse_intrinsics.html)
-- [PS4 Kernel Crashdump](https://fail0verflow.com/blog/2017/ps4-crashdump-dump/)
 - [Riot Profiling C++](https://engineering.riotgames.com/news/profiling-measurement-and-analysis)
 - [SIMD String Prefix Matching](https://trent.me/is-prefix-of-string-in-table/)
+- [AVX512 Whitespace Removal](http://0x80.pl/notesen/2019-01-05-avx512vbmi-remove-spaces.html)
 - [When FFI Calls Beat Native C](https://nullprogram.com/blog/2018/05/27/)
 - [Rules of Optimization](http://www.humus.name/index.php?page=News&ID=383)
-- [Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc)
+- [Moustache Visual Debugger Demo](https://www.youtube.com/watch?v=msZa2EzI3zc)
 
 Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -652,6 +694,8 @@ Operating Systems
 - [Keyboard Latency](https://danluu.com/keyboard-latency/)
 - [Bare Bones OS Tutorial](http://wiki.osdev.org/Bare_Bones)
 - [OS Abstractions with Plan 9](https://lsub.org/who/nemo/9.intro.pdf)
+- [Write a Shell in Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+- [Write your own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 
 Quantum Computing
 - [A Brief History of Quantum Computing](https://www.doc.ic.ac.uk/~nd/surprise_97/journal/vol4/spb3/)
@@ -694,6 +738,8 @@ Technical History &amp; Stories
 - [Raikoth: Laws, Language, and Society](http://slatestarcodex.com/2013/05/06/raikoth-laws-language-and-society/)
 - [Five Thousand Years in an Alternate Universe](http://slatestarcodex.com/2013/04/15/things-i-learned-by-spending-five-thousand-years-in-an-alternate-universe/)
 - [An old-timey game dev. hack](http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- [24 Core CPU and I can't Move my Mouse](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
+- 24 Core CPU and I can't Type an Email [Part 1](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/) [Part 2](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -716,6 +762,11 @@ Windows
 - [Make MSVC Compile in Parallel](https://randomascii.wordpress.com/2014/03/22/make-vc-compiles-fast-through-parallel-compilation/)
 - [Inside the Windows Command Line](https://blogs.msdn.microsoft.com/commandline/2018/07/20/windows-command-line-inside-the-windows-console/)
 - [History of Windows - Part 1](https://www.filfre.net/2018/06/doing-windows-part-1-ms-dos-and-its-discontents/)
+- [Understanding ReadDirectoryChangesW](https://qualapps.blogspot.com/2010/05/understanding-readdirectorychangesw.html)
+- [Making Windows Slower - Process Destruction, Not Called Functions](https://randomascii.wordpress.com/2018/12/03/a-not-called-function-can-cause-a-5x-slowdown/)
+- [Making Windows Slower - Making VirtualAlloc Arbitrarily Slow](https://randomascii.wordpress.com/2011/08/05/making-virtualalloc-arbitrarily-slower/)
+- [Making Windows Slower - File Access and Deletion](https://randomascii.wordpress.com/2018/04/17/making-windows-slower-part-1-file-access/)
+- [Making Windows Slower - Process Creation](https://randomascii.wordpress.com/2018/10/15/making-windows-slower-part-2-process-creation/)
 
 Demoscene
 - [4klang](http://4klang.untergrund.net/)
@@ -793,6 +844,8 @@ Networking
 - [Overbuilt home network setup](https://github.com/bradfitz/homelab/blob/master/README.md)
 - [Age of Empires II Multiplayer Networking](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php?print=1)
 - [Illustrated TLS Connection](https://tls.ulfheim.net/)
+- [DNS Hijacking without Exploitation](http://dinaburg.org/bitsquatting.html)
+- [Networking Protocols for Anyone who Understands a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 
 Project Ideas/Tutorials
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
