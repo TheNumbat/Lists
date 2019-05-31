@@ -70,6 +70,7 @@ Culture
 - [The Bug-O Notation](https://overreacted.io/the-bug-o-notation/)
 - [UTF8 Everywhere](http://utf8everywhere.org/)
 - [Taxonomy of Tech Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
+- [Why Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/?fbclid=IwAR2XflDxIUCVIr9Uqva3nkqlCWNPMpEOddwkg9-7dNz9YnlhyfJrmR7G_x8)
 
 Handmade Hero
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -90,6 +91,7 @@ Game Design and Programming
 - [How to Design Deep Games - Jon Blow](https://www.youtube.com/watch?v=d0m0jIzJfiQ)
 - [Fireside Chat with Jon Blow](https://www.youtube.com/watch?v=wQJ8iPSO0jE)
 - [Imirt Inspire Interview: Jon Blow](https://www.youtube.com/watch?v=5YnTSrIFUxg)
+- [The Medium is the Message - Jon Blow](https://www.youtube.com/watch?v=AxFzf6yIfcc&feature=youtu.be&t=36)
 - [The Art of The Witness](https://www.youtube.com/watch?v=A_Gni_2ecd4)
 - [Truth in Game Design](https://www.youtube.com/watch?v=C5FUtrmO7gI)
 - [Advice on Designing Maps/Levels](https://handmade.network/forums/t/2607-asking_for_advice_about_best_approach_to_make_maps_or_design_levels_in_general...#13088)
@@ -118,6 +120,7 @@ Game Publishing
 - [Steam Direct](https://partner.steamgames.com/steamdirect)
 - [Steam FAQ](http://www.steampowered.com/steamworks/FAQ.php)
 - [Ultimate Legal Guide](https://www.reddit.com/r/gamedev/comments/5pxldd/ultimate_as_promised_guide_to_legal_needs_and/)
+- [Put Your Name on Your Game](https://www.youtube.com/watch?v=N4UFC0y1tY0)
 
 Business
 - [YC's Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
@@ -194,6 +197,7 @@ Math
 - [Efficiently Computing Fibonacci](http://raganwald.com/2015/12/20/an-es6-program-to-compute-fibonacci.html)
 - [Diff-Eq Notes](http://tutorial.math.lamar.edu/Classes/DE/Definitions.aspx)
 - [Classic Math Books](https://medium.com/however-mathematics/13-classic-mathematics-books-for-lifelong-learners-7ec2759142da)
+- [Group Theory and the Rubik's Cube](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik's%20Cube.pdf)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -231,6 +235,11 @@ Algorithms
 - [Wavefunction Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 - [Wavefunction Collapse Demo](https://marian42.itch.io/wfc)
 - [Algorithms (textbook)](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
+- [Discrete Differential Geometry](http://brickisland.net/DDGSpring2019/)
+- [Tetris is NP-Complete](https://arxiv.org/pdf/cs/0210020.pdf)
+- [The Right Answer to Collaborative Editing](https://github.com/xi-editor/xi-editor/issues/1187#issuecomment-491473599)
+- [Going Critical](https://www.meltingasphalt.com/interactive/going-critical/)
+- [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/fall17/)
 
 Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -378,6 +387,9 @@ Graphics
 - [Real-Time Raytraced Quake 2](http://brechpunkt.de/q2vkpt/)
 - [Raymarched Explosion in C++](https://github.com/ssloy/tinykaboom/wiki)
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
+- [Seed of Andromeda - Bloom](https://www.seedofandromeda.com/blogs/63-bloomin-bloom)
+- [Modern LightMapping](http://www.humus.name/index.php?page=3D&ID=91)
+- [Tensorflow Graphics](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
 
 GPUs &amp; APIs
 - [RenderDoc Debugger](https://renderdoc.org/)
@@ -421,6 +433,9 @@ OpenGL
 - [Shadow Mapping](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/)
 - [Shadow Mapping Example](http://fabiensanglard.net/shadowmapping/main.c)
 - [WebGL PBR Example](https://github.com/KhronosGroup/glTF-WebGL-PBR/blob/master/mesh.js)
+- [LearnOpenGL - Stencil Test](https://learnopengl.com/Advanced-OpenGL/Stencil-testing)
+- [LearnOpenGL - Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting)
+- [LearnOpenGL - PBR](https://learnopengl.com/PBR/Theory)
 
 GLSL
 - [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
@@ -432,6 +447,9 @@ GLSL
 - [Making The Drive Home shader](https://www.youtube.com/watch?v=eKtsY7hYTPg)
 - [Shader_Minifier](https://github.com/laurentlb/Shader_Minifier)
 - [Stupid OpenGL Shader Tricks](http://www.nvidia.com/docs/io/8230/gdc2003_openglshadertricks.pdf)
+- [Mist Shadertoy](https://www.shadertoy.com/view/wdBGWD)
+- [LearnOpenGL - Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL)
+- [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners/blob/master/README.md#normal-mapping)
 
 Functional Programming
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
@@ -587,6 +605,11 @@ Voxels
 - [Voxel Dynamic Lighting and Shadows](https://blog.roblox.com/2013/02/dynamic-lighting-and-shadows-the-voxel-solution/)
 - [MagicVoxel](https://news.ycombinator.com/item?id=18721555)
 - [Voxel Editor Evolved](https://www.enkisoftware.com/devlogpost-20180206-1-Voxel-Editor-Evolved)
+- [Water in DwarfCorp](http://www.dwarfcorp.com/site/2013/06/19/how-water-works-in-dwarfcorp/)
+- [Voxel Chunk Frustrum Culling](https://sites.google.com/site/letsmakeavoxelengine/home/frustum-culling)
+- [SeaOfMemes Fog](http://www.sea-of-memes.com/LetsCode37/LetsCode37.html)
+- [SeaOfMemes Decals](http://www.sea-of-memes.com/LetsCode31/LetsCode31.html)
+- [Seed of Andromeda - Region File System](https://www.seedofandromeda.com/blogs/1-creating-a-region-file-system-for-a-voxel-game)
 
 Computer Engineering/Design
 - [Computer Design Game](https://www.blinklight.io/)
@@ -658,6 +681,7 @@ Low Level Optimization, Testing / Assembly
 - [Moustache Visual Debugger Demo](https://www.youtube.com/watch?v=msZa2EzI3zc)
 - [Branchless UTF8 Decode](https://github.com/skeeto/branchless-utf8/blob/master/utf8.h)
 - [Normalized Byte Multiplication](https://pastebin.com/WsiW2BCz)
+- [Performance Optimization, SIMD, Cache](https://www.youtube.com/watch?v=Nsf2_Au6KxU)
 
 Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -743,6 +767,8 @@ Windows
 - [Making Windows Slower - File Access and Deletion](https://randomascii.wordpress.com/2018/04/17/making-windows-slower-part-1-file-access/)
 - [Making Windows Slower - Process Creation](https://randomascii.wordpress.com/2018/10/15/making-windows-slower-part-2-process-creation/)
 - [Xinput (Odin)](https://github.com/ThisDrunkDane/odin-xinput/blob/master/xinput.odin)
+- [MSVC Flag: d2cgsummary](http://aras-p.info/blog/2017/10/23/Best-unknown-MSVC-flag-d2cgsummary/)
+- [MSVC Flag: d1reporttime](http://aras-p.info/blog/2019/01/21/Another-cool-MSVC-flag-d1reportTime/)
 
 Demoscene
 - [4klang](http://4klang.untergrund.net/)
@@ -813,6 +839,7 @@ Networking
 - [How Multiplayer Games Sync their State](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1)
 - [What Every Game Programmer Needs to Know About Networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/)
 - [Overwatch Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ)
+- [Overwatch Gameplay Architecture and Netcode](https://www.youtube.com/watch?v=W3aieHjyNvw)
 - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
 - [Game Networking Blog](https://gafferongames.com/categories/game-networking/)
 - [Networked Physics Blog](https://gafferongames.com/categories/networked-physics/)
@@ -822,12 +849,15 @@ Networking
 - [Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [DNS Hijacking without Exploitation](http://dinaburg.org/bitsquatting.html)
 - [Networking Protocols for Anyone who Understands a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+- [Making a Multiplayer FPS in C++ - Part 1](http://www.codersblock.org/blog/multiplayer-fps-part-1)
 
 Project Ideas/Tutorials
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [Automated Wedding](https://www.twilio.com/blog/2017/04/wedding-at-scale-how-i-used-twilio-python-and-google-to-automate-my-wedding.html)
 - [Papercraft with Blender](https://matiasmorant.wordpress.com/2017/12/23/papercraft-with-blender/)
 - [Run Your Own Mail Server](https://www.c0ffee.net/blog/mail-server-guide)
+- [Write Your Own Git](https://wyag.thb.lt/)
+- [Building a Homebrew Console](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
 
 Blender Modeling &amp; Animation
 - [Sprites in Blender](http://www.gamefromscratch.com/post/2013/09/14/Creating-a-game-sprite-The-Blender-Camera.aspx)
