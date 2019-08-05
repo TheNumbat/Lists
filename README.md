@@ -52,6 +52,10 @@ Professional Development
 - [What do you struggle with? Ask HN](https://news.ycombinator.com/item?id=17867109)
 - [Stanford Paper Reading List 1990](http://mcvoy.com/lm/papers/stanford.txt)
 
+Academia
+- [What Makes a (Graphics) Systems Paper Beautiful](http://graphics.stanford.edu/~kayvonf/notes/systemspaper/)
+- [Reflecting on CS Graduate Admissions](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html?m=1)
+
 Culture
 - [Confessions of a UE4 Engineering Firefighter](https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/)
 - [How do You Make Programmers Work 60-80 Hour Weeks?](http://brianknapp.me/programmer-60-80-hour-weeks/)
@@ -155,6 +159,8 @@ Tools
 - [Tools for Small Project Management](https://news.ycombinator.com/item?id=16322942)
 - [Home Automation](https://www.home-assistant.io/)
 - [Tools for Writing Books](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
+- [rr Debugger](https://rr-project.org/)
+- [msdfgen](https://github.com/Chlumsky/msdfgen)
 
 Math
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
@@ -198,6 +204,10 @@ Math
 - [Diff-Eq Notes](http://tutorial.math.lamar.edu/Classes/DE/Definitions.aspx)
 - [Classic Math Books](https://medium.com/however-mathematics/13-classic-mathematics-books-for-lifelong-learners-7ec2759142da)
 - [Group Theory and the Rubik's Cube](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik's%20Cube.pdf)
+- [Polynomial Approximating Sin/Cos](https://web.archive.org/web/20080228213915/http://www.devmaster.net/forums/showthread.php?t=5784)
+- [A Faster Quaternion-Vector Multiply](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
+- [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
+- [Information Theory for Intelligent People](http://tuvalu.santafe.edu/~simon/it.pdf)
 
 Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -240,6 +250,8 @@ Algorithms
 - [The Right Answer to Collaborative Editing](https://github.com/xi-editor/xi-editor/issues/1187#issuecomment-491473599)
 - [Going Critical](https://www.meltingasphalt.com/interactive/going-critical/)
 - [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/fall17/)
+- [Dyanmic Programming: Seam Carving](https://avikdas.com/2019/05/14/real-world-dynamic-programming-seam-carving.html) [Improved](https://avikdas.com/2019/07/29/improved-seam-carving-with-forward-energy.html)
+- [Diffing Algorithms in Git](https://fabiensanglard.net/git_code_review/diff.php)
 
 Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -390,6 +402,19 @@ Graphics
 - [Seed of Andromeda - Bloom](https://www.seedofandromeda.com/blogs/63-bloomin-bloom)
 - [Modern LightMapping](http://www.humus.name/index.php?page=3D&ID=91)
 - [Tensorflow Graphics](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
+- [Command Buffers for Multi-Threaded Rendering](http://alinloghin.com/articles/command_buffer.html)
+- [Stateless, Layered, Multi-Threaded Rendering](https://blog.molecular-matters.com/2014/11/06/stateless-layered-multi-threaded-rendering-part-1/)
+- [Bucketing Graphics Draw/State Calls](http://realtimecollisiondetection.net/blog/?p=86)
+- [Simulating Bokeh](http://ivizlab.sfu.ca/papers/cgf2012.pdf)
+- [How is Virtual Texturing Actually Efficient?](https://computergraphics.stackexchange.com/questions/1768/how-can-virtual-texturing-actually-be-efficient)
+- [Volumetric Billboards](http://phildec.users.sourceforge.net/Research/VolumetricBillboards.php)
+- [Programmatic Icosphere](http://blog.andreaskahler.com/2009/06/creating-icosphere-mesh-in-code.html)
+- [Path Tracer Project Report](http://thume.ca/ray-tracer-site/report.pdf)
+- [Fixing Frustum Culling](http://www.iquilezles.org/www/articles/frustumcorrect/frustumcorrect.htm)
+- [Deferred Rendering for Current and Future Rendering Pipelines](https://software.intel.com/sites/default/files/m/d/4/1/d/8/lauritzen_deferred_shading_siggraph_2010.pdf)
+- [Tiled Deferred Shading](https://leifnode.com/2015/05/tiled-deferred-shading/)
+- [Rasterization on Larabee](http://www.drdobbs.com/parallel/rasterization-on-larrabee/217200602?pgno=1)
+- [Implementing Voxel Cone Tracing](http://simonstechblog.blogspot.com/2013/01/implementing-voxel-cone-tracing.html)
 
 GPUs &amp; APIs
 - [RenderDoc Debugger](https://renderdoc.org/)
@@ -413,7 +438,9 @@ Vulkan
 - [Vulkan Setup Code](https://i.imgur.com/DXhKahP.jpg)
 - [Vulkan 101](http://jhenriques.net/development.html)
 - [Tutorial List](http://stephaniehurlburt.com/blog/2017/7/14/beginner-friendly-vulkan-tutorials)
-- [LeanrVulkan](https://learnvulkan.com/)
+- [LearnVulkan](https://learnvulkan.com/)
+- [VkMark](https://github.com/vkmark/vkmark)
+- [A Guide to Vulkan Layers](https://renderdoc.org/vulkan-layer-guide.html)
 
 OpenGL
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
@@ -436,6 +463,7 @@ OpenGL
 - [LearnOpenGL - Stencil Test](https://learnopengl.com/Advanced-OpenGL/Stencil-testing)
 - [LearnOpenGL - Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting)
 - [LearnOpenGL - PBR](https://learnopengl.com/PBR/Theory)
+- [Introduction to Compute Shaders](http://antongerdelan.net/opengl/compute.html)
 
 GLSL
 - [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
@@ -450,6 +478,7 @@ GLSL
 - [Mist Shadertoy](https://www.shadertoy.com/view/wdBGWD)
 - [LearnOpenGL - Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL)
 - [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners/blob/master/README.md#normal-mapping)
+- [Avoiding Shader Conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
 
 Functional Programming
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
@@ -457,6 +486,8 @@ Functional Programming
 - [Most Functional (IOCCC)](http://www.ioccc.org/2012/tromp/hint.html)
 - [Functional Programming in C++](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
  -[A Monad is a Monoid in the Category of Endofunctors](https://www.reddit.com/r/math/comments/ap25mr/a_monad_is_a_monoid_in_the_category_of/)
+- [Refactoring via Recursion and CPS Conversion](http://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
+- [Proceedings of the ACM on Programming Languages 2019](https://dl.acm.org/citation.cfm?id=3352468&preflayout=flat#prox)
 
 Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -481,6 +512,7 @@ Misc. Languages
 - [SBrain](https://silverwingedseraph.net/programming/2017/04/16/sbrain-an-extension-of-brainfzck.html)
 - [dartfmt](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
 - [Python Decorators](https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb)
+- [Perils of Constructors](https://matklad.github.io/2019/07/16/perils-of-constructors.html)
 
 Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -489,6 +521,7 @@ Rust
 - [Rust Pointers for C Programmers](http://blahg.josefsipek.net/?p=580)
 - [Micro-controllers with Rust](https://japaric.github.io/discovery/)
 - [Lock-free Dequeue in Rust](https://github.com/kinghajj/deque)
+- [Entity Systems and the Borrow Checker (Rant)](https://www.youtube.com/watch?v=4t1K66dMhWk)
 
 LLVM
 - [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
@@ -512,8 +545,9 @@ C
 - [Making a Minimal Container Library in C](http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
 - [Embedded - What happens before main() is executed?](http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/)
 - [Why Aren't there C Conferences?](https://nullprogram.com/blog/2018/11/21/)
+- [Some Dark Corners of C](https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/preview?slide=id.gec7eb408_3500)
 
-Modern C++
+(Modern) C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
 - [C++11 Multithreaded Memory Model](http://stackoverflow.com/questions/6319146/c11-introduced-a-standardized-memory-model-what-does-it-mean-and-how-is-it-g?rq=1)
 - [C++ Interview Questions](https://www.reddit.com/r/cpp/comments/62s5z9/here_is_a_list_of_things_i_have_been_quizzed_on/)
@@ -544,6 +578,9 @@ Modern C++
 - [Modern C++ Lamentations - Pythagorean Triples](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
 - [C++ Advice](https://twitter.com/SebAaltonen/status/1080069784644059139?s=20)
 - [Is C++ Fast?](https://zeuxcg.org/2019/01/17/is-c-fast/)
+- [std::launder](https://miyuki.github.io/2016/10/21/std-launder.html)
+- [clang consumed annotations](https://awesomekling.github.io/Catching-use-after-move-bugs-with-Clang-consumed-annotations/)
+- [C++ Programming Tips](https://blog.molecular-matters.com/2017/09/05/c-programming-tips/)
 
 JAI
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -624,6 +661,7 @@ Computer Engineering/Design
 - [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
 - [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
 - [Bedroom Electronics Factory](https://spun.io/2018/12/15/lessons-from-running-a-small-scale-electronics-factory-in-my-guest-bedroom-part-1-design/)
+- [Branch Prediction](https://danluu.com/branch-prediction/)
 
 Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -682,6 +720,10 @@ Low Level Optimization, Testing / Assembly
 - [Branchless UTF8 Decode](https://github.com/skeeto/branchless-utf8/blob/master/utf8.h)
 - [Normalized Byte Multiplication](https://pastebin.com/WsiW2BCz)
 - [Performance Optimization, SIMD, Cache](https://www.youtube.com/watch?v=Nsf2_Au6KxU)
+- [Going Nowhere Faster](https://www.youtube.com/watch?v=2EWejmkKlxs)
+- [Formatting Floats](http://www.zverovich.net/2019/02/11/formatting-floating-point-numbers.html)
+- [Adventures in Data-Oriented Design - Hierarchical Data](https://blog.molecular-matters.com/2013/02/22/adventures-in-data-oriented-design-part-2-hierarchical-data/)
+- [Modern x64 Architectures and the Cache](https://www.youtube.com/watch?v=tk5P7mt2fAw)
 
 Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -739,6 +781,9 @@ Technical History &amp; Stories
 - [An old-timey game dev. hack](http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
 - [24 Core CPU and I can't Move my Mouse](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
 - 24 Core CPU and I can't Type an Email [Part 1](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/) [Part 2](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
+- [Bitcoin Mining on an Apollo Guidance Computer](http://www.righto.com/2019/07/bitcoin-mining-on-apollo-guidance.html)
+- [Hexing the Technical Interview](https://aphyr.com/posts/341-hexing-the-technical-interview)
+- [Typing the Technical Interview](https://aphyr.com/posts/342-typing-the-technical-interview)
 
 Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -798,6 +843,7 @@ Linux
 Technical Finance
 - [Quantitative Trading](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
 - [Introduction to Cryptocurrency](https://blog.goodaudience.com/a-beginners-guide-to-getting-started-in-the-cryptocurrency-world-69c50516be71)
+- [HFT Systems in C++](https://www.youtube.com/watch?v=NH1Tta7purM)
 
 Web Dev
 - [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
@@ -868,6 +914,7 @@ UI, Music, Sound Design, &amp; Art
 - [Pixel Art Advice](http://blog.studiominiboss.com/pixelart)
 - [Pen Plotter Art &amp; Algorithms](https://mattdesl.svbtle.com/pen-plotter-1)
 - [Learning from Terminals to Design the Futures of User Interfaces](https://brandur.org/interfaces)
+- [Learning Synths](https://news.ycombinator.com/item?id=20272346)
 
 Misc.
 - [Crafting Plausible Maps](https://m.mythcreants.com/blog/crafting-plausible-maps/)
