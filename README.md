@@ -73,6 +73,7 @@ Software - Culture
 - [UTF8 Everywhere](http://utf8everywhere.org/)
 - [Taxonomy of Tech Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 - [Why Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/?fbclid=IwAR2XflDxIUCVIr9Uqva3nkqlCWNPMpEOddwkg9-7dNz9YnlhyfJrmR7G_x8)
+- [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
 
 Software - Business
 - [YC's Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
@@ -105,6 +106,7 @@ Software - Misc. Tools
 - [Tools for Writing Books](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 - [rr Debugger](https://rr-project.org/)
 - [msdfgen](https://github.com/Chlumsky/msdfgen)
+- [ImGui Profiler](https://github.com/Raikiri/LegitProfiler)
 
 Software - Misc. Libraries
 - [STB](https://github.com/nothings/stb) [powerful &amp; easy-to-integrate utilities]
@@ -161,6 +163,8 @@ Games - Design and Programming
 - [Fortnite Service Outage Postmortem](https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-at-3-4m-ccu?sessionInvalidated=true)
 - [Voronoi Split Screen](https://twitter.com/gooses_/status/1025723504929505280?s=19)
 - [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
+- [Marvel's Spider-Man: A Technical Postmortem](https://www.youtube.com/watch?v=KDhKyIZd3O8)
+- [Open-Ended Puzzle Design at Zachtronics](https://www.youtube.com/watch?v=U4uH1ynH3Rs)
 
 Games - Publishing
 - [The Cost of Games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
@@ -204,6 +208,7 @@ Math - Geometry/Algebra
 - [A Faster Quaternion-Vector Multiply](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
 - [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
 - [Discrete Differential Geometry](http://brickisland.net/DDGSpring2019/)
+- [Groups and Group Convolutions](https://colah.github.io/posts/2014-12-Groups-Convolution/)
 
 Math - Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -233,6 +238,7 @@ Math - Algorithms
 - [Dynamic Programming: First Principles](http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles)
 - [Dyanmic Programming: Seam Carving](https://avikdas.com/2019/05/14/real-world-dynamic-programming-seam-carving.html) [Improved](https://avikdas.com/2019/07/29/improved-seam-carving-with-forward-energy.html)
 - [Diffing Algorithms in Git](https://fabiensanglard.net/git_code_review/diff.php)
+- [Rectangle Packing](https://eatplayhate.me/2013/09/17/adventures-in-engine-construction-rectangle-packing/)
 
 Math - Algorithms - Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -280,6 +286,10 @@ Math - Machine Learning
 - [Empiricism and the Limits of Gradient Descent](http://togelius.blogspot.com/2018/05/empiricism-and-limits-of-gradient.html?m=1)
 - [End-to-End Machine Learning Pipeline](https://blog.roblox.com/2013/02/dynamic-lighting-and-shadows-the-voxel-solution/)
 - [AlphaStar - Mastering Starcraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+- [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+- [Visualizing Representations](https://colah.github.io/posts/2015-01-Visualizing-Representations/)
+- [Convolutional Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
+- [3D Style Transfer for Video](https://www.youtube.com/watch?v=fcnjHmBcLNQ&feature=youtu.be)
 
 Math - Randomness &amp; Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -306,6 +316,8 @@ Math - Randomness &amp; Procedural Generation
 - [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 - [PCG Family of pseudo-random generators](https://www.youtube.com/watch?v=45Oet5qjlms)
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
+- [Right-Triangulated Irregular Networks](https://github.com/mapbox/martini)
+- [Fractal Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -325,6 +337,7 @@ Math - Misc.
 - [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
 - [Going Critical](https://www.meltingasphalt.com/interactive/going-critical/)
 - [Tetris is NP-Complete](https://arxiv.org/pdf/cs/0210020.pdf)
+- [What is the Poisson Distribution?](https://towardsdatascience.com/poisson-distribution-intuition-and-derivation-1059aeab90d)
 
 Graphics - Techniques
 - [Tone Mapping](https://en.wikipedia.org/wiki/Tone_mapping)
@@ -358,6 +371,8 @@ Graphics - Techniques
 - [Modern LightMapping](http://www.humus.name/index.php?page=3D&ID=91)
 - [Fixing Frustum Culling](http://www.iquilezles.org/www/articles/frustumcorrect/frustumcorrect.htm)
 - [Tiled Deferred Shading](https://leifnode.com/2015/05/tiled-deferred-shading/)
+- [Error of Depth Buffer Formats](https://mynameismjp.wordpress.com/2010/03/22/attack-of-the-depth-buffer/)
+- [Visualizing Depth Buffer Precision](https://developer.nvidia.com/content/depth-precision-visualized)
 
 Graphics - Renderers
 - [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
@@ -371,6 +386,7 @@ Graphics - Renderers
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Rendering Black Holes in Interstellar](https://arxiv.org/abs/1502.03808)
 - [Seed of Andromeda - Bloom](https://www.seedofandromeda.com/blogs/63-bloomin-bloom)
+- [2D Rendering: Compositing Tree](http://nothings.org/gamedev/compositing_tree/)
 
 Graphics - Images
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
@@ -385,6 +401,7 @@ Graphics - Images
 - [Shadow Mapping in Monter](https://monter.handmade.network/blogs/p/2729-monter_blog_1:_shadow_mappiing)
 - [Color Grading &amp; Correction](https://kosmonautblog.wordpress.com/2017/04/26/color-grading-correction/)
 - [Better Texture Filtering - Shadertoy](https://www.shadertoy.com/view/XsfGDn)
+- [Beware of Transparent Pixels (Premultiplied Alpha)](http://www.adriancourreges.com/blog/2017/05/09/beware-of-transparent-pixels/)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -402,6 +419,7 @@ Graphics - Resources
 - [3D Graphics for Beginners](https://docs.google.com/document/d/1srv0kGsZx5g54QvbkH1PWHHCYiJpddHn8qJLbPqJH_c/edit)
 - [Physically Based Rendering (text)](http://www.pbr-book.org/3ed-2018/contents.html)
 - [Tensorflow Graphics](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
+- [How to Read a Realistic Rendering Paper](https://morgan3d.github.io/advanced-ray-tracing-course/reading-research.pdf)
 
 Graphics - Ray/Path Tracing
 - [Rendering Text with Distance Fields](http://www.valvesoftware.com/publications/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf)
@@ -423,12 +441,14 @@ Graphics - Ray/Path Tracing
 - [Raymarched Explosion in C++](https://github.com/ssloy/tinykaboom/wiki)
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
 - [Path Tracer Project Report](http://thume.ca/ray-tracer-site/report.pdf)
+- [Megakernels Considered Harmful: GPU Wavefront Path-Tracing](https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
 - [Interactive Indirect Illumination using Voxel Cone Tracing](https://research.nvidia.com/sites/default/files/pubs/2011-09_Interactive-Indirect-Illumination/GIVoxels-pg2011-authors.pdf)
 - [Cascaded Voxel Cone Tracing in The Tomorrow Children](https://www.gamasutra.com/view/news/286023/Graphics_Deep_Dive_Cascaded_voxel_cone_tracing_in_The_Tomorrow_Children.php)
 - [Implementing Voxel Cone Tracing](http://simonstechblog.blogspot.com/2013/01/implementing-voxel-cone-tracing.html)
+- [Voxel Cone Traced Global Illumination](https://leifnode.com/2015/05/voxel-cone-traced-global-illumination/)
 - [GigaVoxels](http://maverick.inria.fr/Publications/2011/Cra11/)
 - [Real-Time Voxels (blog)](http://realtimevoxels.blogspot.com/)
 - [Dual Contouring](https://upvoid.com/devblog/2013/05/terrain-engine-part-1-dual-contouring/)
@@ -482,6 +502,7 @@ Graphics - GPU Tools
 - [Minimal D3D Framework Code](https://gist.github.com/d7samurai/c93e8aac22ef3ec77fea03be0ce86f51)
 - [Setting up D3D11](https://git.handmade.network/snippets/19)
 - [D3D12 Programming Guide](https://docs.microsoft.com/en-us/windows/desktop/direct3d12/directx-12-programming-guide)
+- [Pixel Art Games and nSight Shader Analysis (HMH)](https://www.youtube.com/watch?v=Yu8k7a1hQuU)
 
 Graphics - Vulkan
 - [Vulkan in 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
@@ -533,6 +554,7 @@ Graphics - GLSL
 - [LearnOpenGL - Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL)
 - [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners/blob/master/README.md#normal-mapping)
 - [Avoiding Shader Conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
+- [Protean Clouds (Shadertoy)](https://www.shadertoy.com/view/3l23Rh)
 
 Languages - Functional Programming
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
@@ -624,6 +646,10 @@ Languages - (Modern) C++
 - [C++ Programming Tips](https://blog.molecular-matters.com/2017/09/05/c-programming-tips/)
 - [Meson Build System in C++](https://www.youtube.com/watch?v=SCZLnopmYBM)
 - [C++/Async/Util/Random Projects - Maciej Sinilo](http://msinilo.pl/blog2/projects/projects/) [[blog](http://msinilo.pl/blog2/)]
+- [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=2olsGf6JIkU)
+- [Non-Conforming C++ - The Secrets the Committee is Hiding from You](https://www.youtube.com/watch?v=IAdLwUXRUvg)
+- [There Are No Zero-Cost Abstractions](https://www.youtube.com/watch?v=rHIkrotSwcc)
+- [Path Tracing 3 Ways: C++ Style Study](https://www.youtube.com/watch?v=HG6c4Kwbv4I)
 
 Languages - Jai
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -642,6 +668,7 @@ Languages - Misc.
 - [dartfmt](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
 - [Python Decorators](https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb)
 - [Perils of Constructors](https://matklad.github.io/2019/07/16/perils-of-constructors.html)
+- [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
 
 Computer Engineering - Architecture
 - [Computer Design Game](https://www.blinklight.io/)
@@ -680,6 +707,7 @@ Computer Engineering - Security
 - [Finding a CPU Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 - [Avast Open-Sources Machine Code Decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
 - [Finding Statically-Linked Vulnerable Code](https://googleprojectzero.blogspot.com/2018/12/searching-statically-linked-vulnerable.html?m=1)
+- [How a double-free bug in WhatsApp turns to RCE](https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/)
 
 Computer Engineering - Low Level Programming
 - [Branch Prediction](https://danluu.com/branch-prediction/)
@@ -717,6 +745,8 @@ Computer Engineering - Low Level Programming
 - [Formatting Floats](http://www.zverovich.net/2019/02/11/formatting-floating-point-numbers.html)
 - [Adventures in Data-Oriented Design - Hierarchical Data](https://blog.molecular-matters.com/2013/02/22/adventures-in-data-oriented-design-part-2-hierarchical-data/)
 - [Modern x64 Architectures and the Cache](https://www.youtube.com/watch?v=tk5P7mt2fAw)
+- [Where do Interrupts Happen?](https://travisdowns.github.io/blog/2019/08/20/interrupts.html)
+- [Anatomy of a High-Performance Matrix Convolution](https://sahnimanas.github.io/post/anatomy-of-a-high-performance-convolution/)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
