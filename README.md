@@ -37,6 +37,7 @@ Software - Technique
 - [The Wrong Abstraction (is worse than duplication)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Data Oriented Design Slides](http://www.dice.se/wp-content/uploads/2014/12/Introduction_to_Data-Oriented_Design.pdf)
 - [OOP is Dead, Long Live Data Oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU)
+- [Practical Examples in Data Oriented Design](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
 
 Software - Professional Development
 - [How to Present a GitHub Project](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
@@ -74,6 +75,9 @@ Software - Culture
 - [Taxonomy of Tech Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 - [Why Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/?fbclid=IwAR2XflDxIUCVIr9Uqva3nkqlCWNPMpEOddwkg9-7dNz9YnlhyfJrmR7G_x8)
 - [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
+- [The Lesson to Unlearn (Hacking Bad Tests)](http://paulgraham.com/lesson.html)
+- [How to Write Better C Libraries](https://handmade.network/wiki/7138-how_to_write_better_game_libraries)
+- [The Thirty-Million Line Problem](https://www.youtube.com/watch?v=kZRE7HIO3vk&feature=youtu.be)
 
 Software - Business
 - [YC's Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
@@ -165,6 +169,8 @@ Games - Design and Programming
 - [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
 - [Marvel's Spider-Man: A Technical Postmortem](https://www.youtube.com/watch?v=KDhKyIZd3O8)
 - [Open-Ended Puzzle Design at Zachtronics](https://www.youtube.com/watch?v=U4uH1ynH3Rs)
+- [How to Make Great Puzzle Game](https://thepuzzle.press/how-to-make-a-great-puzzle-game/)
+- [Useful Snippets](https://blog.bruce-hill.com/6-useful-snippets)
 
 Games - Publishing
 - [The Cost of Games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
@@ -209,6 +215,8 @@ Math - Geometry/Algebra
 - [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
 - [Discrete Differential Geometry](http://brickisland.net/DDGSpring2019/)
 - [Groups and Group Convolutions](https://colah.github.io/posts/2014-12-Groups-Convolution/)
+- [Compressing 3D Unit Vectors](https://gamedevnotesblog.wordpress.com/2019/12/26/compression-of-3d-unit-vectors/)
+- [Conformal Geometry Processing](https://www.youtube.com/watch?v=g0nY5VM1PSU)
 
 Math - Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -239,6 +247,7 @@ Math - Algorithms
 - [Dyanmic Programming: Seam Carving](https://avikdas.com/2019/05/14/real-world-dynamic-programming-seam-carving.html) [Improved](https://avikdas.com/2019/07/29/improved-seam-carving-with-forward-energy.html)
 - [Diffing Algorithms in Git](https://fabiensanglard.net/git_code_review/diff.php)
 - [Rectangle Packing](https://eatplayhate.me/2013/09/17/adventures-in-engine-construction-rectangle-packing/)
+- [Markov Chains for Procedural Buildings](https://weigert.vsos.ethz.ch/2019/10/30/markov-chains-for-procedural-buildings/)
 
 Math - Algorithms - Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -251,6 +260,7 @@ Math - Algorithms - Concurrency
 - [Structured Concurrency: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 - [Structured Concurrency in High-level Languages](http://250bpm.com/blog:124)
 - [Concurrency - Why is Memory Reclamation so Important?](https://concurrencyfreaks.blogspot.com/2017/08/why-is-memory-reclamation-so-important.html)
+- [Making the Tokio Scheduler 10x Faster (Work-Stealing)](https://tokio.rs/blog/2019-10-scheduler/)
 
 Math - Data Structures
 - [Esoteric Data Structures and Where to Find Them](https://www.youtube.com/watch?v=-8UZhDjgeZU)
@@ -274,7 +284,7 @@ Math - Machine Learning
 - [3Blue1Brown Deep Learning Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 - [Tensorflow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes)
-- [Machine Learning 101 Sidedeck](https://news.ycombinator.com/item?id=15919115)
+- [Machine Learning 101 Slidedeck](https://news.ycombinator.com/item?id=15919115)
 - [Build a Neural Network](https://enlight.nyc/neural-network)
 - [Ackley Function](https://en.wikipedia.org/wiki/Ackley_function)
 - [Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
@@ -290,6 +300,8 @@ Math - Machine Learning
 - [Visualizing Representations](https://colah.github.io/posts/2015-01-Visualizing-Representations/)
 - [Convolutional Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
 - [3D Style Transfer for Video](https://www.youtube.com/watch?v=fcnjHmBcLNQ&feature=youtu.be)
+- [Lessons learned building an ML trading system](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
+- [Separate your filters](https://bartwronski.com/2020/02/03/separate-your-filters-svd-and-low-rank-approximation-of-image-filters/)
 
 Math - Randomness &amp; Procedural Generation
 - [Subreddit](http://www.reddit.com/r/proceduralgeneration/)
@@ -309,7 +321,6 @@ Math - Randomness &amp; Procedural Generation
 - [Procedural Structures in Tilemaps](https://www.reddit.com/r/proceduralgeneration/comments/6l3t1s/procedural_structures_in_a_tilemap/?st=j4q3zl6b&sh=2d5e97a4)
 - [Questions about L-Systems](https://www.reddit.com/r/proceduralgeneration/comments/6h9t50/questions_about_lsystems/?st=j4pvjvmz&sh=e1a7d31d)
 - [Eroding Fractal Terrain with Virtual Raindrops](https://softologyblog.wordpress.com/2016/12/09/eroding-fractal-terrains-with-virtual-raindrops/#comment-1110)
-- [L-Systems](https://en.wikipedia.org/wiki/L-system)
 - [SIMD FastNoise](https://github.com/jackmott/FastNoise-SIMD)
 - [Top-Down Cave Gen](http://noelberry.ca/#thecaves)
 - [RoboHash](https://robohash.org/)
@@ -318,6 +329,7 @@ Math - Randomness &amp; Procedural Generation
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
 - [Right-Triangulated Irregular Networks](https://github.com/mapbox/martini)
 - [Fractal Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
+- [L-Systems](https://jsantell.com/l-systems/)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -373,6 +385,8 @@ Graphics - Techniques
 - [Tiled Deferred Shading](https://leifnode.com/2015/05/tiled-deferred-shading/)
 - [Error of Depth Buffer Formats](https://mynameismjp.wordpress.com/2010/03/22/attack-of-the-depth-buffer/)
 - [Visualizing Depth Buffer Precision](https://developer.nvidia.com/content/depth-precision-visualized)
+- [A Sampling of Shadow Techniques](https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/)
+- [Encoding floats to RGBA](https://aras-p.info/blog/2009/07/30/encoding-floats-to-rgba-the-final/)
 
 Graphics - Renderers
 - [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
@@ -380,13 +394,15 @@ Graphics - Renderers
 - [Writing a Custom Vector Graphics Renderer Part 1](https://top.handmade.network/blogs/p/2795-writing_a_custom_vector_graphics_renderer_-_part_1#13785)
 - [Destiny's Multi-threaded Rendering Architecture](http://advances.realtimerendering.com/destiny/gdc_2015/Tatarchuk_GDC_2015__Destiny_Renderer_web.pdf)
 - [How Unreal Renders a Frame](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
-- [DOOM 2016 Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 - [How the Milton Renderer Works](http://s3rg.io/posts/milton_renderer/)
 - [Filament Physically Based Graphics Engine (Android)](https://google.github.io/filament/Filament.md.html)
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Rendering Black Holes in Interstellar](https://arxiv.org/abs/1502.03808)
 - [Seed of Andromeda - Bloom](https://www.seedofandromeda.com/blogs/63-bloomin-bloom)
 - [2D Rendering: Compositing Tree](http://nothings.org/gamedev/compositing_tree/)
+- [DOOM 2016 Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
+- [Metal Gear Solid V Graphics Study](https://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/)
+- [Rendering INSIDE - High Fidelity, low complexity](https://www.gdcvault.com/play/1023304/Low-Complexity-High-Fidelity-INSIDE)
 
 Graphics - Images
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
@@ -442,6 +458,9 @@ Graphics - Ray/Path Tracing
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
 - [Path Tracer Project Report](http://thume.ca/ray-tracer-site/report.pdf)
 - [Megakernels Considered Harmful: GPU Wavefront Path-Tracing](https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf)
+- [Ray Tracing a Tiny Procedural Planet](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
+- [Virtual Femto-Photography](https://benedikt-bitterli.me/femto.html)
+- [Crafting a real-time path tracer for minecraft RTX](https://www.youtube.com/watch?v=mDlmQYHApBU&feature=emb_title)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -500,9 +519,11 @@ Graphics - GPU Tools
 - [GPU Fluid Simulation](https://benedikt-bitterli.me/gpu-fluid.html)
 - [Interactive CUDA](https://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA)
 - [Minimal D3D Framework Code](https://gist.github.com/d7samurai/c93e8aac22ef3ec77fea03be0ce86f51)
+- [D3D Code Samples](https://github.com/kevinmoran/BeginnerDirect3D11)
 - [Setting up D3D11](https://git.handmade.network/snippets/19)
 - [D3D12 Programming Guide](https://docs.microsoft.com/en-us/windows/desktop/direct3d12/directx-12-programming-guide)
 - [Pixel Art Games and nSight Shader Analysis (HMH)](https://www.youtube.com/watch?v=Yu8k7a1hQuU)
+- [Metal starter code](https://github.com/kevinmoran/Handmade-Metal-Programming)
 
 Graphics - Vulkan
 - [Vulkan in 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
@@ -515,6 +536,7 @@ Graphics - Vulkan
 - [LearnVulkan](https://learnvulkan.com/)
 - [VkMark](https://github.com/vkmark/vkmark)
 - [A Guide to Vulkan Layers](https://renderdoc.org/vulkan-layer-guide.html)
+- [Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 
 Graphics - OpenGL
 - [Tutorials](http://www.learnopengl.com/#!Getting-started/Creating-a-window)
@@ -578,6 +600,7 @@ Languages - Compilers
 - [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 - [Lisp in 200 Lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
 - [How we get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
+- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 
 Languages - Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -587,6 +610,10 @@ Languages - Rust
 - [Micro-controllers with Rust](https://japaric.github.io/discovery/)
 - [Lock-free Dequeue in Rust](https://github.com/kinghajj/deque)
 - [Entity Systems and the Borrow Checker (Rant)](https://www.youtube.com/watch?v=4t1K66dMhWk)
+- [Rust Game Dev Experience](https://kyren.github.io/2018/09/14/rustconf-talk.html)
+- [Learn Rust with Entirely too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+- [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+- [How to debug rust with visual studio code](https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/)
 
 Languages - LLVM
 - [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
@@ -611,6 +638,7 @@ Languages - C
 - [Embedded - What happens before main() is executed?](http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/)
 - [Why Aren't there C Conferences?](https://nullprogram.com/blog/2018/11/21/)
 - [Some Dark Corners of C](https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/preview?slide=id.gec7eb408_3500)
+- [Some things eveyr C programmer should know about C](https://web.archive.org/web/20030812081713/http://klausler.com/cnotes.txt)
 
 Languages - (Modern) C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -650,6 +678,7 @@ Languages - (Modern) C++
 - [Non-Conforming C++ - The Secrets the Committee is Hiding from You](https://www.youtube.com/watch?v=IAdLwUXRUvg)
 - [There Are No Zero-Cost Abstractions](https://www.youtube.com/watch?v=rHIkrotSwcc)
 - [Path Tracing 3 Ways: C++ Style Study](https://www.youtube.com/watch?v=HG6c4Kwbv4I)
+- [libc++'s implementation of std::string](https://joellaity.com/2020/01/31/string.html)
 
 Languages - Jai
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -669,6 +698,7 @@ Languages - Misc.
 - [Python Decorators](https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb)
 - [Perils of Constructors](https://matklad.github.io/2019/07/16/perils-of-constructors.html)
 - [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
+- [K](http://www.math.bas.bg/bantchev/place/k.html)
 
 Computer Engineering - Architecture
 - [Computer Design Game](https://www.blinklight.io/)
@@ -708,6 +738,8 @@ Computer Engineering - Security
 - [Avast Open-Sources Machine Code Decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
 - [Finding Statically-Linked Vulnerable Code](https://googleprojectzero.blogspot.com/2018/12/searching-statically-linked-vulnerable.html?m=1)
 - [How a double-free bug in WhatsApp turns to RCE](https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/)
+- [Adventures in Smart Buttplug Penetration](https://www.youtube.com/watch?v=RnxcPeemHSc)
+- [How we recovered over $300k of bitcoin](https://reperiendi.wordpress.com/2020/04/03/how-i-recovered-over-300k-of-bitcoin/)
 
 Computer Engineering - Low Level Programming
 - [Branch Prediction](https://danluu.com/branch-prediction/)
@@ -747,6 +779,7 @@ Computer Engineering - Low Level Programming
 - [Modern x64 Architectures and the Cache](https://www.youtube.com/watch?v=tk5P7mt2fAw)
 - [Where do Interrupts Happen?](https://travisdowns.github.io/blog/2019/08/20/interrupts.html)
 - [Anatomy of a High-Performance Matrix Convolution](https://sahnimanas.github.io/post/anatomy-of-a-high-performance-convolution/)
+- [Optimizing the Interpreter Loop](http://www.emulators.com/docs/nx25_nostradamus.htm)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -790,6 +823,10 @@ Computer Engineering - Operating Systems - Windows
 - [Xinput (Odin)](https://github.com/ThisDrunkDane/odin-xinput/blob/master/xinput.odin)
 - [MSVC Flag: d2cgsummary](http://aras-p.info/blog/2017/10/23/Best-unknown-MSVC-flag-d2cgsummary/)
 - [MSVC Flag: d1reporttime](http://aras-p.info/blog/2019/01/21/Another-cool-MSVC-flag-d1reportTime/)
+- [24 Core CPU and I can't Move my Mouse](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
+- 24 Core CPU and I can't Type an Email [Part 1](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/) [Part 2](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
+- [63 Cores Blocked by 7 Instructions](https://randomascii.wordpress.com/2019/10/20/63-cores-blocked-by-seven-instructions/)
+- [n^2 again, now in WMI](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
 
 Computer Engineering - Operating Systems - Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
@@ -853,6 +890,7 @@ Databases
 - [State Machines in postgreSQL](http://felixge.de/2017/07/27/implementing-state-machines-in-postgresql.html)
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 - [Favorite PostgreSQL Queries](https://news.ycombinator.com/item?id=16840220)
+- [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 
 Networking
 - [How Multiplayer Games Sync their State](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1)
@@ -907,11 +945,11 @@ Technical History &amp; Stories
 - [Raikoth: Laws, Language, and Society](http://slatestarcodex.com/2013/05/06/raikoth-laws-language-and-society/)
 - [Five Thousand Years in an Alternate Universe](http://slatestarcodex.com/2013/04/15/things-i-learned-by-spending-five-thousand-years-in-an-alternate-universe/)
 - [An old-timey game dev. hack](http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-- [24 Core CPU and I can't Move my Mouse](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
-- 24 Core CPU and I can't Type an Email [Part 1](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/) [Part 2](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
 - [Bitcoin Mining on an Apollo Guidance Computer](http://www.righto.com/2019/07/bitcoin-mining-on-apollo-guidance.html)
 - [Hexing the Technical Interview](https://aphyr.com/posts/341-hexing-the-technical-interview)
 - [Typing the Technical Interview](https://aphyr.com/posts/342-typing-the-technical-interview)
+- [The ZedRipper](http://www.chrisfenton.com/the-zedripper-part-1/)
+- [The Infinite Loop that wasn't: a holy grail bug story](https://mgba.io/2020/01/25/infinite-loop-holy-grail/)
 
 Random
 - [Crafting Plausible Maps](https://m.mythcreants.com/blog/crafting-plausible-maps/)
