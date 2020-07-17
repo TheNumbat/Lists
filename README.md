@@ -4,22 +4,18 @@ A curated collection of technical articles accumulated from around the web.
 
 This may serve as an overview of what I'm interested in.
 
-Other Lists
+Blogs
 - [Red Blob Games](http://www.redblobgames.com/)
-- [Articles - Paul Graham](http://paulgraham.com/articles.html)
-- [Notes on Programming - Richard Mitton](http://www.codersnotes.com/notes/)
-- [Fractals, Graphics, Mathematics, Demoscenes and more - Inigo Quilez](http://iquilezles.org/)
-- [CS Illustrated](http://csillustrated.berkeley.edu/illustrations.php)
-- [CS Industry, Networking, etc. - Julia Evans](https://jvns.ca/)
-- [Tech Stories, Projects - Alice Maz](https://www.alicemaz.com/)
-- [Graphics - Alan Wolfe](https://blog.demofox.org/)
+- [Paul Graham](http://paulgraham.com/articles.html)
+- [Richard Mitton](http://www.codersnotes.com/notes/)
+- [Inigo Quilez](http://iquilezles.org/)
+- [Julia Evans](https://jvns.ca/)
+- [Alice Maz](https://www.alicemaz.com/)
+- [Alan Wolfe](https://blog.demofox.org/)
 - [Mediocre Game Technology](http://tuxedolabs.blogspot.com/)
-- [Recommended Papers - Fabian Giesen](https://fgiesen.wordpress.com/2017/08/12/papers-i-like-part-1/)
+- [Fabian Giesen](https://fgiesen.wordpress.com/2017/08/12/papers-i-like-part-1/)
 - [An Entire Self-Taught CS Education](https://github.com/open-source-society/computer-science)
-- [Every Programmer Should Know...](https://github.com/mr-mig/every-programmer-should-know/blob/master/README.md)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
-- [Game Dev Resources Thread](https://twitter.com/amzeratul/status/946768612404187136)
-- [Best MOOCs](https://news.ycombinator.com/item?id=16745042)
 
 Software - Technique
 - [Compression-oriented Programming](http://mollyrocket.com/casey/stream_0019.html)
@@ -42,7 +38,6 @@ Software - Technique
 Software - Professional Development
 - [How to Present a GitHub Project](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
 - [Making Example GIFs](https://blog.github.com/2018-06-29-GIF-that-keeps-on-GIFing/)
-- [Teach Yourself Programming in Ten Years](https://archive.is/m2G7g)
 - [Programming Notes for Professionals](http://books.goalkicker.com/)
 - [What Books have Made the Biggest Impact on your Mental Models?](https://news.ycombinator.com/item?id=15155833)
 - [McSoftware](https://hackernoon.com/mcsoftware-b33888f5f7c)
@@ -53,10 +48,8 @@ Software - Professional Development
 - [What info do you wish every job posting included?](https://news.ycombinator.com/item?id=17143437)
 - [Salary Negotiation - Name a Number](http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/)
 - [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-- [What do you struggle with? Ask HN](https://news.ycombinator.com/item?id=17867109)
 
 Software - Culture
-- [How I got to 200 Productive Hours / Month](https://qotoqot.com/blog/improving-focus/)
 - [Confessions of a UE4 Engineering Firefighter](https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/)
 - [How do You Make Programmers Work 60-80 Hour Weeks?](http://brianknapp.me/programmer-60-80-hour-weeks/)
 - [What Are Your Unpopular Opinions on Software Development?](https://www.quora.com/What-unpopular-opinions-do-you-have-about-software-development)
@@ -78,14 +71,7 @@ Software - Culture
 - [The Lesson to Unlearn (Hacking Bad Tests)](http://paulgraham.com/lesson.html)
 - [How to Write Better C Libraries](https://handmade.network/wiki/7138-how_to_write_better_game_libraries)
 - [The Thirty-Million Line Problem](https://www.youtube.com/watch?v=kZRE7HIO3vk&feature=youtu.be)
-
-Software - Business
-- [YC's Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
-- [Setting my Bootstrapped SaaS Business](https://www.indiehackers.com/@tylertringas/selling-my-bootstrapped-saas-business-26c8406e1d)
-- [Surviving Your First Year](https://www.backblaze.com/blog/startup-stages-surviving-your-first-year/)
-- [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
-- [Credit Card Fraud Warning Signs](https://www.candyjapan.com/behind-the-scenes/fraudulent-transaction-warning-signs)
-- [How to Come up with Profitable On-line Business Ideas](https://www.indiehackers.com/round-table/how-to-come-up-with-profitable-online-business-ideas)
+- [John Carmack on inlined code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 
 Software - Misc. Tools
 - [Color Theming](https://color.adobe.com/)
@@ -98,10 +84,8 @@ Software - Misc. Tools
 - [Quick C++ Microbenchmark](http://quick-bench.com/XM3odpntQoWZJTB5UOx84sIZfdw)
 - [Godbolt Compiler Explorer](https://godbolt.org/)
 - [C++ Development with VS Code](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
-- [DevDocs.io](https://devdocs.io/)
 - [Excel](https://www.youtube.com/watch?v=3ciH34Qexn4)
 - [Alternatives to PPT](https://news.ycombinator.com/item?id=15575363)
-- [VMF Sketch](http://williambundy.xyz/vmfsketch.html)
 - [Atom Teletype](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 - [Peekaboo](https://www.dropbox.com/s/ionox7ocgj8ndfx/peekaboo_09.exe?dl=0)
 - [Using ffmpeg](https://github.com/leandromoreira/ffmpeg-libav-tutorial/blob/master/README.md)
@@ -110,32 +94,26 @@ Software - Misc. Tools
 - [Tools for Writing Books](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 - [rr Debugger](https://rr-project.org/)
 - [msdfgen](https://github.com/Chlumsky/msdfgen)
-- [ImGui Profiler](https://github.com/Raikiri/LegitProfiler)
 
 Software - Misc. Libraries
+- [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
 - [STB](https://github.com/nothings/stb) [powerful &amp; easy-to-integrate utilities]
-- [Loguru](https://github.com/emilk/loguru)
+- [SDL2](https://wiki.libsdl.org/)
 - [SDL_net](http://sdl.beuc.net/sdl.wiki/SDL_net)
-- [SDL Wiki](https://wiki.libsdl.org/)
 - [GLFW Reference](http://www.glfw.org/docs/latest/modules.html)
-- [IMGUI](https://github.com/ocornut/imgui)
-- [OpenAL Guide](https://openal.org/documentation/OpenAL_Programmers_Guide.pdf)
+- [Loguru](https://github.com/emilk/loguru)
+- [ImGui](https://github.com/ocornut/imgui)
+- [ImGui Profiler](https://github.com/Raikiri/LegitProfiler)
+- [ImWindow](https://github.com/thennequin/ImWindow)
+- [ImTui](https://github.com/ggerganov/imtui)
 - [SEE2 Trig Functions](https://handmade.network/forums/wip/t/1439-sse2_implementations_of_tan,_cot,_atan,_atan2)
 - [Easy Drawing Tablet Input](https://github.com/ApoorvaJ/EasyTab)
 - [Slug Font Rendering](http://sluglibrary.com/)
 - [NaCl Crypto](https://nacl.cr.yp.to/)
-- [Debug Menu for Games](https://github.com/Srekel/the-debuginator/)
 - [C++ Memory Profiler](https://github.com/milostosic/MTuner)
 - [TinyHeaders](https://github.com/RandyGaul/tinyheaders)
-- [ImWindow](https://github.com/thennequin/ImWindow)
-- [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
-
-Software - Project Ideas
-- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
-- [Papercraft with Blender](https://matiasmorant.wordpress.com/2017/12/23/papercraft-with-blender/)
-- [Run Your Own Mail Server](https://www.c0ffee.net/blog/mail-server-guide)
-- [Write Your Own Git](https://wyag.thb.lt/)
-- [Building a Homebrew Console](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
+- [SoLoud](http://sol.gfxile.net/soloud/)
+- [Mesh Optimizer](https://github.com/zeux/meshoptimizer)
 
 Games - Handmade Hero
 - [Handmade Hero](https://www.twitch.tv/handmade_hero)
@@ -150,11 +128,11 @@ Games - Handmade Hero
 - [Bitwise](https://github.com/pervognsen/bitwise)
 - [Bitwise Archive](https://www.youtube.com/user/pervognsen/videos)
 
-Games - Design and Programming
+Games - Design
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
 - [How to Design Deep Games - Jon Blow](https://www.youtube.com/watch?v=d0m0jIzJfiQ)
 - [Fireside Chat with Jon Blow](https://www.youtube.com/watch?v=wQJ8iPSO0jE)
-- [Imirt Inspire Interview: Jon Blow](https://www.youtube.com/watch?v=5YnTSrIFUxg)
+- [Inspire Interview: Jon Blow](https://www.youtube.com/watch?v=5YnTSrIFUxg)
 - [The Medium is the Message - Jon Blow](https://www.youtube.com/watch?v=AxFzf6yIfcc&feature=youtu.be&t=36)
 - [The Art of The Witness](https://www.youtube.com/watch?v=A_Gni_2ecd4)
 - [Truth in Game Design](https://www.youtube.com/watch?v=C5FUtrmO7gI)
@@ -165,12 +143,9 @@ Games - Design and Programming
 - [Factorio Modding API](http://lua-api.factorio.com/latest/)
 - [Riot's Approach to Anti-Cheat](https://engineering.riotgames.com/news/riots-approach-anti-cheat)
 - [Fortnite Service Outage Postmortem](https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-at-3-4m-ccu?sessionInvalidated=true)
-- [Voronoi Split Screen](https://twitter.com/gooses_/status/1025723504929505280?s=19)
 - [Useful Game Dev. Code Snippets](https://mobile.twitter.com/mike_acton/status/900343616324980736)
-- [Marvel's Spider-Man: A Technical Postmortem](https://www.youtube.com/watch?v=KDhKyIZd3O8)
 - [Open-Ended Puzzle Design at Zachtronics](https://www.youtube.com/watch?v=U4uH1ynH3Rs)
 - [How to Make Great Puzzle Game](https://thepuzzle.press/how-to-make-a-great-puzzle-game/)
-- [Useful Snippets](https://blog.bruce-hill.com/6-useful-snippets)
 
 Games - Publishing
 - [The Cost of Games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
@@ -184,17 +159,19 @@ Games - Publishing
 - [Ultimate Legal Guide](https://www.reddit.com/r/gamedev/comments/5pxldd/ultimate_as_promised_guide_to_legal_needs_and/)
 - [Put Your Name on Your Game](https://www.youtube.com/watch?v=N4UFC0y1tY0)
 
-Games - Sound Design, UI, &amp; Art
+Games - Programming, Art, Audio, UI
 - [DOOM Behind the Music](https://www.youtube.com/watch?v=U4FNBMZsqrY)
 - [Pixel Art Advice](http://blog.studiominiboss.com/pixelart)
 - [Pen Plotter Art &amp; Algorithms](https://mattdesl.svbtle.com/pen-plotter-1)
 - [Learning from Terminals to Design the Futures of User Interfaces](https://brandur.org/interfaces)
 - [Learning Synths](https://news.ycombinator.com/item?id=20272346)
+- [Voronoi Split Screen](https://twitter.com/gooses_/status/1025723504929505280?s=19)
+- [Marvel's Spider-Man: A Technical Postmortem](https://www.youtube.com/watch?v=KDhKyIZd3O8)
+- [Useful Snippets](https://blog.bruce-hill.com/6-useful-snippets)
 
-Math - Geometry/Algebra
+Math - Geometry
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 - [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
-- [Quaternions Double Cover](http://mollyrocket.com/837)
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 - [Visualizing Quaternions](https://news.ycombinator.com/item?id=18310788)
 - [Let's Remove Quaternions - Geometric Algebra](http://marctenbosch.com/quaternions/)
@@ -204,8 +181,6 @@ Math - Geometry/Algebra
 - [Implementing Inverse Kinematics](http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php)
 - [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
 - [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
-- [Geometric Mean](https://en.wikipedia.org/wiki/Geometric_mean#Properties)
-- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Modes, Medians, and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
 - [Programmer's Guide to Polynomials and Splines](http://wordsandbuttons.online/programmers_guide_to_polynomials_and_splines.html)
 - [Improving the fast inverse square root](http://rrrola.wz.cz/inv_sqrt.html)
@@ -213,10 +188,13 @@ Math - Geometry/Algebra
 - [Fundamentals of Grassmann Algebra](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
 - [A Faster Quaternion-Vector Multiply](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
 - [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
-- [Discrete Differential Geometry](http://brickisland.net/DDGSpring2019/)
+- [Discrete Differential Geometry](http://brickisland.net/DDGSpring2020/)
 - [Groups and Group Convolutions](https://colah.github.io/posts/2014-12-Groups-Convolution/)
 - [Compressing 3D Unit Vectors](https://gamedevnotesblog.wordpress.com/2019/12/26/compression-of-3d-unit-vectors/)
 - [Conformal Geometry Processing](https://www.youtube.com/watch?v=g0nY5VM1PSU)
+- [Inside curved Spaces](https://www.youtube.com/watch?v=s_PNYf4qVKc)
+- [Monte Carlo Geometry Processing](http://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf)
+- [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
 
 Math - Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -236,7 +214,6 @@ Math - Algorithms
 - [PageRank](https://en.wikipedia.org/wiki/PageRank)
 - [GJK and Expanding Polytope Explanation](https://www.youtube.com/watch?v=6rgiPrzqt9w&t=24m50s)
 - [FSM Designer](http://madebyevan.com/fsm/)
-- [WebGL Fluid Simulation Guide/Example](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/)
 - [Generative Algorithms](https://inconvergent.net/generative/)
 - [What's your favorite algorithm? Ask HN](https://news.ycombinator.com/item?id=18236396)
 - [Wavefunction Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
@@ -248,8 +225,11 @@ Math - Algorithms
 - [Diffing Algorithms in Git](https://fabiensanglard.net/git_code_review/diff.php)
 - [Rectangle Packing](https://eatplayhate.me/2013/09/17/adventures-in-engine-construction-rectangle-packing/)
 - [Markov Chains for Procedural Buildings](https://weigert.vsos.ethz.ch/2019/10/30/markov-chains-for-procedural-buildings/)
+- [Optimizing sorting in D - doing more work/branchless](https://dlang.org/blog/2020/05/14/lomutos-comeback/)
+- [Cache-Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
+- [The Xi text engine CRDT](https://github.com/xi-editor/xi-editor/blob/e8065a3993b80af0aadbca0e50602125d60e4e38/doc/crdt-details.md)
 
-Math - Algorithms - Concurrency
+Math - Data Structures &amp; Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
 - [Multithreaded Game Engine Design](https://blog.molecular-matters.com/tag/game-engine/page/2/)
 - [Designing a Parallel Game Engine](https://software.intel.com/sites/default/files/m/d/4/1/d/8/Designing_a_Parallel_Game_Engine.pdf)
@@ -261,10 +241,8 @@ Math - Algorithms - Concurrency
 - [Structured Concurrency in High-level Languages](http://250bpm.com/blog:124)
 - [Concurrency - Why is Memory Reclamation so Important?](https://concurrencyfreaks.blogspot.com/2017/08/why-is-memory-reclamation-so-important.html)
 - [Making the Tokio Scheduler 10x Faster (Work-Stealing)](https://tokio.rs/blog/2019-10-scheduler/)
-
-Math - Data Structures
-- [Esoteric Data Structures and Where to Find Them](https://www.youtube.com/watch?v=-8UZhDjgeZU)
 - [An Interesting Lock-Free Queue](https://www.youtube.com/watch?v=HP2InVqgBFM)
+- [Esoteric Data Structures and Where to Find Them](https://www.youtube.com/watch?v=-8UZhDjgeZU)
 - [Xi Algorithms/Rope](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 - [Designing a Fast Hash Table](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)
 - [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/fall17/)
@@ -289,12 +267,10 @@ Math - Machine Learning
 - [Ackley Function](https://en.wikipedia.org/wiki/Ackley_function)
 - [Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
 - [Unsupervised Image-to-Image Translation Networks](https://papers.nips.cc/paper/6672-unsupervised-image-to-image-translation-networks.pdf)
-- [ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [A Neural Network in 10 Lines of C++](https://cognitivedemons.wordpress.com/2017/07/06/a-neural-network-in-10-lines-of-c-code/)
 - [Learning to write programs that generate images](https://deepmind.com/blog/learning-to-generate-images/)
 - [Code Generation and Semantic Parsing - Hearthstone Cards](http://nlp.cs.berkeley.edu/pubs/Rabinovich-Stern-Klein_2017_AbstractSyntaxNetworks_paper.pdf)
 - [Empiricism and the Limits of Gradient Descent](http://togelius.blogspot.com/2018/05/empiricism-and-limits-of-gradient.html?m=1)
-- [End-to-End Machine Learning Pipeline](https://blog.roblox.com/2013/02/dynamic-lighting-and-shadows-the-voxel-solution/)
 - [AlphaStar - Mastering Starcraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 - [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 - [Visualizing Representations](https://colah.github.io/posts/2015-01-Visualizing-Representations/)
@@ -314,7 +290,7 @@ Math - Randomness &amp; Procedural Generation
 - [Generating Islands](https://plaxdev.wordpress.com/2017/05/04/procedurally-generating-islands)
 - [3D Cave Generation](https://www.reddit.com/r/proceduralgeneration/comments/6eo95o/3d_cave_generation_using_a_single_coherent_noise/)
 - [Generating Trees in Blender](https://github.com/friggog/tree-gen)
-- [Combing Noise Functions](https://m.imgur.com/gallery/zVu1b)
+- [Combining Noise Functions](https://m.imgur.com/gallery/zVu1b)
 - [ProcGen Resources List](https://www.firespark.de/?id=article&article=ProceduralGenerationResources)
 - [Generating City Road Maps](https://www.reddit.com/r/proceduralgeneration/comments/6kgs8k/procedural_generation_of_city_road_maps/)
 - [Modeling Erosion](https://www.reddit.com/r/proceduralgeneration/comments/6jwx7h/are_there_any_comprehensive_and_understandable/?st=j6bavgur&sh=27de8683)
@@ -326,10 +302,10 @@ Math - Randomness &amp; Procedural Generation
 - [RoboHash](https://robohash.org/)
 - [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 - [PCG Family of pseudo-random generators](https://www.youtube.com/watch?v=45Oet5qjlms)
-- [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
 - [Right-Triangulated Irregular Networks](https://github.com/mapbox/martini)
 - [Fractal Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
 - [L-Systems](https://jsantell.com/l-systems/)
+- [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -350,6 +326,7 @@ Math - Misc.
 - [Going Critical](https://www.meltingasphalt.com/interactive/going-critical/)
 - [Tetris is NP-Complete](https://arxiv.org/pdf/cs/0210020.pdf)
 - [What is the Poisson Distribution?](https://towardsdatascience.com/poisson-distribution-intuition-and-derivation-1059aeab90d)
+- [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 Graphics - Techniques
 - [Tone Mapping](https://en.wikipedia.org/wiki/Tone_mapping)
@@ -364,7 +341,6 @@ Graphics - Techniques
 - [Forward vs. Deferred Rendering](https://gamedevelopment.tutsplus.com/articles/forward-rendering-vs-deferred-rendering--gamedev-12342)
 - [Order-Independent Transparency](https://en.wikipedia.org/wiki/Order-independent_transparency)
 - [Maximizing Depth Buffer Range and Precision](http://outerra.blogspot.com/2012/11/maximizing-depth-buffer-range-and.html)
-- [Skeletal Animation](https://www.khronos.org/opengl/wiki/Skeletal_Animation)
 - [Skeletal Animation Tutorial](http://ogldev.atspace.co.uk/www/tutorial38/tutorial38.html)
 - [GPU Font Rendering](http://terathon.com/font_rendering_sota_lengyel.pdf)
 - [Foam and Flowmaps Demo](https://twitter.com/greje656/status/1025925404861915136)
@@ -387,6 +363,8 @@ Graphics - Techniques
 - [Visualizing Depth Buffer Precision](https://developer.nvidia.com/content/depth-precision-visualized)
 - [A Sampling of Shadow Techniques](https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/)
 - [Encoding floats to RGBA](https://aras-p.info/blog/2009/07/30/encoding-floats-to-rgba-the-final/)
+- [Why are 2D vector graphics so much harder than 3D?](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
+- [RGBM Color Encoding](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
 
 Graphics - Renderers
 - [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
@@ -401,8 +379,15 @@ Graphics - Renderers
 - [Seed of Andromeda - Bloom](https://www.seedofandromeda.com/blogs/63-bloomin-bloom)
 - [2D Rendering: Compositing Tree](http://nothings.org/gamedev/compositing_tree/)
 - [DOOM 2016 Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
+- [Red Dead Redemption 2 Graphics Study](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)
 - [Metal Gear Solid V Graphics Study](https://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/)
 - [Rendering INSIDE - High Fidelity, low complexity](https://www.gdcvault.com/play/1023304/Low-Complexity-High-Fidelity-INSIDE)
+- [A Primer On Efficient Rendering Algorithms & Clustered Shading](http://www.aortiz.me/2018/12/21/CG.html)
+- [Inside UE5](https://www.eurogamer.net/articles/digitalfoundry-2020-unreal-engine-5-playstation-5-tech-demo-analysis)
+- [Dreams (Learning From Failure) - Media Molecule](https://www.youtube.com/watch?v=u9KNtnCZDMI)
+- [Design and Evolution of the UberBake Light system](https://darioseyb.com/pdf/seyb20uberbake.pdf)
+- [Fast 2D Rendering on the GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
+- [Rendering Roblox](https://www.gdcvault.com/play/1026753/Rendering-Roblox-Vulkan-Optimisations-on)
 
 Graphics - Images
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
@@ -418,6 +403,8 @@ Graphics - Images
 - [Color Grading &amp; Correction](https://kosmonautblog.wordpress.com/2017/04/26/color-grading-correction/)
 - [Better Texture Filtering - Shadertoy](https://www.shadertoy.com/view/XsfGDn)
 - [Beware of Transparent Pixels (Premultiplied Alpha)](http://www.adriancourreges.com/blog/2017/05/09/beware-of-transparent-pixels/)
+- [Bicubic filtering in fewer taps](http://vec3.ca/bicubic-filtering-in-fewer-taps/)
+- [Catmull-Rom filtering shader](https://gist.github.com/TheRealMJP/c83b8c0f46b63f3a88a5986f4fa982b1)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -452,15 +439,23 @@ Graphics - Ray/Path Tracing
 - [Rendering Moana with pbrt](http://pharr.org/matt/blog/2018/07/16/moana-island-pbrt-all.html)
 - [Fractal Engine](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
 - [Deciphering the Postcard Raytracer](http://fabiensanglard.net/postcard_pathtracer/)
+- [Revisiting the Postcard Raytracer with CUDA and OptiX](https://fabiensanglard.net/revisiting_the_pathtracer/index.html)
 - [Marble Marcher](https://codeparade.itch.io/marblemarcher)
 - [Real-Time Raytraced Quake 2](http://brechpunkt.de/q2vkpt/)
 - [Raymarched Explosion in C++](https://github.com/ssloy/tinykaboom/wiki)
-- [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
 - [Path Tracer Project Report](http://thume.ca/ray-tracer-site/report.pdf)
 - [Megakernels Considered Harmful: GPU Wavefront Path-Tracing](https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf)
 - [Ray Tracing a Tiny Procedural Planet](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 - [Virtual Femto-Photography](https://benedikt-bitterli.me/femto.html)
 - [Crafting a real-time path tracer for minecraft RTX](https://www.youtube.com/watch?v=mDlmQYHApBU&feature=emb_title)
+- [Ray Tracing: The Rest of Your Life](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)
+
+Graphics - Simulation
+- [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
+- [Real-Time Simulation and Rendering of 3D Fluids](https://developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-30-real-time-simulation-and-rendering-3d-fluids)
+- [WebGL Fluid Simulation Guide/Example](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/)
+- [SpaceX GPU Simulation](https://www.youtube.com/watch?v=txk-VO1hzBY)
+- [GPU Fluid Simulation](https://benedikt-bitterli.me/gpu-fluid.html)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -478,6 +473,7 @@ Graphics - Voxels
 - [Voxel Instancing](http://procworld.blogspot.com/2013/09/voxel-instancing.html)
 - [Voxel Dual Contouring](http://procworld.blogspot.com/2010/11/from-voxels-to-polygons.html)
 - [How Voxels Became 'The Next Big Thing'](https://medium.com/@EightyLevel/how-voxels-became-the-next-big-thing-4eb9665cd13a)
+- [Polygonising a scalar field](http://paulbourke.net/geometry/polygonise/)
 
 Graphics - Swedish Cubes
 - [Ray-Box Intersection Algorithm for Efficient Dynamic Voxel Rendering](http://www.jcgt.org/published/0007/03/04/paper.pdf)
@@ -514,9 +510,7 @@ Graphics - Swedish Cubes
 Graphics - GPU Tools
 - [RenderDoc Debugger](https://renderdoc.org/)
 - [NVIDIA GPU Threading / Inefficient Design](https://twitter.com/rygorous/status/921529471169019904)
-- [SpaceX GPU Simulation](https://www.youtube.com/watch?v=txk-VO1hzBY)
 - [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
-- [GPU Fluid Simulation](https://benedikt-bitterli.me/gpu-fluid.html)
 - [Interactive CUDA](https://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA)
 - [Minimal D3D Framework Code](https://gist.github.com/d7samurai/c93e8aac22ef3ec77fea03be0ce86f51)
 - [D3D Code Samples](https://github.com/kevinmoran/BeginnerDirect3D11)
@@ -526,6 +520,7 @@ Graphics - GPU Tools
 - [Metal starter code](https://github.com/kevinmoran/Handmade-Metal-Programming)
 
 Graphics - Vulkan
+- [Awesome-Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [Vulkan in 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
 - [Tutorial](https://vulkan-tutorial.com/)
 - [Examples and Demos](https://github.com/SaschaWillems/Vulkan)
@@ -601,6 +596,9 @@ Languages - Compilers
 - [Lisp in 200 Lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
 - [How we get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
 - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+- [Expression parsing algorithm](https://www.rhyscitlema.com/algorithms/expression-parsing-algorithm/)
+- [Optimizations in C++ Compilers](https://queue.acm.org/detail.cfm?id=3372264)
+- [Lexical Analysis Strategies](https://nothings.org/computer/lexing.html)
 
 Languages - Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -614,6 +612,7 @@ Languages - Rust
 - [Learn Rust with Entirely too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 - [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
 - [How to debug rust with visual studio code](https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/)
+- [Streams in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
 
 Languages - LLVM
 - [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
@@ -679,6 +678,7 @@ Languages - (Modern) C++
 - [There Are No Zero-Cost Abstractions](https://www.youtube.com/watch?v=rHIkrotSwcc)
 - [Path Tracing 3 Ways: C++ Style Study](https://www.youtube.com/watch?v=HG6c4Kwbv4I)
 - [libc++'s implementation of std::string](https://joellaity.com/2020/01/31/string.html)
+- [The Surprising Limitations of C++ Ranges](https://www.fluentcpp.com/2019/09/13/the-surprising-limitations-of-c-ranges-beyond-trivial-use-cases/)
 
 Languages - Jai
 - [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -699,6 +699,7 @@ Languages - Misc.
 - [Perils of Constructors](https://matklad.github.io/2019/07/16/perils-of-constructors.html)
 - [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
 - [K](http://www.math.bas.bg/bantchev/place/k.html)
+- [Featerweight Go](https://arxiv.org/pdf/2005.11710.pdf)
 
 Computer Engineering - Architecture
 - [Computer Design Game](https://www.blinklight.io/)
@@ -711,12 +712,14 @@ Computer Engineering - Architecture
 - [Why Spend 1.5 Months on a Gameboy Emulator?](http://blog.rekawek.eu/2017/02/09/coffee-gb/)
 - [Emulating the Wii vs. the GameCube](https://dolphin-emu.org/blog/2018/07/21/myth-debugging-wii-more-demanding-emulate-gamecube/)
 - [Clocks for Software Engineers](http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html)
-- [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
 - [Bedroom Electronics Factory](https://spun.io/2018/12/15/lessons-from-running-a-small-scale-electronics-factory-in-my-guest-bedroom-part-1-design/)
 - [Why Skylake CPUs are Sometimes 50% Slower - C# Spinlocks](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 - [Verilog 6502](http://www.aholme.co.uk/6502/Main.htm)
 - [A2Z Computer (from scratch)](https://hackaday.io/project/18206-a2z-computer)
 - [Agner's CPU Blog - Ryzen](http://agner.org/optimize/blog/read.php?i=838)
+- [Documentation for the RISC-V BOOM CPU](https://github.com/ccelio/riscv-boom-doc)
+- [Modern x64 Architectures and the Cache](https://www.youtube.com/watch?v=tk5P7mt2fAw)
+- [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
 
 Computer Engineering - Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -740,6 +743,7 @@ Computer Engineering - Security
 - [How a double-free bug in WhatsApp turns to RCE](https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/)
 - [Adventures in Smart Buttplug Penetration](https://www.youtube.com/watch?v=RnxcPeemHSc)
 - [How we recovered over $300k of bitcoin](https://reperiendi.wordpress.com/2020/04/03/how-i-recovered-over-300k-of-bitcoin/)
+- [7-Zip Uninitialized Memory to Remote Code Execution](https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/?hn)
 
 Computer Engineering - Low Level Programming
 - [Branch Prediction](https://danluu.com/branch-prediction/)
@@ -748,9 +752,7 @@ Computer Engineering - Low Level Programming
 - [AVX512 Benchmarks](https://developer.numscale.com/bsimd/benchmarks/)
 - [Generating Executable Files from Scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
 - [ASM Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
-- [Documentation for the RISC-V BOOM CPU](https://github.com/ccelio/riscv-boom-doc)
 - [Disabling IME](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
-- [UEFI Programming](http://x86asm.net/articles/uefi-programming-first-steps/)
 - [Help Learning ASM/CPUs](https://handmade.network/forums/t/2630-help_learning_asm_and_understanding_the_cpu#13166)
 - [Ten Years of the TTL CPU](https://www.youtube.com/watch?v=0jRgpTp8pR8)
 - [Bit Hacks](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
@@ -776,10 +778,12 @@ Computer Engineering - Low Level Programming
 - [Going Nowhere Faster](https://www.youtube.com/watch?v=2EWejmkKlxs)
 - [Formatting Floats](http://www.zverovich.net/2019/02/11/formatting-floating-point-numbers.html)
 - [Adventures in Data-Oriented Design - Hierarchical Data](https://blog.molecular-matters.com/2013/02/22/adventures-in-data-oriented-design-part-2-hierarchical-data/)
-- [Modern x64 Architectures and the Cache](https://www.youtube.com/watch?v=tk5P7mt2fAw)
 - [Where do Interrupts Happen?](https://travisdowns.github.io/blog/2019/08/20/interrupts.html)
 - [Anatomy of a High-Performance Matrix Convolution](https://sahnimanas.github.io/post/anatomy-of-a-high-performance-convolution/)
 - [Optimizing the Interpreter Loop](http://www.emulators.com/docs/nx25_nostradamus.htm)
+- [What Every Computer Scientist Should Know About Floating-point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
+- [The radix 2^51 trick (amortizing carries)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -792,7 +796,7 @@ Computer Engineering - Operating Systems
 - [OS Abstractions with Plan 9](https://lsub.org/who/nemo/9.intro.pdf)
 - [Write a Shell in Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 - [Write your own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
-- [Recommendations for OS Projects](https://twitter.com/sortiecat/status/901907267934724101)
+- When do we get my sandboxed bytecode-vm userland ipc-only microkernel db-filesystem networked app-package system?
 
 Computer Engineering - Operating Systems - Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -857,6 +861,7 @@ Domains - Technical Finance
 - [Quantitative Trading](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
 - [Introduction to Cryptocurrency](https://blog.goodaudience.com/a-beginners-guide-to-getting-started-in-the-cryptocurrency-world-69c50516be71)
 - [HFT Systems in C++](https://www.youtube.com/watch?v=NH1Tta7purM)
+- [HFT in my backyard](https://sniperinmahwah.wordpress.com/2014/09/22/hft-in-my-backyard-part-i/)
 
 Domains - Web Dev
 - [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
@@ -879,11 +884,13 @@ Domains - Web Dev
 - [Real-World WebASM Benchmark](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu)
 - [js13k - Making of UNDERRUN](https://phoboslab.org/log/2018/09/underrun-making-of)
+- [\LaTeX.css](https://latex.now.sh/)
 
 Domains - Academia
 - [Stanford Paper Reading List 1990](http://mcvoy.com/lm/papers/stanford.txt)
 - [What Makes a (Graphics) Systems Paper Beautiful](http://graphics.stanford.edu/~kayvonf/notes/systemspaper/)
 - [Reflecting on CS Graduate Admissions](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html?m=1)
+- [Tips for Giving Clear Talks](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)
 
 Databases
 - [DBMS Tutorial](https://www.tutorialspoint.com/dbms/index.htm)
@@ -900,7 +907,6 @@ Networking
 - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
 - [Game Networking Blog](https://gafferongames.com/categories/game-networking/)
 - [Networked Physics Blog](https://gafferongames.com/categories/networked-physics/)
-- [Agones Google Game Server Hosting](https://cloudplatform.googleblog.com/2018/03/introducing-Agones-open-source-multiplayer-dedicated-game-server-hosting-built-on-Kubernetes.html)
 - [Overbuilt home network setup](https://github.com/bradfitz/homelab/blob/master/README.md)
 - [Age of Empires II Multiplayer Networking](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php?print=1)
 - [Illustrated TLS Connection](https://tls.ulfheim.net/)
@@ -932,7 +938,6 @@ Technical History &amp; Stories
 - [It's fine just ship it - unsecured web connected interfaces](https://www.youtube.com/watch?v=yBA6u5IsXyc)
 - [Norman's Sky](http://nothkedev.blogspot.no/2018/04/normans-sky-2-years-later-joke-made-in.html)
 - [Fabricating and Integrated Circuit](http://sam.zeloof.xyz/first-ic/#)
-- [7-Zip Uninitialized Memory to Remote Code Execution](https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/?hn)
 - [StuxNet](https://www.quora.com/What-is-the-most-sophisticated-piece-of-software-code-ever-written/answer/John-Byrd-2)
 - [Pranking my Roommate with Targeted Ads](http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/)
 - [Playing Battleships over BGP](https://blog.benjojo.co.uk/post/bgp-battleships)
@@ -961,6 +966,11 @@ Random
 - [GitFiti](https://github.com/gelstudios/gitfiti)
 - [MS Paint Coloring Book](https://imgur.com/gallery/zaMqr)
 - [Collection of botnets](https://github.com/maestron/botnets)
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
+- [Papercraft with Blender](https://matiasmorant.wordpress.com/2017/12/23/papercraft-with-blender/)
+- [Run Your Own Mail Server](https://www.c0ffee.net/blog/mail-server-guide)
+- [Write Your Own Git](https://wyag.thb.lt/)
+- [Building a Homebrew Console](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
 
 Humor
 - [Joke Programming Team Names](https://www.reddit.com/r/ProgrammerHumor/comments/6t9vim/funmiest_team_name/dlj3u08/?st=j69xaccb&sh=1df7f4d7)
