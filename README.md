@@ -94,6 +94,7 @@ Software - Misc. Tools
 - [Tools for Writing Books](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 - [rr Debugger](https://rr-project.org/)
 - [msdfgen](https://github.com/Chlumsky/msdfgen)
+- [Free HDRI Environment Maps](https://hdrihaven.com/)
 
 Software - Misc. Libraries
 - [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
@@ -168,33 +169,6 @@ Games - Programming, Art, Audio, UI
 - [Voronoi Split Screen](https://twitter.com/gooses_/status/1025723504929505280?s=19)
 - [Marvel's Spider-Man: A Technical Postmortem](https://www.youtube.com/watch?v=KDhKyIZd3O8)
 - [Useful Snippets](https://blog.bruce-hill.com/6-useful-snippets)
-
-Math - Geometry
-- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
-- [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
-- [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
-- [Visualizing Quaternions](https://news.ycombinator.com/item?id=18310788)
-- [Let's Remove Quaternions - Geometric Algebra](http://marctenbosch.com/quaternions/)
-- [Hacking Quaternions - nlerp + spline](http://number-none.com/product/Hacking%20Quaternions/)
-- [Signed Distance Functions](https://en.wikipedia.org/wiki/Signed_distance_function)
-- [Fractals in Python](https://github.com/neozhaoliang/pywonderland/blob/master/README.md)
-- [Implementing Inverse Kinematics](http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php)
-- [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
-- [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
-- [Modes, Medians, and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
-- [Programmer's Guide to Polynomials and Splines](http://wordsandbuttons.online/programmers_guide_to_polynomials_and_splines.html)
-- [Improving the fast inverse square root](http://rrrola.wz.cz/inv_sqrt.html)
-- [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/)
-- [Fundamentals of Grassmann Algebra](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
-- [A Faster Quaternion-Vector Multiply](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
-- [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
-- [Discrete Differential Geometry](http://brickisland.net/DDGSpring2020/)
-- [Groups and Group Convolutions](https://colah.github.io/posts/2014-12-Groups-Convolution/)
-- [Compressing 3D Unit Vectors](https://gamedevnotesblog.wordpress.com/2019/12/26/compression-of-3d-unit-vectors/)
-- [Conformal Geometry Processing](https://www.youtube.com/watch?v=g0nY5VM1PSU)
-- [Inside curved Spaces](https://www.youtube.com/watch?v=s_PNYf4qVKc)
-- [Monte Carlo Geometry Processing](http://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf)
-- [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
 
 Math - Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -328,6 +302,34 @@ Math - Misc.
 - [What is the Poisson Distribution?](https://towardsdatascience.com/poisson-distribution-intuition-and-derivation-1059aeab90d)
 - [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
+Graphics - Geometry
+- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
+- [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
+- [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
+- [Visualizing Quaternions](https://news.ycombinator.com/item?id=18310788)
+- [Let's Remove Quaternions - Geometric Algebra](http://marctenbosch.com/quaternions/)
+- [Hacking Quaternions - nlerp + spline](http://number-none.com/product/Hacking%20Quaternions/)
+- [Signed Distance Functions](https://en.wikipedia.org/wiki/Signed_distance_function)
+- [Fractals in Python](https://github.com/neozhaoliang/pywonderland/blob/master/README.md)
+- [Implementing Inverse Kinematics](http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php)
+- [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
+- [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
+- [Modes, Medians, and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
+- [Programmer's Guide to Polynomials and Splines](http://wordsandbuttons.online/programmers_guide_to_polynomials_and_splines.html)
+- [Improving the fast inverse square root](http://rrrola.wz.cz/inv_sqrt.html)
+- [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/)
+- [Fundamentals of Grassmann Algebra](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
+- [A Faster Quaternion-Vector Multiply](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
+- [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
+- [Discrete Differential Geometry](http://brickisland.net/DDGSpring2020/)
+- [Groups and Group Convolutions](https://colah.github.io/posts/2014-12-Groups-Convolution/)
+- [Compressing 3D Unit Vectors](https://gamedevnotesblog.wordpress.com/2019/12/26/compression-of-3d-unit-vectors/)
+- [Conformal Geometry Processing](https://www.youtube.com/watch?v=g0nY5VM1PSU)
+- [Inside curved Spaces](https://www.youtube.com/watch?v=s_PNYf4qVKc)
+- [Monte Carlo Geometry Processing](http://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf)
+- [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
+- [Fast Voronoi Diagrams and Distance Fields with Jump Flooding](https://blog.demofox.org/2016/02/29/fast-voronoi-diagrams-and-distance-dield-textures-on-the-gpu-with-the-jump-flooding-algorithm/)
+
 Graphics - Techniques
 - [Tone Mapping](https://en.wikipedia.org/wiki/Tone_mapping)
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -365,6 +367,7 @@ Graphics - Techniques
 - [Encoding floats to RGBA](https://aras-p.info/blog/2009/07/30/encoding-floats-to-rgba-the-final/)
 - [Why are 2D vector graphics so much harder than 3D?](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
 - [RGBM Color Encoding](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
+- [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
 
 Graphics - Renderers
 - [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
@@ -572,6 +575,7 @@ Graphics - GLSL
 - [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners/blob/master/README.md#normal-mapping)
 - [Avoiding Shader Conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
 - [Protean Clouds (Shadertoy)](https://www.shadertoy.com/view/3l23Rh)
+- [Voronoi Noise (Shadertoy)](https://www.shadertoy.com/view/lsjGWD)
 
 Languages - Functional Programming
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
@@ -581,6 +585,7 @@ Languages - Functional Programming
  -[A Monad is a Monoid in the Category of Endofunctors](https://www.reddit.com/r/math/comments/ap25mr/a_monad_is_a_monoid_in_the_category_of/)
 - [Refactoring via Recursion and CPS Conversion](http://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
 - [Proceedings of the ACM on Programming Languages 2019](https://dl.acm.org/citation.cfm?id=3352468&preflayout=flat#prox)
+- [What makes dependent type theory more suitable than set theory for proof assistants?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista)
 
 Languages - Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -720,6 +725,7 @@ Computer Engineering - Architecture
 - [Documentation for the RISC-V BOOM CPU](https://github.com/ccelio/riscv-boom-doc)
 - [Modern x64 Architectures and the Cache](https://www.youtube.com/watch?v=tk5P7mt2fAw)
 - [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
+- [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
 
 Computer Engineering - Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -744,6 +750,7 @@ Computer Engineering - Security
 - [Adventures in Smart Buttplug Penetration](https://www.youtube.com/watch?v=RnxcPeemHSc)
 - [How we recovered over $300k of bitcoin](https://reperiendi.wordpress.com/2020/04/03/how-i-recovered-over-300k-of-bitcoin/)
 - [7-Zip Uninitialized Memory to Remote Code Execution](https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/?hn)
+- [Reverse engineering unc0ver in 4 hours](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
 
 Computer Engineering - Low Level Programming
 - [Branch Prediction](https://danluu.com/branch-prediction/)
@@ -796,7 +803,8 @@ Computer Engineering - Operating Systems
 - [OS Abstractions with Plan 9](https://lsub.org/who/nemo/9.intro.pdf)
 - [Write a Shell in Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 - [Write your own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
-- When do we get my sandboxed bytecode-vm userland ipc-only microkernel db-filesystem networked app-package system?
+- [File system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
+- When do we get my sandboxed bytecode-vm userland ipc-only microkernel db-filesystem networked app-package operating system?
 
 Computer Engineering - Operating Systems - Windows
 - [Avoiding the CRT on Windows](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
@@ -951,10 +959,10 @@ Technical History &amp; Stories
 - [Five Thousand Years in an Alternate Universe](http://slatestarcodex.com/2013/04/15/things-i-learned-by-spending-five-thousand-years-in-an-alternate-universe/)
 - [An old-timey game dev. hack](http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
 - [Bitcoin Mining on an Apollo Guidance Computer](http://www.righto.com/2019/07/bitcoin-mining-on-apollo-guidance.html)
-- [Hexing the Technical Interview](https://aphyr.com/posts/341-hexing-the-technical-interview)
-- [Typing the Technical Interview](https://aphyr.com/posts/342-typing-the-technical-interview)
+- [Hexing](https://aphyr.com/posts/341-hexing-the-technical-interview)/ [Typing](https://aphyr.com/posts/342-typing-the-technical-interview)/[Reversing](https://aphyr.com/posts/340-reversing-the-technical-interview)/[Unifying](https://aphyr.com/posts/354-unifying-the-technical-interview) the Technical Interview
 - [The ZedRipper](http://www.chrisfenton.com/the-zedripper-part-1/)
 - [The Infinite Loop that wasn't: a holy grail bug story](https://mgba.io/2020/01/25/infinite-loop-holy-grail/)
+- [Eight Years at Roblox](https://zeux.io/2020/08/02/eight-years-at-roblox/)
 
 Random
 - [Crafting Plausible Maps](https://m.mythcreants.com/blog/crafting-plausible-maps/)
