@@ -14,8 +14,6 @@ Blogs
 - [Alan Wolfe](https://blog.demofox.org/)
 - [Mediocre Game Technology](http://tuxedolabs.blogspot.com/)
 - [Fabian Giesen](https://fgiesen.wordpress.com/2017/08/12/papers-i-like-part-1/)
-- [An Entire Self-Taught CS Education](https://github.com/open-source-society/computer-science)
-- [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [Tuxedolabs](https://blog.tuxedolabs.com/)
 
 Graphics - Geometry
