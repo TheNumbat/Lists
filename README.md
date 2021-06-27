@@ -758,7 +758,7 @@ Computer Engineering - Security
 - [Breaking the x86 ISA](https://www.youtube.com/watch?v=KrksBdWcZgQ&feature=youtu.be)
 - [PS4 Kernel Crashdump](https://fail0verflow.com/blog/2017/ps4-crashdump-dump/)
 - [Finding a CPU Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
-- [Avast Open-Sources Machine Code Decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
+- [Avast Open-Source Machine Code Decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
 - [Finding Statically-Linked Vulnerable Code](https://googleprojectzero.blogspot.com/2018/12/searching-statically-linked-vulnerable.html?m=1)
 - [How a double-free bug in WhatsApp turns to RCE](https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/)
 - [Adventures in Smart Buttplug Penetration](https://www.youtube.com/watch?v=RnxcPeemHSc)
@@ -769,7 +769,7 @@ Computer Engineering - Security
 Computer Engineering - Low Level Programming
 - [Branch Prediction](https://danluu.com/branch-prediction/)
 - [Intro to Assembly](http://www.swansontec.com/sprogram.html)
-- [Programming with 1s and 0s](http://www.hanshq.net/ones-and-zeros.html) [machine code]
+- [Programming with 1s and 0s](http://www.hanshq.net/ones-and-zeros.html)
 - [AVX512 Benchmarks](https://developer.numscale.com/bsimd/benchmarks/)
 - [Generating Executable Files from Scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
 - [ASM Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
@@ -852,7 +852,7 @@ Computer Engineering - Operating Systems - Windows
 - [MSVC Flag: d2cgsummary](http://aras-p.info/blog/2017/10/23/Best-unknown-MSVC-flag-d2cgsummary/)
 - [MSVC Flag: d1reporttime](http://aras-p.info/blog/2019/01/21/Another-cool-MSVC-flag-d1reportTime/)
 - [24 Core CPU and I can't Move my Mouse](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
-- 24 Core CPU and I can't Type an Email [Part 1](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/) [Part 2](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
+- 24 Core CPU and I Can't Type an Email [Part 1](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/) [Part 2](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
 - [63 Cores Blocked by 7 Instructions](https://randomascii.wordpress.com/2019/10/20/63-cores-blocked-by-seven-instructions/)
 - [n^2 again, now in WMI](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
 
