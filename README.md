@@ -1017,4 +1017,4 @@ Humor
 - [If the World was Created by a Programmer](https://i.imgur.com/PeryFXB.jpg)
 - [Lisp Cycles](https://xkcd.com/297/)
 - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](https://james-iry.blogspot.com.uy/2009/05/brief-incomplete-and-mostly-wrong.html)
-- [The Pace of Modern Live (XKCD)](https://xkcd.com/1227/)
+- [The Pace of Modern Life (XKCD)](https://xkcd.com/1227/)
