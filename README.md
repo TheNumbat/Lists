@@ -706,15 +706,8 @@ Languages - (Modern) C++
 - [The Surprising Limitations of C++ Ranges](https://www.fluentcpp.com/2019/09/13/the-surprising-limitations-of-c-ranges-beyond-trivial-use-cases/)
 - [How to add C++ structured binding support to your own types](https://devblogs.microsoft.com/oldnewthing/20201015-00/?p=104369)
 
-Languages - Jai
-- [Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
-- next links are outdated
-- [Making Game Programming Less Terrible](https://www.youtube.com/watch?v=De0Am_QcZiQ)
-- [Primer](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md) [outdated]
-- [Some Info](https://inductive.no/jai/) [outdated]
-- [Another Primer](https://sites.google.com/site/jailanguageprimer/) [outdated, just watch the demos already]
-
 Languages - Misc.
+- [Jai Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
 - [There Will Be Build Systems](https://www.youtube.com/watch?v=7THzO-D0ta4)
 - [How Media Molecule Does Serialization](https://yave.handmade.network/blogs/p/2723-how_media_molecule_does_serialization#13476)
 - [Go Pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
