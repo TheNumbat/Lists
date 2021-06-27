@@ -579,11 +579,9 @@ Software - Misc. Tools
 
 Software - Misc. Libraries
 - [List of Good Single-File Libraries](https://github.com/nothings/single_file_libs)
-- [STB](https://github.com/nothings/stb) [powerful &amp; easy-to-integrate utilities]
+- [STB](https://github.com/nothings/stb)
 - [SDL2](https://wiki.libsdl.org/)
-- [SDL_net](http://sdl.beuc.net/sdl.wiki/SDL_net)
-- [GLFW Reference](http://www.glfw.org/docs/latest/modules.html)
-- [Loguru](https://github.com/emilk/loguru)
+- [GLFW](http://www.glfw.org)
 - [ImGui](https://github.com/ocornut/imgui)
 - [ImGui Profiler](https://github.com/Raikiri/LegitProfiler)
 - [ImWindow](https://github.com/thennequin/ImWindow)
