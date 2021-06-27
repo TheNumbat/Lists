@@ -975,7 +975,7 @@ Technical History &amp; Stories
 - [Five Thousand Years in an Alternate Universe](http://slatestarcodex.com/2013/04/15/things-i-learned-by-spending-five-thousand-years-in-an-alternate-universe/)
 - [An old-timey game dev. hack](http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
 - [Bitcoin Mining on an Apollo Guidance Computer](http://www.righto.com/2019/07/bitcoin-mining-on-apollo-guidance.html)
-- [Hexing](https://aphyr.com/posts/341-hexing-the-technical-interview)/ [Typing](https://aphyr.com/posts/342-typing-the-technical-interview)/[Reversing](https://aphyr.com/posts/340-reversing-the-technical-interview)/[Unifying](https://aphyr.com/posts/354-unifying-the-technical-interview) the Technical Interview
+- [Hexing](https://aphyr.com/posts/341-hexing-the-technical-interview)/[Typing](https://aphyr.com/posts/342-typing-the-technical-interview)/[Reversing](https://aphyr.com/posts/340-reversing-the-technical-interview)/[Unifying](https://aphyr.com/posts/354-unifying-the-technical-interview) the Technical Interview
 - [The ZedRipper](http://www.chrisfenton.com/the-zedripper-part-1/)
 - [The Infinite Loop that wasn't: a holy grail bug story](https://mgba.io/2020/01/25/infinite-loop-holy-grail/)
 - [Eight Years at Roblox](https://zeux.io/2020/08/02/eight-years-at-roblox/)
