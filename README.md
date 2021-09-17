@@ -620,7 +620,7 @@ Languages - Misc.
 - [Perils of Constructors](https://matklad.github.io/2019/07/16/perils-of-constructors.html)
 - [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
 - [K](http://www.math.bas.bg/bantchev/place/k.html)
-- [Featerweight Go](https://arxiv.org/pdf/2005.11710.pdf)
+- [Featherweight Go](https://arxiv.org/pdf/2005.11710.pdf)
 
 Computer Engineering - Hardware
 - [NAND Game](https://nandgame.com/)
