@@ -522,7 +522,7 @@ Languages - Functional Programming
 Languages - Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
 - [Language Theory for the Working Programmer](https://www.leafac.com/prose/programming-language-theory-explained-for-the-working-programmer--principles-of-programming-languages/)
-- [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) [not exactly languages, but theory]
+- [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) 
 - [Probabilistic Context-Free Grammar](https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar)
 - [Using Types Effectively](https://www.youtube.com/watch?v=ojZbFIQSdl8)
 - [Building a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
