@@ -11,7 +11,6 @@ Graphics - Geometry
 - [Signed Distance Functions](https://en.wikipedia.org/wiki/Signed_distance_function)
 - [Implementing Inverse Kinematics](http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php)
 - [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
-- [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
 - [Programmer's Guide to Polynomials and Splines](http://wordsandbuttons.online/programmers_guide_to_polynomials_and_splines.html)
 - [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/)
 - [Fundamentals of Grassmann Algebra](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
@@ -372,7 +371,8 @@ Math - Randomness
 - [Fractal Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
 - [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator)
 - [3D Cellular Automata](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
-
+- [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
+- 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
 - [Discrete Math Overview/Recommendations](https://handmade.network/blogs/p/3118-discrete_mathematics_for_software_engineers#15131)
