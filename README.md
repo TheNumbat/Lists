@@ -2,28 +2,6 @@
 
 A curated collection of technical articles accumulated from around the web. Mostly graphics, games, math, and low level stuff.
 
-Graphics - Geometry
-- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
-- [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
-- [Visualizing Quaternions](https://news.ycombinator.com/item?id=18310788)
-- [Let's Remove Quaternions - Geometric Algebra](http://marctenbosch.com/quaternions/)
-- [Hacking Quaternions - nlerp + spline](http://number-none.com/product/Hacking%20Quaternions/)
-- [Signed Distance Functions](https://en.wikipedia.org/wiki/Signed_distance_function)
-- [Implementing Inverse Kinematics](http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php)
-- [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
-- [Programmer's Guide to Polynomials and Splines](http://wordsandbuttons.online/programmers_guide_to_polynomials_and_splines.html)
-- [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/)
-- [Fundamentals of Grassmann Algebra](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
-- [A Faster Quaternion-Vector Multiply](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
-- [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
-- [Discrete Differential Geometry](http://brickisland.net/DDGSpring2020/)
-- [Groups and Group Convolutions](https://colah.github.io/posts/2014-12-Groups-Convolution/)
-- [Compressing 3D Unit Vectors](https://gamedevnotesblog.wordpress.com/2019/12/26/compression-of-3d-unit-vectors/)
-- [Conformal Geometry Processing](https://www.youtube.com/watch?v=g0nY5VM1PSU)
-- [Inside Curved Spaces](https://www.youtube.com/watch?v=s_PNYf4qVKc)
-- [Monte Carlo Geometry Processing](http://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf)
-- [Fast Voronoi Diagrams and Distance Fields with Jump Flooding](https://blog.demofox.org/2016/02/29/fast-voronoi-diagrams-and-distance-dield-textures-on-the-gpu-with-the-jump-flooding-algorithm/)
-
 Graphics - Techniques
 - [Real-time Global Illumination by Precomputed Local Reconstruction from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/index.html)
 - [Rendering Vector Art on the GPU](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch25.html)
@@ -49,6 +27,7 @@ Graphics - Techniques
 - [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
 - [A Sampling of Shadow Techniques](https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/)
 - [Sample Distribution Shadow Maps](https://software.intel.com/content/www/us/en/develop/articles/sample-distribution-shadow-maps.html)
+- [Spatiotemporal Blue Noise Textures](https://developer.nvidia.com/blog/rendering-in-real-time-with-spatiotemporal-blue-noise-textures-part-1/)
 
 Graphics - Color &amp; Tone Mapping
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -81,6 +60,7 @@ Graphics - Renderers
 - [Rendering Roblox](https://www.gdcvault.com/play/1026753/Rendering-Roblox-Vulkan-Optimisations-on)
 - [Why are video game graphics still a challenge? Productionizing rendering algorithms](https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/)
 - [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
+- [A Deep Dive into Nanite Virtualized Geometry](https://www.youtube.com/watch?v=eviSykqSUUw)
 
 Graphics - 2D
 - [Fast 2D Rendering on the GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
@@ -124,6 +104,7 @@ Graphics - Resources
 - [Physically Based Rendering (text)](http://www.pbr-book.org/3ed-2018/contents.html)
 - [How to Read a Realistic Rendering Paper](https://morgan3d.github.io/advanced-ray-tracing-course/reading-research.pdf)
 - [What Makes a (Graphics) Systems Paper Beautiful](http://graphics.stanford.edu/~kayvonf/notes/systemspaper/)
+- [NVIDIA Developer blog: advanced API performance](https://developer.nvidia.com/blog/tag/advanced-api-performance/)
 
 Graphics - Ray/Path Tracing
 - [Ray Marching &amp; Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
@@ -149,6 +130,10 @@ Graphics - Ray/Path Tracing
 - [Screen Space Path Tracing](https://blog.tuxedolabs.com/2018/01/03/screen-space-path-tracing-diffuse.html)
 - [Monte Carlo Estimators for Differential Light Transport](http://www.iliyan.com/publications/DifferentialEstimators/DifferentialEstimators_Sig2021.pdf)
 - [Reducing Acceleration Structure Memory with RTXMU](https://developer.nvidia.com/blog/reducing-acceleration-structure-memory-with-nvidia-rtxmu/)
+- [Spatiotemporal reservoir resampling for real-time ray tracing
+with dynamic direct lighting](https://research.nvidia.com/sites/default/files/pubs/2020-07_Spatiotemporal-reservoir-resampling/ReSTIR.pdf)
+- [Fast Volume Rendering with Spatiotemporal Reservoir Resampling
+](https://graphics.cs.utah.edu/research/projects/volumetric-restir/volumetric_restir.pdf)
 
 Graphics - Simulation &amp; Animation
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
@@ -169,6 +154,7 @@ Graphics - Simulation &amp; Animation
 - [Eroding Fractal Terrain with Virtual Raindrops](https://softologyblog.wordpress.com/2016/12/09/eroding-fractal-terrains-with-virtual-raindrops/#comment-1110)
 - [Procedural Spider Animation in Araknoids](https://amine.franticsoftware.com/2018/11/25/araknoids-devlog-1-technical-overview/)
 - [Papercraft with Blender](https://matiasmorant.wordpress.com/2017/12/23/papercraft-with-blender/)
+- [Shaded relief maps in Blender](https://github.com/JoeWDavies/geoblender)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -214,7 +200,7 @@ Graphics - Swedish Cubes
 - [Seed of Andromeda - Region File System](https://www.seedofandromeda.com/blogs/1-creating-a-region-file-system-for-a-voxel-game)
 - [A Voxel Renderer for Learning C/C++](https://jacco.ompf2.com/2021/02/01/a-voxel-renderer-for-learning-c-c/)
 
-Graphics - GPU Tools
+Graphics - GPUs
 - [RenderDoc Debugger](https://renderdoc.org/)
 - [NVIDIA GPU Threading / Inefficient Design](https://twitter.com/rygorous/status/921529471169019904)
 - [Where is OpenCL Used?](https://streamcomputing.eu/blog/2013-06-03/the-application-areas-opencl-can-be-used/)
@@ -226,6 +212,8 @@ Graphics - GPU Tools
 - [Pixel Art Games and nSight Shader Analysis (HMH)](https://www.youtube.com/watch?v=Yu8k7a1hQuU)
 - [Metal starter code](https://github.com/kevinmoran/Handmade-Metal-Programming)
 - [GPU Compute Model Terminology Cheat Sheet](https://landonthomas.net/docs/gpu_compute_model_terms_quick_ref.pdf)
+- [Gentle Introduction to modern GPU Architecture](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
+- [GPU Optimization for GameDev list](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 
 Graphics - OpenGL/Vulkan
 - [LearnOpenGL](http://www.learnopengl.com/)
@@ -252,6 +240,8 @@ Graphics - OpenGL/Vulkan
 - [A Guide to Vulkan Layers](https://renderdoc.org/vulkan-layer-guide.html)
 - [Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 - [Vulkan Multithreading Overview](https://vkguide.dev/docs/extra-chapter/multithreading/)
+- [Swapchains and frame pacing](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html)
+- [Vulkan Swapchains &amp; presentation](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-2.html)
 
 Graphics - Shaders
 - [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
@@ -268,6 +258,85 @@ Graphics - Shaders
 - [Protean Clouds (Shadertoy)](https://www.shadertoy.com/view/3l23Rh)
 - [Voronoi Noise (Shadertoy)](https://www.shadertoy.com/view/lsjGWD)
 - [Production Sky Rendering (Shadertoy)](https://www.shadertoy.com/view/slSXRW)
+
+Math - Geometry
+- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
+- [Intro to Quaternions](https://www.youtube.com/watch?v=fKIss4EV6ME)
+- [Visualizing Quaternions](https://news.ycombinator.com/item?id=18310788)
+- [Let's Remove Quaternions - Geometric Algebra](http://marctenbosch.com/quaternions/)
+- [Hacking Quaternions - nlerp + spline](http://number-none.com/product/Hacking%20Quaternions/)
+- [Signed Distance Functions](https://en.wikipedia.org/wiki/Signed_distance_function)
+- [Implementing Inverse Kinematics](http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php)
+- [Making Splines Useful](https://seabird.handmade.network/blogs/p/2594-making_splines_useful:_introduction#13049)
+- [Programmer's Guide to Polynomials and Splines](http://wordsandbuttons.online/programmers_guide_to_polynomials_and_splines.html)
+- [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/)
+- [Fundamentals of Grassmann Algebra](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
+- [A Faster Quaternion-Vector Multiply](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
+- [The Separating Axis Theorem](http://www.metanetsoftware.com/technique/tutorialA.html)
+- [Discrete Differential Geometry](http://brickisland.net/DDGSpring2020/)
+- [Groups and Group Convolutions](https://colah.github.io/posts/2014-12-Groups-Convolution/)
+- [Compressing 3D Unit Vectors](https://gamedevnotesblog.wordpress.com/2019/12/26/compression-of-3d-unit-vectors/)
+- [Conformal Geometry Processing](https://www.youtube.com/watch?v=g0nY5VM1PSU)
+- [Inside Curved Spaces](https://www.youtube.com/watch?v=s_PNYf4qVKc)
+- [Monte Carlo Geometry Processing](http://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf)
+- [Fast Voronoi Diagrams and Distance Fields with Jump Flooding](https://blog.demofox.org/2016/02/29/fast-voronoi-diagrams-and-distance-dield-textures-on-the-gpu-with-the-jump-flooding-algorithm/)
+- [Polyhedra Viewer](https://polyhedra.tessera.li/)
+- [Dirac's belt trick, Topology, and Spin 1/2 particles](https://www.youtube.com/watch?v=ACZC_XEyg9U)
+
+Math - Cryptography
+- [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
+- [Cryptanalysis of Meow Hash](https://peter.website/meow-hash-cryptanalysis)
+- [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
+- [NaCl Crypto](https://nacl.cr.yp.to/)
+
+Math - Randomness/Procedural Generation
+- [Maze Generation](http://www.astrolog.org/labyrnth/algrithm.htm)
+- [Maze + Room Generation](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
+- [Terrain Generation from Noise](http://www.redblobgames.com/maps/terrain-from-noise/)
+- [Polygonal Terrain Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
+- [What Does Randomness Look Like?](http://www.empiricalzeal.com/2012/12/21/what-does-randomness-look-like/)
+- [Generating Islands](https://plaxdev.wordpress.com/2017/05/04/procedurally-generating-islands)
+- [3D Cave Generation](https://www.reddit.com/r/proceduralgeneration/comments/6eo95o/3d_cave_generation_using_a_single_coherent_noise/)
+- [Generating Trees in Blender](https://github.com/friggog/tree-gen)
+- [Combining Noise Functions](https://m.imgur.com/gallery/zVu1b)
+- [ProcGen Resources List](https://www.firespark.de/?id=article&article=ProceduralGenerationResources)
+- [Generating City Road Maps](https://www.reddit.com/r/proceduralgeneration/comments/6kgs8k/procedural_generation_of_city_road_maps/)
+- [Procedural Structures in Tilemaps](https://www.reddit.com/r/proceduralgeneration/comments/6l3t1s/procedural_structures_in_a_tilemap/?st=j4q3zl6b&sh=2d5e97a4)
+- [SIMD FastNoise](https://github.com/jackmott/FastNoise-SIMD)
+- [Top-Down Cave Gen](http://noelberry.ca/#thecaves)
+- [RoboHash](https://robohash.org/)
+- [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
+- [PCG Family of pseudo-random generators](https://www.youtube.com/watch?v=45Oet5qjlms)
+- [Right-Triangulated Irregular Networks](https://github.com/mapbox/martini)
+- [Fractal Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
+- [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator)
+- [3D Cellular Automata](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
+- [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
+- [Noise-Based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU)
+- [Three Ways of Generating Terrain with Erosion Features](https://github.com/dandrino/terrain-erosion-3-ways)
+
+Math - Misc.
+- [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
+- [Discrete Math Overview/Recommendations](https://handmade.network/blogs/p/3118-discrete_mathematics_for_software_engineers#15131)
+- [Deriving the Boltzmann Distribution via Atmospheric Density](https://gravityandlevity.wordpress.com/)
+- [How to Read Math](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
+- [Eigenvalues and Vectors](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+- [Using Modern SAT Solvers](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
+- [Polynomial Approximating Sin/Cos](https://web.archive.org/web/20080228213915/http://www.devmaster.net/forums/showthread.php?t=5784)
+- [Efficiently Computing Fibonacci](http://raganwald.com/2015/12/20/an-es6-program-to-compute-fibonacci.html)
+- [Classic Math Books](https://medium.com/however-mathematics/13-classic-mathematics-books-for-lifelong-learners-7ec2759142da)
+- [Group Theory and the Rubik's Cube](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik's%20Cube.pdf)
+- [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
+- [Information Theory for Intelligent People](http://tuvalu.santafe.edu/~simon/it.pdf)
+- [Going Critical](https://www.meltingasphalt.com/interactive/going-critical/)
+- [Tetris is NP-Complete](https://arxiv.org/pdf/cs/0210020.pdf)
+- [What is the Poisson Distribution?](https://towardsdatascience.com/poisson-distribution-intuition-and-derivation-1059aeab90d)
+- [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- [Poisson's Equation](https://mattferraro.dev/posts/poissons-equation)
+- [The Moessner Miracle](https://www.youtube.com/watch?v=rGlpyFHfMgI)
+- [Improving the fast inverse square root](http://rrrola.wz.cz/inv_sqrt.html)
+- [Natural Number Game (lean)](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
+- [The Insolubility of the Quintic without Galois Theory](https://www.youtube.com/watch?v=BSHv9Elk1MU&t=1675s)
 
 CS - Algorithms 
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -296,6 +365,7 @@ CS - Algorithms
 - [CRDTs: The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
 - [5000x faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
 - [Xi Algorithms/Rope](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
+- [Intelligent brute forcing](https://davidkoloski.me/blog/intelligent-brute-forcing/)
 
 CS - Data Structures
 - [Masstree: Cache-Friendly trie/b-tree](https://www.the-paper-trail.org/post/masstree-paper-notes/)
@@ -320,6 +390,7 @@ CS - Concurrency
 - [Making the Tokio Scheduler 10x Faster (Work-Stealing)](https://tokio.rs/blog/2019-10-scheduler/)
 - [An Interesting Lock-Free Queue](https://www.youtube.com/watch?v=HP2InVqgBFM)
 - [Resource efficient thread pools in Zig](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
+- [Parallelizing the Naughty Dog engine using fibers](https://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
 
 Machine Learning
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -342,58 +413,6 @@ Machine Learning
 - [3D Style Transfer for Video](https://www.youtube.com/watch?v=fcnjHmBcLNQ&feature=youtu.be)
 - [Lessons learned building an ML trading system](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
 - [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
-
-Math - Cryptography
-- [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
-- [Cryptanalysis of Meow Hash](https://peter.website/meow-hash-cryptanalysis)
-- [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
-- [NaCl Crypto](https://nacl.cr.yp.to/)
-
-Math - Randomness
-- [Maze Generation](http://www.astrolog.org/labyrnth/algrithm.htm)
-- [Maze + Room Generation](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
-- [Terrain Generation from Noise](http://www.redblobgames.com/maps/terrain-from-noise/)
-- [Polygonal Terrain Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
-- [What Does Randomness Look Like?](http://www.empiricalzeal.com/2012/12/21/what-does-randomness-look-like/)
-- [Generating Islands](https://plaxdev.wordpress.com/2017/05/04/procedurally-generating-islands)
-- [3D Cave Generation](https://www.reddit.com/r/proceduralgeneration/comments/6eo95o/3d_cave_generation_using_a_single_coherent_noise/)
-- [Generating Trees in Blender](https://github.com/friggog/tree-gen)
-- [Combining Noise Functions](https://m.imgur.com/gallery/zVu1b)
-- [ProcGen Resources List](https://www.firespark.de/?id=article&article=ProceduralGenerationResources)
-- [Generating City Road Maps](https://www.reddit.com/r/proceduralgeneration/comments/6kgs8k/procedural_generation_of_city_road_maps/)
-- [Procedural Structures in Tilemaps](https://www.reddit.com/r/proceduralgeneration/comments/6l3t1s/procedural_structures_in_a_tilemap/?st=j4q3zl6b&sh=2d5e97a4)
-- [SIMD FastNoise](https://github.com/jackmott/FastNoise-SIMD)
-- [Top-Down Cave Gen](http://noelberry.ca/#thecaves)
-- [RoboHash](https://robohash.org/)
-- [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
-- [PCG Family of pseudo-random generators](https://www.youtube.com/watch?v=45Oet5qjlms)
-- [Right-Triangulated Irregular Networks](https://github.com/mapbox/martini)
-- [Fractal Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
-- [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator)
-- [3D Cellular Automata](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
-- [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
-- 
-Math - Misc.
-- [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
-- [Discrete Math Overview/Recommendations](https://handmade.network/blogs/p/3118-discrete_mathematics_for_software_engineers#15131)
-- [Deriving the Boltzmann Distribution via Atmospheric Density](https://gravityandlevity.wordpress.com/)
-- [How to Read Math](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
-- [Eigenvalues and Vectors](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
-- [Using Modern SAT Solvers](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
-- [Polynomial Approximating Sin/Cos](https://web.archive.org/web/20080228213915/http://www.devmaster.net/forums/showthread.php?t=5784)
-- [Efficiently Computing Fibonacci](http://raganwald.com/2015/12/20/an-es6-program-to-compute-fibonacci.html)
-- [Classic Math Books](https://medium.com/however-mathematics/13-classic-mathematics-books-for-lifelong-learners-7ec2759142da)
-- [Group Theory and the Rubik's Cube](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik's%20Cube.pdf)
-- [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
-- [Information Theory for Intelligent People](http://tuvalu.santafe.edu/~simon/it.pdf)
-- [Going Critical](https://www.meltingasphalt.com/interactive/going-critical/)
-- [Tetris is NP-Complete](https://arxiv.org/pdf/cs/0210020.pdf)
-- [What is the Poisson Distribution?](https://towardsdatascience.com/poisson-distribution-intuition-and-derivation-1059aeab90d)
-- [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
-- [Poisson's Equation](https://mattferraro.dev/posts/poissons-equation)
-- [The Moessner Miracle](https://www.youtube.com/watch?v=rGlpyFHfMgI)
-- [Improving the fast inverse square root](http://rrrola.wz.cz/inv_sqrt.html)
-- [Natural Number Game (lean)](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 
 Games - Design 
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -452,6 +471,7 @@ Software - Technique
 - [Data Oriented Design Slides](http://www.dice.se/wp-content/uploads/2014/12/Introduction_to_Data-Oriented_Design.pdf)
 - [OOP is Dead, Long Live Data Oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU)
 - [Practical Examples in Data Oriented Design](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
+- [Specs and Legion, two very different approaches to ECS](https://csherratt.github.io/blog/posts/specs-and-legion/)
 
 Software - Culture
 - [Confessions of a UE4 Engineering Firefighter](https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/)
@@ -537,6 +557,7 @@ Languages - Compilers
 - [Optimizations in C++ Compilers](https://queue.acm.org/detail.cfm?id=3372264)
 - [Lexical Analysis Strategies](https://nothings.org/computer/lexing.html)
 - [Complete Guide to LLVM](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
+- [Optimizations enabled by -ffast-math](https://kristerw.github.io/2021/10/19/fast-math/)
 
 Languages - Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -707,6 +728,8 @@ Computer Engineering - Low Level Programming
 - [Herbie float precision](https://herbie.uwplse.org/)
 - [Speeding up atan2f by 50x](https://mazzo.li/posts/vectorized-atan2.html)
 - [Optimizing sorting in D - doing more work/branchless](https://dlang.org/blog/2020/05/14/lomutos-comeback/)
+- [Fastest fizzbuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
+- [My approach to optimization](https://medium.com/@jasonbooth_86226/my-approach-to-optimization-bfcafc1f8768)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -752,6 +775,8 @@ Computer Engineering - Operating Systems - Windows
 - 24 Core CPU and I Can't Type an Email [Part 1](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/) [Part 2](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
 - [63 Cores Blocked by 7 Instructions](https://randomascii.wordpress.com/2019/10/20/63-cores-blocked-by-seven-instructions/)
 - [n^2 again, now in WMI](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
+- [Moving window handling to another thread example](https://github.com/cmuratori/dtc)
+- [Properly hanldling keyboard input](https://blog.molecular-matters.com/2011/09/05/properly-handling-keyboard-input/)
 
 Computer Engineering - Operating Systems - Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
@@ -834,6 +859,7 @@ Technical History &amp; Stories
 - [Dissecting a Shader Quine](https://gpfault.net/posts/shader-quine.txt.html)
 - [Magic: the Gathering is Turing Complete](https://www.toothycat.net/~hologram/Turing/index.html)
 - [Thinkpad X62](https://geoff.greer.fm/2017/07/16/thinkpad-x62/)
+- [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/)
 
 Blogs
 - [Red Blob Games](http://www.redblobgames.com/)
