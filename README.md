@@ -45,7 +45,7 @@ Graphics - Renderers
 - [Deferred Rendering for Current and Future Rendering Pipelines](https://software.intel.com/sites/default/files/m/d/4/1/d/8/lauritzen_deferred_shading_siggraph_2010.pdf)
 - [Destiny's Multi-threaded Rendering Architecture](http://advances.realtimerendering.com/destiny/gdc_2015/Tatarchuk_GDC_2015__Destiny_Renderer_web.pdf)
 - [How Unreal Renders a Frame](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
-- [How the Milton Renderer Works](http://s3rg.io/posts/milton_renderer/)
+- [How the Milton Renderer Works](http://s3rg.io/post/2016/10/20/how-the-milton-renderer-works/)
 - [Filament Physically Based Graphics Engine (Android)](https://google.github.io/filament/Filament.md.html)
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Rendering Black Holes in Interstellar](https://arxiv.org/abs/1502.03808)
