@@ -356,7 +356,7 @@ CS - Algorithms
 - [Wavefunction Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 - [The Right Answer to Collaborative Editing](https://github.com/xi-editor/xi-editor/issues/1187#issuecomment-491473599)
 - [Solving DP Problems](http://blog.refdash.com/dynamic-programming-tutorial-example/)
-- [Dyanmic Programming: Seam Carving](https://avikdas.com/2019/05/14/real-world-dynamic-programming-seam-carving.html) [Improved](https://avikdas.com/2019/07/29/improved-seam-carving-with-forward-energy.html)
+- [Dynamic Programming: Seam Carving](https://avikdas.com/2019/05/14/real-world-dynamic-programming-seam-carving.html) [Improved](https://avikdas.com/2019/07/29/improved-seam-carving-with-forward-energy.html)
 - [Diffing Algorithms in Git](https://fabiensanglard.net/git_code_review/diff.php)
 - [Rectangle Packing](https://eatplayhate.me/2013/09/17/adventures-in-engine-construction-rectangle-packing/)
 - [Markov Chains for Procedural Buildings](https://weigert.vsos.ethz.ch/2019/10/30/markov-chains-for-procedural-buildings/)
@@ -776,7 +776,7 @@ Computer Engineering - Operating Systems - Windows
 - [63 Cores Blocked by 7 Instructions](https://randomascii.wordpress.com/2019/10/20/63-cores-blocked-by-seven-instructions/)
 - [n^2 again, now in WMI](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
 - [Moving window handling to another thread example](https://github.com/cmuratori/dtc)
-- [Properly hanldling keyboard input](https://blog.molecular-matters.com/2011/09/05/properly-handling-keyboard-input/)
+- [Properly handling keyboard input](https://blog.molecular-matters.com/2011/09/05/properly-handling-keyboard-input/)
 
 Computer Engineering - Operating Systems - Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
