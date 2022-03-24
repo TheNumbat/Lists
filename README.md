@@ -89,6 +89,7 @@ Graphics - Images
 - [Failed Adventure in Avoiding Temporal Anti-Aliasing](http://alextardif.com/Antialiasing.html)
 - [Temporal AA Starter Pack](http://alextardif.com/TAA.html)
 - [Separate your filters](https://bartwronski.com/2020/02/03/separate-your-filters-svd-and-low-rank-approximation-of-image-filters/)
+- [Decoupled Visibility Multisampling](http://filmicworlds.com/blog/decoupled-visibility-multisampling/)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -130,10 +131,10 @@ Graphics - Ray/Path Tracing
 - [Screen Space Path Tracing](https://blog.tuxedolabs.com/2018/01/03/screen-space-path-tracing-diffuse.html)
 - [Monte Carlo Estimators for Differential Light Transport](http://www.iliyan.com/publications/DifferentialEstimators/DifferentialEstimators_Sig2021.pdf)
 - [Reducing Acceleration Structure Memory with RTXMU](https://developer.nvidia.com/blog/reducing-acceleration-structure-memory-with-nvidia-rtxmu/)
-- [Spatiotemporal reservoir resampling for real-time ray tracing
-with dynamic direct lighting](https://research.nvidia.com/sites/default/files/pubs/2020-07_Spatiotemporal-reservoir-resampling/ReSTIR.pdf)
-- [Fast Volume Rendering with Spatiotemporal Reservoir Resampling
-](https://graphics.cs.utah.edu/research/projects/volumetric-restir/volumetric_restir.pdf)
+- [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://research.nvidia.com/sites/default/files/pubs/2020-07_Spatiotemporal-reservoir-resampling/ReSTIR.pdf)
+- [Fast Volume Rendering with Spatiotemporal Reservoir Resampling](https://graphics.cs.utah.edu/research/projects/volumetric-restir/volumetric_restir.pdf)
+- [Light transport matrices, SVD, spectral analysis, and matrix completion](https://bartwronski.com/2022/02/15/light-transport-matrices-svd-spectral-analysis-and-matrix-completion/)
+- [Real-time Neural Radiance Caching for Path Tracing](https://d1qx31qr3h6wln.cloudfront.net/publications/paper_4.pdf)
 
 Graphics - Simulation &amp; Animation
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
@@ -242,6 +243,8 @@ Graphics - OpenGL/Vulkan
 - [Vulkan Multithreading Overview](https://vkguide.dev/docs/extra-chapter/multithreading/)
 - [Swapchains and frame pacing](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html)
 - [Vulkan Swapchains &amp; presentation](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-2.html)
+- [Bindless rendering setup](https://blog.traverseresearch.nl/bindless-rendering-setup-afeb678d77fc)
+- [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/)
 
 Graphics - Shaders
 - [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
@@ -257,7 +260,10 @@ Graphics - Shaders
 - [Avoiding Shader Conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
 - [Protean Clouds (Shadertoy)](https://www.shadertoy.com/view/3l23Rh)
 - [Voronoi Noise (Shadertoy)](https://www.shadertoy.com/view/lsjGWD)
-- [Production Sky Rendering (Shadertoy)](https://www.shadertoy.com/view/slSXRW)
+- [A Scalable and Production Ready Sky and Atmosphere Rendering Technique](https://sebh.github.io/publications/egsr2020.pdf) | [(Shadertoy)](https://www.shadertoy.com/view/slSXRW)
+- [Procedural Sky (OpenGL)](https://github.com/shff/opengl_sky)
+- [WebGL Noise](https://github.com/ashima/webgl-noise/blob/master/src/noise3D.glsl)
+- [Time wrap in shaders](http://the-witness.net/news/2022/02/a-shader-trick/)
 
 Math - Geometry
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
@@ -302,10 +308,9 @@ Math - Randomness/Procedural Generation
 - [ProcGen Resources List](https://www.firespark.de/?id=article&article=ProceduralGenerationResources)
 - [Generating City Road Maps](https://www.reddit.com/r/proceduralgeneration/comments/6kgs8k/procedural_generation_of_city_road_maps/)
 - [Procedural Structures in Tilemaps](https://www.reddit.com/r/proceduralgeneration/comments/6l3t1s/procedural_structures_in_a_tilemap/?st=j4q3zl6b&sh=2d5e97a4)
-- [SIMD FastNoise](https://github.com/jackmott/FastNoise-SIMD)
+- [SIMD FastNoise](https://github.com/Auburn/FastNoise2)
 - [Top-Down Cave Gen](http://noelberry.ca/#thecaves)
 - [RoboHash](https://robohash.org/)
-- [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 - [PCG Family of pseudo-random generators](https://www.youtube.com/watch?v=45Oet5qjlms)
 - [Right-Triangulated Irregular Networks](https://github.com/mapbox/martini)
 - [Fractal Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
@@ -314,6 +319,8 @@ Math - Randomness/Procedural Generation
 - [Primer on Repeatable Random Numbers](https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/)
 - [Noise-Based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU)
 - [Three Ways of Generating Terrain with Erosion Features](https://github.com/dandrino/terrain-erosion-3-ways)
+- [Procedural Worlds from Simple Tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
+- [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -337,6 +344,7 @@ Math - Misc.
 - [Improving the fast inverse square root](http://rrrola.wz.cz/inv_sqrt.html)
 - [Natural Number Game (lean)](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 - [The Insolubility of the Quintic without Galois Theory](https://www.youtube.com/watch?v=BSHv9Elk1MU&t=1675s)
+- [Real analysis problem solving strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/)
 
 CS - Algorithms 
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -375,6 +383,7 @@ CS - Data Structures
 - [Rope](https://en.m.wikipedia.org/wiki/Rope_(data_structure))
 - [Esoteric Data Structures and Where to Find Them](https://www.youtube.com/watch?v=-8UZhDjgeZU)
 - [Designing a Fast Hash Table](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)
+- [Blender Mesh Structure](https://wiki.blender.org/wiki/Source/Modeling/BMesh/Design)
 
 CS - Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -413,6 +422,7 @@ Machine Learning
 - [3D Style Transfer for Video](https://www.youtube.com/watch?v=fcnjHmBcLNQ&feature=youtu.be)
 - [Lessons learned building an ML trading system](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
 - [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
+- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
 
 Games - Design 
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -777,6 +787,7 @@ Computer Engineering - Operating Systems - Windows
 - [n^2 again, now in WMI](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
 - [Moving window handling to another thread example](https://github.com/cmuratori/dtc)
 - [Properly handling keyboard input](https://blog.molecular-matters.com/2011/09/05/properly-handling-keyboard-input/)
+- [Making Your Game Go Fast by Asking Windows Nicely](https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/)
 
 Computer Engineering - Operating Systems - Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
@@ -857,9 +868,7 @@ Technical History &amp; Stories
 - [Functorio](https://bartoszmilewski.com/2021/02/16/functorio/)
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
 - [Dissecting a Shader Quine](https://gpfault.net/posts/shader-quine.txt.html)
-- [Magic: the Gathering is Turing Complete](https://www.toothycat.net/~hologram/Turing/index.html)
-- [Thinkpad X62](https://geoff.greer.fm/2017/07/16/thinkpad-x62/)
-- [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/)
+- [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/)
 
 Blogs
 - [Red Blob Games](http://www.redblobgames.com/)
