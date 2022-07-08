@@ -6,7 +6,6 @@ Graphics - Techniques
 - [Real-time Global Illumination by Precomputed Local Reconstruction from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/index.html)
 - [Rendering Vector Art on the GPU](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch25.html)
 - [Atmospheric Scattering](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter16.html)
-- [Order-Independent Transparency](https://en.wikipedia.org/wiki/Order-independent_transparency)
 - [Maximizing Depth Buffer Range and Precision](http://outerra.blogspot.com/2012/11/maximizing-depth-buffer-range-and.html)
 - [GPU Font Rendering](http://terathon.com/font_rendering_sota_lengyel.pdf)
 - [Projection Matrix Tricks](http://www.terathon.com/gdc07_lengyel.pdf)
@@ -28,6 +27,7 @@ Graphics - Techniques
 - [A Sampling of Shadow Techniques](https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/)
 - [Sample Distribution Shadow Maps](https://software.intel.com/content/www/us/en/develop/articles/sample-distribution-shadow-maps.html)
 - [Spatiotemporal Blue Noise Textures](https://developer.nvidia.com/blog/rendering-in-real-time-with-spatiotemporal-blue-noise-textures-part-1/)
+- [Order Independent Transparency (Part 1)](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1/)
 
 Graphics - Color &amp; Tone Mapping
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -36,6 +36,7 @@ Graphics - Color &amp; Tone Mapping
 - [Automatic Exposure using a Luminance Histogram](https://bruop.github.io/exposure/)
 - [HDR Color Grading and Display in Frostbite](https://www.ea.com/frostbite/news/high-dynamic-range-color-grading-and-display-in-frostbite)
 - [Tone Mapping](https://64.github.io/tonemapping/)
+- [Oklab Color Space](https://bottosson.github.io/posts/oklab/)
 
 Graphics - Renderers
 - [Rasterization on Larabee](http://www.drdobbs.com/parallel/rasterization-on-larrabee/217200602?pgno=1)
@@ -90,6 +91,9 @@ Graphics - Images
 - [Temporal AA Starter Pack](http://alextardif.com/TAA.html)
 - [Separate your filters](https://bartwronski.com/2020/02/03/separate-your-filters-svd-and-low-rank-approximation-of-image-filters/)
 - [Decoupled Visibility Multisampling](http://filmicworlds.com/blog/decoupled-visibility-multisampling/)
+- [Quite OK Image Format](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+- [Software VRS with Visibility Buffer Rendering](http://filmicworlds.com/blog/software-vrs-with-visibility-buffer-rendering/)
+- [Accelerating Raytracing Using Software VRS](https://interplayoflight.wordpress.com/2022/05/29/accelerating-raytracing-using-software-vrs/)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -106,6 +110,7 @@ Graphics - Resources
 - [How to Read a Realistic Rendering Paper](https://morgan3d.github.io/advanced-ray-tracing-course/reading-research.pdf)
 - [What Makes a (Graphics) Systems Paper Beautiful](http://graphics.stanford.edu/~kayvonf/notes/systemspaper/)
 - [NVIDIA Developer blog: advanced API performance](https://developer.nvidia.com/blog/tag/advanced-api-performance/)
+- [Advanced API Performance: Clears](https://developer.nvidia.com/blog/advanced-api-performance-clears/)
 
 Graphics - Ray/Path Tracing
 - [Ray Marching &amp; Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
@@ -135,12 +140,17 @@ Graphics - Ray/Path Tracing
 - [Fast Volume Rendering with Spatiotemporal Reservoir Resampling](https://graphics.cs.utah.edu/research/projects/volumetric-restir/volumetric_restir.pdf)
 - [Light transport matrices, SVD, spectral analysis, and matrix completion](https://bartwronski.com/2022/02/15/light-transport-matrices-svd-spectral-analysis-and-matrix-completion/)
 - [Real-time Neural Radiance Caching for Path Tracing](https://d1qx31qr3h6wln.cloudfront.net/publications/paper_4.pdf)
+- [Dynamic, Noise Free, Screen Space Diffuse Global Illumination](https://gamehacker1999.github.io/posts/SSGI/)
+- [ReSTIR GI for Specular Bounces](http://www.zyanidelab.com/restir-gi-for-specular-bounces/)
+- [ReSTIR Reading List](http://lousodrome.net/blog/light/2022/05/14/reading-list-on-restir/)
+- [Unreal Engine 5 goes all-in on dynamic global illumination with Lumen](https://www.unrealengine.com/en-US/tech-blog/unreal-engine-5-goes-all-in-on-dynamic-global-illumination-with-lumen)
+- [Kajiya Global Illumination Overview](https://github.com/EmbarkStudios/kajiya/blob/main/docs/gi-overview.md)
 
 Graphics - Simulation &amp; Animation
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
 - [Real-Time Simulation and Rendering of 3D Fluids](https://developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-30-real-time-simulation-and-rendering-3d-fluids)
 - [WebGL Fluid Simulation Guide/Example](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/)
-- [SpaceX GPU Simulation](https://www.youtube.com/watch?v=txk-VO1hzBY)
+- [SpaceX GPU Simulation](https://www.youtube.com/watch?v=vYA0f6R5KAI)
 - [GPU Fluid Simulation](https://benedikt-bitterli.me/gpu-fluid.html)
 - [PIC/FLIP Fluid Simulation](http://rlguy.com/gridfluidsim/)
 - [Game Developer's Spring-Roll-Call](http://theorangeduck.com/page/spring-roll-call)
@@ -156,6 +166,8 @@ Graphics - Simulation &amp; Animation
 - [Procedural Spider Animation in Araknoids](https://amine.franticsoftware.com/2018/11/25/araknoids-devlog-1-technical-overview/)
 - [Papercraft with Blender](https://matiasmorant.wordpress.com/2017/12/23/papercraft-with-blender/)
 - [Shaded relief maps in Blender](https://github.com/JoeWDavies/geoblender)
+- [Realtime Fluid Simulation: Projection](https://gist.github.com/vassvik/f06a453c18eae03a9ad4dc8cc011d2dc)
+- [Fluid Simulation: Reintegration Tracking](https://michaelmoroz.github.io/Reintegration-Tracking/)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -215,6 +227,8 @@ Graphics - GPUs
 - [GPU Compute Model Terminology Cheat Sheet](https://landonthomas.net/docs/gpu_compute_model_terms_quick_ref.pdf)
 - [Gentle Introduction to modern GPU Architecture](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 - [GPU Optimization for GameDev list](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
+- [Optimizing Parallel Reduction in CUDA](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
+- [Optimizing GPU occupancy and resource usage with large thread groups](https://gpuopen.com/learn/optimizing-gpu-occupancy-resource-usage-large-thread-groups/)
 
 Graphics - OpenGL/Vulkan
 - [LearnOpenGL](http://www.learnopengl.com/)
@@ -264,6 +278,7 @@ Graphics - Shaders
 - [Procedural Sky (OpenGL)](https://github.com/shff/opengl_sky)
 - [WebGL Noise](https://github.com/ashima/webgl-noise/blob/master/src/noise3D.glsl)
 - [Time wrap in shaders](http://the-witness.net/news/2022/02/a-shader-trick/)
+- [Quake 2 RTX Checkerboard interleave](https://github.com/NVIDIA/Q2RTX/blob/master/src/refresh/vkpt/shader/checkerboard_interleave.comp)
 
 Math - Geometry
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
@@ -288,6 +303,8 @@ Math - Geometry
 - [Fast Voronoi Diagrams and Distance Fields with Jump Flooding](https://blog.demofox.org/2016/02/29/fast-voronoi-diagrams-and-distance-dield-textures-on-the-gpu-with-the-jump-flooding-algorithm/)
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
 - [Dirac's belt trick, Topology, and Spin 1/2 particles](https://www.youtube.com/watch?v=ACZC_XEyg9U)
+- [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
+- [A Robust Method to Extract the Rotational Part of Deformations](https://matthias-research.github.io/pages/publications/stablePolarDecomp.pdf)
 
 Math - Cryptography
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
@@ -321,6 +338,8 @@ Math - Randomness/Procedural Generation
 - [Three Ways of Generating Terrain with Erosion Features](https://github.com/dandrino/terrain-erosion-3-ways)
 - [Procedural Worlds from Simple Tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
+- [Fibonacci Fun](https://www.reddit.com/r/proceduralgeneration/comments/s5lrn2/fibonacci_fun/)
+- [MarkovJunior](https://github.com/mxgmn/MarkovJunior)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -345,6 +364,7 @@ Math - Misc.
 - [Natural Number Game (lean)](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 - [The Insolubility of the Quintic without Galois Theory](https://www.youtube.com/watch?v=BSHv9Elk1MU&t=1675s)
 - [Real analysis problem solving strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/)
+- [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
 
 CS - Algorithms 
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -423,6 +443,9 @@ Machine Learning
 - [Lessons learned building an ML trading system](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
 - [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
+- [Learning for 3D Vision](https://learning3d.github.io/pages/schedule.html)
+- [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://sfchng.github.io/garf/)
+- [Testing GARFs](https://colab.research.google.com/drive/1F1c2ouulmqys-GJBVBHn04I1UVWeexiB?usp=sharing#scrollTo=uVb-l3-6zMgH)
 
 Games - Design 
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -524,6 +547,9 @@ Software - Misc. Tools
 - [rr Debugger](https://rr-project.org/)
 - [msdfgen](https://github.com/Chlumsky/msdfgen)
 - [Free HDRI Environment Maps](https://polyhaven.com/)
+- [Free VDB Volumes](https://jangafx.com/software/embergen/download/free-vdb-animations/)
+- [Intel Graphics Samples](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html)
+- [Vector.js](https://vectorjs.org/)
 
 Software - Misc. Libraries
 - [Single-File Libraries](https://github.com/nothings/single_file_libs)
@@ -754,6 +780,7 @@ Computer Engineering - Operating Systems
 - [Write your own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [File system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 - [Surprisingly Slow](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/)
+- [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 - When will there be a sandboxed bytecode-vm userland ipc-only microkernel db-filesystem networked app-package operating system?
 
 Computer Engineering - Operating Systems - Windows
@@ -869,3 +896,4 @@ Technical History &amp; Stories
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
 - [Dissecting a Shader Quine](https://gpfault.net/posts/shader-quine.txt.html)
 - [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/)
+- [Why is the Nuclear Power Industry Stagnant?](https://austinvernon.site/blog/nuclear.html)
