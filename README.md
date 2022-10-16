@@ -28,6 +28,10 @@ Graphics - Techniques
 - [Sample Distribution Shadow Maps](https://software.intel.com/content/www/us/en/develop/articles/sample-distribution-shadow-maps.html)
 - [Spatiotemporal Blue Noise Textures](https://developer.nvidia.com/blog/rendering-in-real-time-with-spatiotemporal-blue-noise-textures-part-1/)
 - [Order Independent Transparency (Part 1)](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1/)
+- [HPG 2022 Program](https://www.highperformancegraphics.org/2022/program/)
+- [Rendering Water in Horizon Forbidden West (Slides)](http://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Water-Malan.pdf)
+- [Swapchains and frame pacing](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html)
+- [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/)
 
 Graphics - Color &amp; Tone Mapping
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -62,6 +66,9 @@ Graphics - Renderers
 - [Why are video game graphics still a challenge? Productionizing rendering algorithms](https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/)
 - [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 - [A Deep Dive into Nanite Virtualized Geometry](https://www.youtube.com/watch?v=eviSykqSUUw)
+- [Journey to Nanite (Slides)](https://highperformancegraphics.org/slides22/Journey_to_Nanite.pdf)
+- [Journey to Nanite (Talk)](https://www.youtube.com/watch?v=NRnj_lnpORU)
+- [Lumen in UE5 (Slides)](http://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Lumen-Wright%20et%20al.pdf)
 
 Graphics - 2D
 - [Fast 2D Rendering on the GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
@@ -70,6 +77,8 @@ Graphics - 2D
 - [Why are 2D vector graphics so much harder than 3D?](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
 - [Rendering Text with Distance Fields](http://www.valvesoftware.com/publications/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf)
 - [2D Visibility](http://ncase.me/sight-and-light/)
+- [A Simple Solution for Shape Packing in 2D](https://gorillasun.de/blog/a-simple-solution-for-shape-packing-in-2d)
+- [Parallel curves of cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
 
 Graphics - Images
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
@@ -108,9 +117,12 @@ Graphics - Resources
 - [Graphics Programming Black Book](http://www.drdobbs.com/parallel/graphics-programming-black-book/184404919)
 - [Physically Based Rendering (text)](http://www.pbr-book.org/3ed-2018/contents.html)
 - [How to Read a Realistic Rendering Paper](https://morgan3d.github.io/advanced-ray-tracing-course/reading-research.pdf)
-- [What Makes a (Graphics) Systems Paper Beautiful](http://graphics.stanford.edu/~kayvonf/notes/systemspaper/)
 - [NVIDIA Developer blog: advanced API performance](https://developer.nvidia.com/blog/tag/advanced-api-performance/)
 - [Advanced API Performance: Clears](https://developer.nvidia.com/blog/advanced-api-performance-clears/)
+
+Graphics - Academia
+- [What Makes a (Graphics) Systems Paper Beautiful](http://graphics.stanford.edu/~kayvonf/notes/systemspaper/)
+- [Writing your first ACM SIGGRAPH / TOG paper](https://research.siggraph.org/blog/guides/writing-your-first-acm-siggraph-tog-paper/)
 
 Graphics - Ray/Path Tracing
 - [Ray Marching &amp; Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
@@ -145,6 +157,10 @@ Graphics - Ray/Path Tracing
 - [ReSTIR Reading List](http://lousodrome.net/blog/light/2022/05/14/reading-list-on-restir/)
 - [Unreal Engine 5 goes all-in on dynamic global illumination with Lumen](https://www.unrealengine.com/en-US/tech-blog/unreal-engine-5-goes-all-in-on-dynamic-global-illumination-with-lumen)
 - [Kajiya Global Illumination Overview](https://github.com/EmbarkStudios/kajiya/blob/main/docs/gi-overview.md)
+- [Temporally Stable Real-Time Joint Neural Denoising and Supersampling](https://momentsingraphics.de/HPG2022.html)
+- [Polarization in Path Tracing (Mitsuba 3)](https://mitsuba.readthedocs.io/en/latest/src/key_topics/polarization.html)
+- [Visualizing General Relativity](https://michaelmoroz.github.io/TracingGeodesics/)
+- [Fast, Branchless Ray/Bounding Box Intersections, Part 3: Boundaries](https://tavianator.com/2022/ray_box_boundary.html)
 
 Graphics - Simulation &amp; Animation
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
@@ -168,6 +184,8 @@ Graphics - Simulation &amp; Animation
 - [Shaded relief maps in Blender](https://github.com/JoeWDavies/geoblender)
 - [Realtime Fluid Simulation: Projection](https://gist.github.com/vassvik/f06a453c18eae03a9ad4dc8cc011d2dc)
 - [Fluid Simulation: Reintegration Tracking](https://michaelmoroz.github.io/Reintegration-Tracking/)
+- [Real-time rendering of volumetric clouds](https://www.diva-portal.org/smash/get/diva2:1223894/FULLTEXT01.pdf)
+- [C++ audio mixing library design](https://lisyarus.github.io/blog/programming/2022/10/15/audio-mixing.html)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -229,16 +247,16 @@ Graphics - GPUs
 - [GPU Optimization for GameDev list](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 - [Optimizing Parallel Reduction in CUDA](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
 - [Optimizing GPU occupancy and resource usage with large thread groups](https://gpuopen.com/learn/optimizing-gpu-occupancy-resource-usage-large-thread-groups/)
+- [Shader Execution Reordering White Paper](https://developer.nvidia.com/sites/default/files/akamai/gameworks/ser-whitepaper.pdf)
 
-Graphics - OpenGL/Vulkan
+Graphics - OpenGL 
 - [LearnOpenGL](http://www.learnopengl.com/)
 - [Rendering Without Vertex Data](https://www.opengl.org/discussion_boards/showthread.php/168316-Rendering-without-vertex-data-%28gl_VertexID-only%29)
 - [Basic Shader Examples](http://www.lighthouse3d.com/tutorials/glsl-12-tutorial/shader-examples/)
 - [What State is Stored in a VAO?](http://gamedev.stackexchange.com/questions/99236/what-state-is-stored-in-an-opengl-vertex-array-object-vao-and-how-do-i-use-the)
-- [Using OpenGL Like Vulkan](https://developer.nvidia.com/opengl-vulkan)
 - [Modern OpenGL Text Rendering](https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_Text_Rendering_02)
+- [Using OpenGL Like Vulkan](https://developer.nvidia.com/opengl-vulkan)
 - [OpenGL Array Textures](https://www.khronos.org/opengl/wiki/Array_Texture)
-- [Single-Pass Wireframe Rendering](http://strattonbrazil.blogspot.com/2011/09/single-pass-wireframe-rendering_10.html)
 - [OpenGL Instancing](http://www.informit.com/articles/article.aspx?p=2033340&seqNum=5)
 - [OpenGL Lighting and More](https://www.tomdalling.com/blog/modern-opengl/08-even-more-lighting-directional-lights-spotlights-multiple-lights/)
 - [Check if an Object is Outside the Clipping Volume](https://stackoverflow.com/questions/6301085/how-to-check-if-an-object-lies-outside-the-clipping-volume-in-opengl)
@@ -246,21 +264,29 @@ Graphics - OpenGL/Vulkan
 - [Multisampling](https://www.khronos.org/opengl/wiki/Multisampling)
 - [Shadow Mapping](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/)
 - [WebGL PBR Example](https://github.com/KhronosGroup/glTF-WebGL-PBR/blob/master/mesh.js)
+- [Bindless rendering setup](https://blog.traverseresearch.nl/bindless-rendering-setup-afeb678d77fc)
 - [Introduction to Compute Shaders](http://antongerdelan.net/opengl/compute.html)
+
+Graphics - Vulkan/D3D12/WebGPU
+- [Vulkan Swapchains &amp; presentation](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-2.html)
+- [GPU Memory Pools in D3D12](https://therealmjp.github.io/posts/gpu-memory-pool/#what-about-directstorage)
+- [Descriptors are Hard](https://www.jlekstrand.net/jason/blog/2022/08/descriptors-are-hard/)
+- [Optimising A AAA Vulkan Title on Desktop](https://gpuopen.com/presentations/2019/Vulkanised2019_06_optimising_aaa_vulkan_title_on_desktop.pdf)
 - [Vulkan in 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
-- [Tutorial](https://vulkan-tutorial.com/)
-- [Examples and Demos](https://github.com/SaschaWillems/Vulkan)
+- [Vulkan Tutorial](https://vulkan-tutorial.com/)
+- [Vulkan Examples and Demos](https://github.com/SaschaWillems/Vulkan)
 - [Vulkan 101](http://jhenriques.net/development.html)
 - [VkMark](https://github.com/vkmark/vkmark)
 - [A Guide to Vulkan Layers](https://renderdoc.org/vulkan-layer-guide.html)
 - [Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 - [Vulkan Multithreading Overview](https://vkguide.dev/docs/extra-chapter/multithreading/)
-- [Swapchains and frame pacing](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html)
-- [Vulkan Swapchains &amp; presentation](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-2.html)
-- [Bindless rendering setup](https://blog.traverseresearch.nl/bindless-rendering-setup-afeb678d77fc)
-- [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/)
+- [The GPU Banana Stand (Use.GPU)](https://acko.net/blog/the-gpu-banana-stand/)
+- [Vulkan Memory Types on PC and How to Use Them](https://asawicki.info/news_1740_vulkan_memory_types_on_pc_and_how_to_use_them)
+- [Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
+- [Debugging VK_ERROR_DEVICE_LOST with Nvidia Device Diagnostics](https://feresignum.com/debugging-vk_error_device_lost-with-nvidia-device-diagnostics/)
 
 Graphics - Shaders
+- [Single-Pass Wireframe Rendering](http://strattonbrazil.blogspot.com/2011/09/single-pass-wireframe-rendering_10.html)
 - [RayLib Shaders](https://github.com/raysan5/raylib/tree/master/examples/shaders/resources/shaders/glsl330)
 - [Validator](http://www.geeks3d.com/20140116/glsllangvalidator-opengl-opengl-es-reference-compiler/)
 - [Noise](https://stackoverflow.com/questions/4200224/random-noise-functions-for-glsl)
@@ -279,6 +305,7 @@ Graphics - Shaders
 - [WebGL Noise](https://github.com/ashima/webgl-noise/blob/master/src/noise3D.glsl)
 - [Time wrap in shaders](http://the-witness.net/news/2022/02/a-shader-trick/)
 - [Quake 2 RTX Checkerboard interleave](https://github.com/NVIDIA/Q2RTX/blob/master/src/refresh/vkpt/shader/checkerboard_interleave.comp)
+- [memory locality optimization in the Claybook GPU particle simulator](https://twitter.com/SebAaltonen/status/1580486755358502912)
 
 Math - Geometry
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
@@ -311,6 +338,7 @@ Math - Cryptography
 - [Cryptanalysis of Meow Hash](https://peter.website/meow-hash-cryptanalysis)
 - [Implementing My Own Crypto](http://loup-vaillant.fr/articles/implemented-my-own-crypto)
 - [NaCl Crypto](https://nacl.cr.yp.to/)
+- [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
 
 Math - Randomness/Procedural Generation
 - [Maze Generation](http://www.astrolog.org/labyrnth/algrithm.htm)
@@ -340,6 +368,7 @@ Math - Randomness/Procedural Generation
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 - [Fibonacci Fun](https://www.reddit.com/r/proceduralgeneration/comments/s5lrn2/fibonacci_fun/)
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior)
+- [ProcGen Resources](https://procgen.space/resources)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -365,6 +394,22 @@ Math - Misc.
 - [The Insolubility of the Quintic without Galois Theory](https://www.youtube.com/watch?v=BSHv9Elk1MU&t=1675s)
 - [Real analysis problem solving strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/)
 - [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
+- [A Short Introduction to Optimal Transport and Wasserstein Distance](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/)
+- [Seven Sins of Numerical Linear Algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
+
+Math - Summer of Math Exposition
+- [What Lies Between a Function and Its Derivative?](https://www.youtube.com/watch?v=2dwQUUDt5Is)
+- [The Shadowy World of Umbral Calculus](https://www.youtube.com/watch?v=D0EUFP7-P1M)
+- [Transfer Functions - Of Sound Mind](https://www.youtube.com/watch?v=GLKAcetlHNM)
+- [**Why There's 'No' Quintic Formula (proof without Galois theory)**](https://www.youtube.com/watch?v=BSHv9Elk1MU)
+- [**Dirac's belt trick, Topology, and Spin ½ particles**](https://www.youtube.com/watch?v=ACZC_XEyg9U)
+- [1 Billion is Tiny in an Alternate Universe: Introduction to p-adic Numbers](https://www.youtube.com/watch?v=3gyHKCDq1YA)
+- [Percolation: a Mathematical Phase Transition](https://www.youtube.com/watch?v=a-767WnbaCQ)
+- [If it probably exists, then it does](https://www.youtube.com/watch?v=UJp4q2D2Nh0)
+- [What is the graph of x^a when a is not an integer? An unusual look at familiar functions](https://www.youtube.com/watch?v=_lb1AxwXLaM)
+- [Why you can't solve quintic equations (Galois theory approach)](https://www.youtube.com/watch?v=zCU9tZ2VkWc)
+- [Seven Dimensions](https://www.youtube.com/watch?v=bI-FS7aZJpY)
+- [Wavelets: a mathematical microscope](https://www.youtube.com/watch?v=jnxqHcObNK4)
 
 CS - Algorithms 
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
@@ -446,6 +491,7 @@ Machine Learning
 - [Learning for 3D Vision](https://learning3d.github.io/pages/schedule.html)
 - [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://sfchng.github.io/garf/)
 - [Testing GARFs](https://colab.research.google.com/drive/1F1c2ouulmqys-GJBVBHn04I1UVWeexiB?usp=sharing#scrollTo=uVb-l3-6zMgH)
+- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 
 Games - Design 
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -897,3 +943,4 @@ Technical History &amp; Stories
 - [Dissecting a Shader Quine](https://gpfault.net/posts/shader-quine.txt.html)
 - [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/)
 - [Why is the Nuclear Power Industry Stagnant?](https://austinvernon.site/blog/nuclear.html)
+- [Ask HN: What are some of the best documentaries you've seen?](https://news.ycombinator.com/item?id=32799789)
