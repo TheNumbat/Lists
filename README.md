@@ -69,6 +69,8 @@ Graphics - Renderers
 - [Journey to Nanite (Slides)](https://highperformancegraphics.org/slides22/Journey_to_Nanite.pdf)
 - [Journey to Nanite (Talk)](https://www.youtube.com/watch?v=NRnj_lnpORU)
 - [Lumen in UE5 (Slides)](http://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Lumen-Wright%20et%20al.pdf)
+- [Teardown Frame Teardown](https://acko.net/blog/teardown-frame-teardown/)
+- [Bringing Nanite to Fortnite Battle Royale in Chapter 4](https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4)
 
 Graphics - 2D
 - [Fast 2D Rendering on the GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
@@ -161,6 +163,9 @@ Graphics - Ray/Path Tracing
 - [Polarization in Path Tracing (Mitsuba 3)](https://mitsuba.readthedocs.io/en/latest/src/key_topics/polarization.html)
 - [Visualizing General Relativity](https://michaelmoroz.github.io/TracingGeodesics/)
 - [Fast, Branchless Ray/Bounding Box Intersections, Part 3: Boundaries](https://tavianator.com/2022/ray_box_boundary.html)
+- [Reading Veach’s Thesis](https://www.reedbeta.com/blog/reading-veach-thesis/)
+- [Lecture: TAA & ReSTIR](http://www.cs.uu.nl/docs/vakken/magr/2021-2022/files/lecture%2014%20-%20ReSTIR.pdf)
+- [Understanding The Math Behind ReStir DI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
 
 Graphics - Simulation &amp; Animation
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
@@ -186,6 +191,7 @@ Graphics - Simulation &amp; Animation
 - [Fluid Simulation: Reintegration Tracking](https://michaelmoroz.github.io/Reintegration-Tracking/)
 - [Real-time rendering of volumetric clouds](https://www.diva-portal.org/smash/get/diva2:1223894/FULLTEXT01.pdf)
 - [C++ audio mixing library design](https://lisyarus.github.io/blog/programming/2022/10/15/audio-mixing.html)
+- [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -248,6 +254,7 @@ Graphics - GPUs
 - [Optimizing Parallel Reduction in CUDA](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
 - [Optimizing GPU occupancy and resource usage with large thread groups](https://gpuopen.com/learn/optimizing-gpu-occupancy-resource-usage-large-thread-groups/)
 - [Shader Execution Reordering White Paper](https://developer.nvidia.com/sites/default/files/akamai/gameworks/ser-whitepaper.pdf)
+- [Cooperative Matrix Multiply](https://www.khronos.org/assets/uploads/developers/presentations/Cooperative_Matrix_May22.pdf)
 
 Graphics - OpenGL 
 - [LearnOpenGL](http://www.learnopengl.com/)
@@ -306,6 +313,7 @@ Graphics - Shaders
 - [Time wrap in shaders](http://the-witness.net/news/2022/02/a-shader-trick/)
 - [Quake 2 RTX Checkerboard interleave](https://github.com/NVIDIA/Q2RTX/blob/master/src/refresh/vkpt/shader/checkerboard_interleave.comp)
 - [memory locality optimization in the Claybook GPU particle simulator](https://twitter.com/SebAaltonen/status/1580486755358502912)
+- [Tangent Spaces and Diamond Encoding](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)
 
 Math - Geometry
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
@@ -332,6 +340,10 @@ Math - Geometry
 - [Dirac's belt trick, Topology, and Spin 1/2 particles](https://www.youtube.com/watch?v=ACZC_XEyg9U)
 - [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
 - [A Robust Method to Extract the Rotational Part of Deformations](https://matthias-research.github.io/pages/publications/stablePolarDecomp.pdf)
+- [Course Notes: Geometric Algebra for Computer Graphics](https://arxiv.org/pdf/2002.04509.pdf)
+- [Klein (an implementation of 3D Projective Geometric Algebra)](https://www.jeremyong.com/klein/)
+- [DMesh3: A Dynamic Indexed Triangle Mesh](http://www.gradientspace.com/tutorials/dmesh3)
+- [Manifolds: A Gentle Introduction](https://bjlkeng.github.io/posts/manifolds/)
 
 Math - Cryptography
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
@@ -369,6 +381,13 @@ Math - Randomness/Procedural Generation
 - [Fibonacci Fun](https://www.reddit.com/r/proceduralgeneration/comments/s5lrn2/fibonacci_fun/)
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior)
 - [ProcGen Resources](https://procgen.space/resources)
+- [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+- [How Pitfall Builds its World (Linear Feedback Shift Registers)](https://evoniuk.github.io/posts/pitfall.html)
+- [bleuje : Animations](https://bleuje.com/animationsite/2022_1/)
+- [An Introduction to Stochastic Calculus](https://bjlkeng.github.io/posts/an-introduction-to-stochastic-calculus/)
+- [Markov Chain Monte Carlo Methods, Rejection Sampling and the Metropolis-Hastings Algorithm](https://bjlkeng.github.io/posts/markov-chain-monte-carlo-mcmc-and-the-metropolis-hastings-algorithm/)
+- [Hamiltonian Monte Carlo](https://bjlkeng.github.io/posts/hamiltonian-monte-carlo/)
+- [Procedurally generated bitmap art](https://gitlab.com/suetanvil/bitart)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -396,6 +415,10 @@ Math - Misc.
 - [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
 - [A Short Introduction to Optimal Transport and Wasserstein Distance](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/)
 - [Seven Sins of Numerical Linear Algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
+- [Special relativity and Middle-Earth](https://terrytao.wordpress.com/2022/12/18/special-relativity-and-middle-earth/)
+- [Incremental Least Squares Curve Fitting](https://blog.demofox.org/2016/12/22/incremental-least-squares-curve-fitting/)
+- [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
+- [The Calculus of Variations](https://bjlkeng.github.io/posts/the-calculus-of-variations/)
 
 Math - Summer of Math Exposition
 - [What Lies Between a Function and Its Derivative?](https://www.youtube.com/watch?v=2dwQUUDt5Is)
@@ -439,6 +462,8 @@ CS - Algorithms
 - [5000x faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
 - [Xi Algorithms/Rope](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 - [Intelligent brute forcing](https://davidkoloski.me/blog/intelligent-brute-forcing/)
+- [Rapidly Solving Sudoku, N-Queens, Pentomino Placement, and More, With Knuth’s Algorithm X and Dancing Links.](https://blog.demofox.org/2022/10/30/rapidly-solving-sudoku-n-queens-pentomino-placement-and-more-with-knuths-algorithm-x-and-dancing-links/)
+- [The story behind the Packing Chromatic paper](https://bsubercaseaux.github.io/blog/2023/packingchromatic/)
 
 CS - Data Structures
 - [Masstree: Cache-Friendly trie/b-tree](https://www.the-paper-trail.org/post/masstree-paper-notes/)
@@ -492,6 +517,8 @@ Machine Learning
 - [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://sfchng.github.io/garf/)
 - [Testing GARFs](https://colab.research.google.com/drive/1F1c2ouulmqys-GJBVBHn04I1UVWeexiB?usp=sharing#scrollTo=uVb-l3-6zMgH)
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+- [AI assisted graphics: Character modeling](https://www.traffickinggame.com/ai-assisted-graphics/)
+- [World Building With GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
 
 Games - Design 
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -620,6 +647,7 @@ Languages - Functional Programming
  -[A Monad is a Monoid in the Category of Endofunctors](https://www.reddit.com/r/math/comments/ap25mr/a_monad_is_a_monoid_in_the_category_of/)
 - [Refactoring via Recursion and CPS Conversion](http://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
 - [What makes dependent type theory more suitable than set theory for proof assistants?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista)
+- [Notes on GADTs](https://camdar.io/static/h4t/stuff/04/notes.pdf)
 
 Languages - Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
@@ -677,6 +705,7 @@ Languages - C
 - [Why Aren't there C Conferences?](https://nullprogram.com/blog/2018/11/21/)
 - [Some Dark Corners of C](https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/preview?slide=id.gec7eb408_3500)
 - [Some things every C programmer should know about C](https://web.archive.org/web/20030812081713/http://klausler.com/cnotes.txt)
+- [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c#n-format-specifier)
 
 Languages - C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -743,6 +772,8 @@ Computer Engineering - Hardware
 - [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
 - [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
 - [Building a Homebrew Console](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
+- [Can Doom Run It? An Adding Machine in Doom](https://blog.otterstack.com/posts/202212-doom-calculator/)
+- [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 
 Computer Engineering - Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -812,6 +843,10 @@ Computer Engineering - Low Level Programming
 - [Optimizing sorting in D - doing more work/branchless](https://dlang.org/blog/2020/05/14/lomutos-comeback/)
 - [Fastest fizzbuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 - [My approach to optimization](https://medium.com/@jasonbooth_86226/my-approach-to-optimization-bfcafc1f8768)
+- [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
+- [Fast, Near Lossless ‘Compression’ of Normal Floats](https://martinfullerblog.wordpress.com/2023/01/15/fast-near-lossless-compression-of-normal-floats/)
+- [Float Compression Series](https://aras-p.info/blog/2023/01/29/Float-Compression-1-Generic/)
+- [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do/)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -861,6 +896,7 @@ Computer Engineering - Operating Systems - Windows
 - [Moving window handling to another thread example](https://github.com/cmuratori/dtc)
 - [Properly handling keyboard input](https://blog.molecular-matters.com/2011/09/05/properly-handling-keyboard-input/)
 - [Making Your Game Go Fast by Asking Windows Nicely](https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/)
+- [Please Restore Our Registers When You’re Done With Them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
 
 Computer Engineering - Operating Systems - Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
@@ -876,6 +912,7 @@ Computer Engineering - Operating Systems - Linux
 - [Using GDB](https://handmade.network/wiki/2883-gdb)
 - [Huge-Page Swapping](https://lwn.net/Articles/758677/)
 - [Forgotten Unix CLI Commands](https://hackernoon.com/unknown-and-forgotten-cli-commands-ca73b3cdd1fd)
+- [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
 
 Networking
 - [How Multiplayer Games Sync their State](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1)
@@ -899,6 +936,7 @@ Networking
 - [Favorite PostgreSQL Queries](https://news.ycombinator.com/item?id=16840220)
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 - [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+- [Serving Netflix Video Traffic at 400Gb/s and Beyond](http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
 
 Technical History &amp; Stories
 - [The 640K Barrier](http://www.filfre.net/2017/04/the-640-k-barrier/#rf1-2788)
@@ -944,3 +982,4 @@ Technical History &amp; Stories
 - [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/)
 - [Why is the Nuclear Power Industry Stagnant?](https://austinvernon.site/blog/nuclear.html)
 - [Ask HN: What are some of the best documentaries you've seen?](https://news.ycombinator.com/item?id=32799789)
+- [Intro to Computational Astrophotography](https://yager.io/Astro.html)
