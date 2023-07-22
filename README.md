@@ -71,6 +71,8 @@ Graphics - Renderers
 - [Lumen in UE5 (Slides)](http://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Lumen-Wright%20et%20al.pdf)
 - [Teardown Frame Teardown](https://acko.net/blog/teardown-frame-teardown/)
 - [Bringing Nanite to Fortnite Battle Royale in Chapter 4](https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4)
+- [Real-Time Rendering of Glinty Appearances using Distributed Binomial Laws on Anisotropic Grids](https://ggx-research.github.io/publication/2023/06/09/publication-glints.html)
+- [Exploring Raytraced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf)
 
 Graphics - 2D
 - [Fast 2D Rendering on the GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
@@ -81,6 +83,8 @@ Graphics - 2D
 - [2D Visibility](http://ncase.me/sight-and-light/)
 - [A Simple Solution for Shape Packing in 2D](https://gorillasun.de/blog/a-simple-solution-for-shape-packing-in-2d)
 - [Parallel curves of cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
+- [Simplifying Bézier Paths](https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html)
+- [Motion Canvas](https://motioncanvas.io/docs/rendering/)
 
 Graphics - Images
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
@@ -105,6 +109,8 @@ Graphics - Images
 - [Quite OK Image Format](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 - [Software VRS with Visibility Buffer Rendering](http://filmicworlds.com/blog/software-vrs-with-visibility-buffer-rendering/)
 - [Accelerating Raytracing Using Software VRS](https://interplayoflight.wordpress.com/2022/05/29/accelerating-raytracing-using-software-vrs/)
+- [Stochastic Texture Filtering](https://arxiv.org/pdf/2305.05810.pdf)
+- [Circularly symmetric convolution and lens blur](http://yehar.com/blog/?p=1495)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -166,6 +172,10 @@ Graphics - Ray/Path Tracing
 - [Reading Veach’s Thesis](https://www.reedbeta.com/blog/reading-veach-thesis/)
 - [Lecture: TAA & ReSTIR](http://www.cs.uu.nl/docs/vakken/magr/2021-2022/files/lecture%2014%20-%20ReSTIR.pdf)
 - [Understanding The Math Behind ReStir DI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
+- [Understanding the Basics of ReSTIR DI](https://blog.42yeah.is/featured/rendering/2023/03/11/restir.html)
+- [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
+- [Coupling Conduction, Convection and Radiative Transfer in a Single Path-Space: Application to Infrared Rendering](https://hal.science/hal-04090428v1/document)
+- [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)
 
 Graphics - Simulation &amp; Animation
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
@@ -192,6 +202,8 @@ Graphics - Simulation &amp; Animation
 - [Real-time rendering of volumetric clouds](https://www.diva-portal.org/smash/get/diva2:1223894/FULLTEXT01.pdf)
 - [C++ audio mixing library design](https://lisyarus.github.io/blog/programming/2022/10/15/audio-mixing.html)
 - [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
+- [Making a 2D soft-body physics engine](https://lisyarus.github.io/blog/physics/2023/05/10/soft-body-physics.html)
+- [A Practical Walk-on-Boundary Method for Boundary Value Problems](https://rsugimoto.net/WoBforBVPsProject/WoBforBVPs.pdf)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -255,8 +267,10 @@ Graphics - GPUs
 - [Optimizing GPU occupancy and resource usage with large thread groups](https://gpuopen.com/learn/optimizing-gpu-occupancy-resource-usage-large-thread-groups/)
 - [Shader Execution Reordering White Paper](https://developer.nvidia.com/sites/default/files/akamai/gameworks/ser-whitepaper.pdf)
 - [Cooperative Matrix Multiply](https://www.khronos.org/assets/uploads/developers/presentations/Cooperative_Matrix_May22.pdf)
+- [Shader Execution Reordering: Nvidia Tackles Divergence](https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/)
+- [Data Parallel Multi-GPU Path Tracing using Ray Queue Cycling](https://www.sci.utah.edu/~wald/Publications/2023/rqs/rqs-preprint.pdf)
 
-Graphics - OpenGL 
+Graphics - OpenGL
 - [LearnOpenGL](http://www.learnopengl.com/)
 - [Rendering Without Vertex Data](https://www.opengl.org/discussion_boards/showthread.php/168316-Rendering-without-vertex-data-%28gl_VertexID-only%29)
 - [Basic Shader Examples](http://www.lighthouse3d.com/tutorials/glsl-12-tutorial/shader-examples/)
@@ -273,6 +287,7 @@ Graphics - OpenGL
 - [WebGL PBR Example](https://github.com/KhronosGroup/glTF-WebGL-PBR/blob/master/mesh.js)
 - [Bindless rendering setup](https://blog.traverseresearch.nl/bindless-rendering-setup-afeb678d77fc)
 - [Introduction to Compute Shaders](http://antongerdelan.net/opengl/compute.html)
+- [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 
 Graphics - Vulkan/D3D12/WebGPU
 - [Vulkan Swapchains &amp; presentation](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-2.html)
@@ -291,6 +306,7 @@ Graphics - Vulkan/D3D12/WebGPU
 - [Vulkan Memory Types on PC and How to Use Them](https://asawicki.info/news_1740_vulkan_memory_types_on_pc_and_how_to_use_them)
 - [Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 - [Debugging VK_ERROR_DEVICE_LOST with Nvidia Device Diagnostics](https://feresignum.com/debugging-vk_error_device_lost-with-nvidia-device-diagnostics/)
+- [D3D12 Work Graphs Preview](https://devblogs.microsoft.com/directx/d3d12-work-graphs-preview/)
 
 Graphics - Shaders
 - [Single-Pass Wireframe Rendering](http://strattonbrazil.blogspot.com/2011/09/single-pass-wireframe-rendering_10.html)
@@ -314,6 +330,7 @@ Graphics - Shaders
 - [Quake 2 RTX Checkerboard interleave](https://github.com/NVIDIA/Q2RTX/blob/master/src/refresh/vkpt/shader/checkerboard_interleave.comp)
 - [memory locality optimization in the Claybook GPU particle simulator](https://twitter.com/SebAaltonen/status/1580486755358502912)
 - [Tangent Spaces and Diamond Encoding](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)
+- [Winding Numbers](https://www.shadertoy.com/view/Nt2yzd)
 
 Math - Geometry
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
@@ -344,6 +361,10 @@ Math - Geometry
 - [Klein (an implementation of 3D Projective Geometric Algebra)](https://www.jeremyong.com/klein/)
 - [DMesh3: A Dynamic Indexed Triangle Mesh](http://www.gradientspace.com/tutorials/dmesh3)
 - [Manifolds: A Gentle Introduction](https://bjlkeng.github.io/posts/manifolds/)
+- [Why is a Gaussian distribution on high dimensional space like a soap bubble?](https://stats.stackexchange.com/questions/419412/why-is-gaussian-distribution-on-high-dimensional-space-like-a-soap-bubble)
+- [Penrose tiling rewrite rule](https://twitter.com/gabrielpeyre/status/1657611701112430593)
+- [An algorithm for irregular rectangles that map 1:1 with a square grid](https://gitlab.com/chriscox/offgrid)
+- [Spectre aperiodic monotile](https://www.desmos.com/calculator/vh3z0qhlrq)
 
 Math - Cryptography
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
@@ -388,6 +409,8 @@ Math - Randomness/Procedural Generation
 - [Markov Chain Monte Carlo Methods, Rejection Sampling and the Metropolis-Hastings Algorithm](https://bjlkeng.github.io/posts/markov-chain-monte-carlo-mcmc-and-the-metropolis-hastings-algorithm/)
 - [Hamiltonian Monte Carlo](https://bjlkeng.github.io/posts/hamiltonian-monte-carlo/)
 - [Procedurally generated bitmap art](https://gitlab.com/suetanvil/bitart)
+- [SquirrelNoise5](http://eiserloh.net/noise/SquirrelNoise5.hpp)
+- [Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/abs/2306.09310)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -434,7 +457,7 @@ Math - Summer of Math Exposition
 - [Seven Dimensions](https://www.youtube.com/watch?v=bI-FS7aZJpY)
 - [Wavelets: a mathematical microscope](https://www.youtube.com/watch?v=jnxqHcObNK4)
 
-CS - Algorithms 
+CS - Algorithms
 - [A*](http://theory.stanford.edu/~amitp/GameProgramming/)
 - [Papers I have Loved (Casey Muratori)](https://www.youtube.com/watch?v=SDS5gLSiLg0) [marching cubes, quaternions, GJK collision algorithm]
 - [Binary Space Partitioning](https://en.wikipedia.org/wiki/Binary_space_partitioning)
@@ -474,6 +497,7 @@ CS - Data Structures
 - [Esoteric Data Structures and Where to Find Them](https://www.youtube.com/watch?v=-8UZhDjgeZU)
 - [Designing a Fast Hash Table](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)
 - [Blender Mesh Structure](https://wiki.blender.org/wiki/Source/Modeling/BMesh/Design)
+- [Hash Array Mapped Trie Implementation](https://github.com/mkirchner/hamt)
 
 CS - Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -519,8 +543,12 @@ Machine Learning
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 - [AI assisted graphics: Character modeling](https://www.traffickinggame.com/ai-assisted-graphics/)
 - [World Building With GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
+- [Transformers from Scratch](https://e2eml.school/transformers.html)
+- [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- [Neural Denoising and Motion](https://www.youtube.com/watch?v=__CZNR0zRN0)
+- [Isotropic Neural Cellular Automata](https://google-research.github.io/self-organising-systems/isonca/)
 
-Games - Design 
+Games - Design
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
 - [How to Design Deep Games - Jon Blow](https://www.youtube.com/watch?v=d0m0jIzJfiQ)
 - [Inspire Interview: Jon Blow](https://www.youtube.com/watch?v=5YnTSrIFUxg)
@@ -539,7 +567,7 @@ Games - Design
 Games - Business
 - [The Cost of Games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
 - [Indie Polish](https://www.youtube.com/watch?v=fYBvYWf_dTg)
-- [Finishing](http://makegames.tumblr.com/post/1136623767/finishing-a-game)          
+- [Finishing](http://makegames.tumblr.com/post/1136623767/finishing-a-game)
 - [Lessons Learned from a 5-year Indie Dev Cycle](https://www.reddit.com/r/gamedev/comments/6k1qb2/lessons_from_a_5_year_dev_cycle_on_an_indie/?st=j4na4mer&sh=526e5b87)
 - [How do I Release my Game?](https://www.reddit.com/r/gamedev/comments/64pxku/how_do_i_release_my_game/)
 - [Free to Play Model Debate](https://www.youtube.com/watch?v=PQgFArro0GQ)
@@ -650,9 +678,9 @@ Languages - Functional Programming
 - [Notes on GADTs](https://camdar.io/static/h4t/stuff/04/notes.pdf)
 
 Languages - Compilers
-- [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)            
+- [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)
 - [Language Theory for the Working Programmer](https://www.leafac.com/prose/programming-language-theory-explained-for-the-working-programmer--principles-of-programming-languages/)
-- [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) 
+- [Deterministic Finite Atomata](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton)
 - [Probabilistic Context-Free Grammar](https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar)
 - [Using Types Effectively](https://www.youtube.com/watch?v=ojZbFIQSdl8)
 - [Building a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
@@ -778,7 +806,7 @@ Computer Engineering - Hardware
 Computer Engineering - Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 - [jemalloc](https://www.facebook.com/notes/facebook-engineering/scalable-memory-allocation-using-jemalloc/480222803919)
-- [Implementing/Debugging malloc](https://danluu.com/malloc-tutorial/) 
+- [Implementing/Debugging malloc](https://danluu.com/malloc-tutorial/)
 - [Testing Memory Allocators](http://ithare.com/testing-memory-allocators-ptmalloc2-tcmalloc-hoard-jemalloc-while-trying-to-simulate-real-world-loads/)
 - [RAM Refresh Cycles](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/)
 
@@ -897,6 +925,7 @@ Computer Engineering - Operating Systems - Windows
 - [Properly handling keyboard input](https://blog.molecular-matters.com/2011/09/05/properly-handling-keyboard-input/)
 - [Making Your Game Go Fast by Asking Windows Nicely](https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/)
 - [Please Restore Our Registers When You’re Done With Them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
+- [timeBeginPeriod function](https://learn.microsoft.com/en-us/windows/win32/api/timeapi/nf-timeapi-timebeginperiod)
 
 Computer Engineering - Operating Systems - Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
