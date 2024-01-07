@@ -32,6 +32,8 @@ Graphics - Techniques
 - [Rendering Water in Horizon Forbidden West (Slides)](http://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Water-Malan.pdf)
 - [Swapchains and frame pacing](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html)
 - [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/)
+- [Reverse Z (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
+- [Creating a Directed Acyclic Graph from a Mesh](https://blog.traverseresearch.nl/creating-a-directed-acyclic-graph-from-a-mesh-1329e57286e5)
 
 Graphics - Color &amp; Tone Mapping
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -73,6 +75,7 @@ Graphics - Renderers
 - [Bringing Nanite to Fortnite Battle Royale in Chapter 4](https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4)
 - [Real-Time Rendering of Glinty Appearances using Distributed Binomial Laws on Anisotropic Grids](https://ggx-research.github.io/publication/2023/06/09/publication-glints.html)
 - [Exploring Raytraced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf)
+- [ExileCon Dev Talk - Evolving Path of Exile's Renderer](https://www.youtube.com/watch?v=whyJzrVEgVc&t=605s)
 
 Graphics - 2D
 - [Fast 2D Rendering on the GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
@@ -111,6 +114,8 @@ Graphics - Images
 - [Accelerating Raytracing Using Software VRS](https://interplayoflight.wordpress.com/2022/05/29/accelerating-raytracing-using-software-vrs/)
 - [Stochastic Texture Filtering](https://arxiv.org/pdf/2305.05810.pdf)
 - [Circularly symmetric convolution and lens blur](http://yehar.com/blog/?p=1495)
+- [Temporal AA and the quest for the Holy Trail](https://www.elopezr.com/temporal-aa-and-the-quest-for-the-holy-trail/)
+- [SVD Image Compression, Explained](https://dmicz.github.io/machine-learning/svd-image-compression/)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -161,8 +166,6 @@ Graphics - Ray/Path Tracing
 - [Light transport matrices, SVD, spectral analysis, and matrix completion](https://bartwronski.com/2022/02/15/light-transport-matrices-svd-spectral-analysis-and-matrix-completion/)
 - [Real-time Neural Radiance Caching for Path Tracing](https://d1qx31qr3h6wln.cloudfront.net/publications/paper_4.pdf)
 - [Dynamic, Noise Free, Screen Space Diffuse Global Illumination](https://gamehacker1999.github.io/posts/SSGI/)
-- [ReSTIR GI for Specular Bounces](http://www.zyanidelab.com/restir-gi-for-specular-bounces/)
-- [ReSTIR Reading List](http://lousodrome.net/blog/light/2022/05/14/reading-list-on-restir/)
 - [Unreal Engine 5 goes all-in on dynamic global illumination with Lumen](https://www.unrealengine.com/en-US/tech-blog/unreal-engine-5-goes-all-in-on-dynamic-global-illumination-with-lumen)
 - [Kajiya Global Illumination Overview](https://github.com/EmbarkStudios/kajiya/blob/main/docs/gi-overview.md)
 - [Temporally Stable Real-Time Joint Neural Denoising and Supersampling](https://momentsingraphics.de/HPG2022.html)
@@ -170,12 +173,22 @@ Graphics - Ray/Path Tracing
 - [Visualizing General Relativity](https://michaelmoroz.github.io/TracingGeodesics/)
 - [Fast, Branchless Ray/Bounding Box Intersections, Part 3: Boundaries](https://tavianator.com/2022/ray_box_boundary.html)
 - [Reading Veach’s Thesis](https://www.reedbeta.com/blog/reading-veach-thesis/)
-- [Lecture: TAA & ReSTIR](http://www.cs.uu.nl/docs/vakken/magr/2021-2022/files/lecture%2014%20-%20ReSTIR.pdf)
-- [Understanding The Math Behind ReStir DI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
-- [Understanding the Basics of ReSTIR DI](https://blog.42yeah.is/featured/rendering/2023/03/11/restir.html)
 - [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
 - [Coupling Conduction, Convection and Radiative Transfer in a Single Path-Space: Application to Infrared Rendering](https://hal.science/hal-04090428v1/document)
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)
+- [Solving Self-Intersection Artifacts in DirectX Raytracing](https://developer.nvidia.com/blog/solving-self-intersection-artifacts-in-directx-raytracing/)
+- [The Missing Primary Ray PDF in Path Tracing](https://agraphicsguynotes.com/posts/the_missing_primary_ray_pdf_in_path_tracing/)
+
+Graphics - Ray/Path Tracing - ReSTIR
+- [ReSTIR GI for Specular Bounces](http://www.zyanidelab.com/restir-gi-for-specular-bounces/)
+- [ReSTIR Reading List](http://lousodrome.net/blog/light/2022/05/14/reading-list-on-restir/)
+- [Lecture: TAA & ReSTIR](http://www.cs.uu.nl/docs/vakken/magr/2021-2022/files/lecture%2014%20-%20ReSTIR.pdf)
+- [Understanding The Math Behind ReStir DI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
+- [Understanding the Basics of ReSTIR DI](https://blog.42yeah.is/featured/rendering/2023/03/11/restir.html)
+- [A Gentle Introduction to ReSTIR](https://intro-to-restir.cwyman.org/presentations/2023ReSTIR_Course_Notes.pdf)
+- [A Gentler Introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
+- [Combining Resampled Importance and Projected Solid Angle Samplings for Many Area Light Rendering](https://ishaanshah.github.io/risltc/)
+- [Dynamic diffuse global illumination](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
 
 Graphics - Simulation &amp; Animation
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
@@ -204,6 +217,22 @@ Graphics - Simulation &amp; Animation
 - [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
 - [Making a 2D soft-body physics engine](https://lisyarus.github.io/blog/physics/2023/05/10/soft-body-physics.html)
 - [A Practical Walk-on-Boundary Method for Boundary Value Problems](https://rsugimoto.net/WoBforBVPsProject/WoBforBVPs.pdf)
+- [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
+
+Graphics - Machine Learning
+- [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
+- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
+- [Learning for 3D Vision](https://learning3d.github.io/pages/schedule.html)
+- [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://sfchng.github.io/garf/)
+- [Testing GARFs](https://colab.research.google.com/drive/1F1c2ouulmqys-GJBVBHn04I1UVWeexiB?usp=sharing#scrollTo=uVb-l3-6zMgH)
+- [AI assisted graphics: Character modeling](https://www.traffickinggame.com/ai-assisted-graphics/)
+- [Neural Denoising and Motion](https://www.youtube.com/watch?v=__CZNR0zRN0)
+- [Isotropic Neural Cellular Automata](https://google-research.github.io/self-organising-systems/isonca/)
+- [Perspectives on Diffusion](https://sander.ai/2023/07/20/perspectives.html)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+- [Making Gaussian Splats smaller](https://aras-p.info/blog/2023/09/13/Making-Gaussian-Splats-smaller/)
+- [Iterative 𝛼-(de)Blending: a Minimalist Deterministic Diffusion Model](https://ggx-research.github.io/publication/2023/05/10/publication-iadb.html)
+- [XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies](https://research.nvidia.com/labs/toronto-ai/xcube/)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -269,6 +298,8 @@ Graphics - GPUs
 - [Cooperative Matrix Multiply](https://www.khronos.org/assets/uploads/developers/presentations/Cooperative_Matrix_May22.pdf)
 - [Shader Execution Reordering: Nvidia Tackles Divergence](https://chipsandcheese.com/2023/05/16/shader-execution-reordering-nvidia-tackles-divergence/)
 - [Data Parallel Multi-GPU Path Tracing using Ray Queue Cycling](https://www.sci.utah.edu/~wald/Publications/2023/rqs/rqs-preprint.pdf)
+- [Implementing a GPU's Programming Model on a CPU](https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html?m=1)
+- [Segmented Sort and Locality Sort](https://moderngpu.github.io/segsort.html)
 
 Graphics - OpenGL
 - [LearnOpenGL](http://www.learnopengl.com/)
@@ -307,6 +338,7 @@ Graphics - Vulkan/D3D12/WebGPU
 - [Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 - [Debugging VK_ERROR_DEVICE_LOST with Nvidia Device Diagnostics](https://feresignum.com/debugging-vk_error_device_lost-with-nvidia-device-diagnostics/)
 - [D3D12 Work Graphs Preview](https://devblogs.microsoft.com/directx/d3d12-work-graphs-preview/)
+- [Render graphs and Vulkan — a deep dive](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 
 Graphics - Shaders
 - [Single-Pass Wireframe Rendering](http://strattonbrazil.blogspot.com/2011/09/single-pass-wireframe-rendering_10.html)
@@ -365,6 +397,10 @@ Math - Geometry
 - [Penrose tiling rewrite rule](https://twitter.com/gabrielpeyre/status/1657611701112430593)
 - [An algorithm for irregular rectangles that map 1:1 with a square grid](https://gitlab.com/chriscox/offgrid)
 - [Spectre aperiodic monotile](https://www.desmos.com/calculator/vh3z0qhlrq)
+- [Boundary Value Caching for Walk on Spheres [SIGGRAPH 2023]](https://www.youtube.com/watch?v=gTYvZJiqvmY)
+- [Reach For the Spheres: Tangency-Aware Surface Reconstruction of SDFs](https://odedstein.com/projects/reach-for-the-spheres/)
+- [A faster quaternion-vector multiplication](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
+- [Finding Real Polynomial Roots on GPUs](https://momentsingraphics.de/GPUPolynomialRoots.html)
 
 Math - Cryptography
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
@@ -411,6 +447,8 @@ Math - Randomness/Procedural Generation
 - [Procedurally generated bitmap art](https://gitlab.com/suetanvil/bitart)
 - [SquirrelNoise5](http://eiserloh.net/noise/SquirrelNoise5.hpp)
 - [Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/abs/2306.09310)
+- [Modeling & Graph Grammars](https://paulmerrell.org/grammar/)
+- [Using a RNN for 2D Tile Map Synthesis](https://voxely.net/blog/using-a-rnn-for-2d-tile-map-synthesis/)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -442,6 +480,7 @@ Math - Misc.
 - [Incremental Least Squares Curve Fitting](https://blog.demofox.org/2016/12/22/incremental-least-squares-curve-fitting/)
 - [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
 - [The Calculus of Variations](https://bjlkeng.github.io/posts/the-calculus-of-variations/)
+- [What Is the Complex Step Approximation?](https://nhigham.com/2020/10/06/what-is-the-complex-step-approximation/)
 
 Math - Summer of Math Exposition
 - [What Lies Between a Function and Its Derivative?](https://www.youtube.com/watch?v=2dwQUUDt5Is)
@@ -514,10 +553,10 @@ CS - Concurrency
 - [An Interesting Lock-Free Queue](https://www.youtube.com/watch?v=HP2InVqgBFM)
 - [Resource efficient thread pools in Zig](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
 - [Parallelizing the Naughty Dog engine using fibers](https://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
+- [2PLSF: Two-Phase Locking with Starvation-Freedom](https://zenodo.org/records/7886718)
 
 Machine Learning
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
-- [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
 - [Is AI Riding a One-Trick Pony? (Backprop)](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)
 - [Machine Learning - Spotify Discover Weekly](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 - [3Blue1Brown Deep Learning Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
@@ -536,17 +575,12 @@ Machine Learning
 - [3D Style Transfer for Video](https://www.youtube.com/watch?v=fcnjHmBcLNQ&feature=youtu.be)
 - [Lessons learned building an ML trading system](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
 - [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
-- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
-- [Learning for 3D Vision](https://learning3d.github.io/pages/schedule.html)
-- [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://sfchng.github.io/garf/)
-- [Testing GARFs](https://colab.research.google.com/drive/1F1c2ouulmqys-GJBVBHn04I1UVWeexiB?usp=sharing#scrollTo=uVb-l3-6zMgH)
-- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
-- [AI assisted graphics: Character modeling](https://www.traffickinggame.com/ai-assisted-graphics/)
-- [World Building With GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
-- [Transformers from Scratch](https://e2eml.school/transformers.html)
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-- [Neural Denoising and Motion](https://www.youtube.com/watch?v=__CZNR0zRN0)
-- [Isotropic Neural Cellular Automata](https://google-research.github.io/self-organising-systems/isonca/)
+- [Transformers from Scratch](https://e2eml.school/transformers.html)
+- [World Building With GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
+- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+- [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
+- [Analyzing and Improving the Training Dynamics of Diffusion Models](https://huggingface.co/papers/2312.02696)
 
 Games - Design
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -802,6 +836,7 @@ Computer Engineering - Hardware
 - [Building a Homebrew Console](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
 - [Can Doom Run It? An Adding Machine in Doom](https://blog.otterstack.com/posts/202212-doom-calculator/)
 - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
+- [SMACNI to AVX512 the life cycle of an instruction set](https://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
 
 Computer Engineering - Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -826,6 +861,7 @@ Computer Engineering - Security
 - [Reverse engineering unc0ver in 4 hours](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
 - [It's fine just ship it - unsecured web connected interfaces](https://www.youtube.com/watch?v=yBA6u5IsXyc)
 - [Collection of botnets](https://github.com/maestron/botnets)
+- [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 
 Computer Engineering - Low Level Programming
 - [Computer Systems: a Programmer's Perspective](http://www.csapp.cs.cmu.edu/)
