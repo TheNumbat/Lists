@@ -34,6 +34,10 @@ Graphics - Techniques
 - [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/)
 - [Reverse Z (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 - [Creating a Directed Acyclic Graph from a Mesh](https://blog.traverseresearch.nl/creating-a-directed-acyclic-graph-from-a-mesh-1329e57286e5)
+- Recreating Nanite: [LOD generation](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html), [Runtime LOD selection](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html), [Mesh shader time](https://jglrxavpok.github.io/2024/05/13/recreating-nanite-mesh-shader-time.html)
+- [Beyond White Noise for Real-Time Rendering](https://www.youtube.com/watch?v=tethAU66xaA)
+- [Filtering After Shading with Stochastic Texture Filtering](https://www.youtube.com/watch?v=e3391_C6aXE)
+- [Texture Streaming in Wicked Engine](https://wickedengine.net/2024/06/texture-streaming/)
 
 Graphics - Color &amp; Tone Mapping
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -76,6 +80,7 @@ Graphics - Renderers
 - [Real-Time Rendering of Glinty Appearances using Distributed Binomial Laws on Anisotropic Grids](https://ggx-research.github.io/publication/2023/06/09/publication-glints.html)
 - [Exploring Raytraced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf)
 - [ExileCon Dev Talk - Evolving Path of Exile's Renderer](https://www.youtube.com/watch?v=whyJzrVEgVc&t=605s)
+- [Radiance Cascades](https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view)
 
 Graphics - 2D
 - [Fast 2D Rendering on the GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
@@ -116,6 +121,8 @@ Graphics - Images
 - [Circularly symmetric convolution and lens blur](http://yehar.com/blog/?p=1495)
 - [Temporal AA and the quest for the Holy Trail](https://www.elopezr.com/temporal-aa-and-the-quest-for-the-holy-trail/)
 - [SVD Image Compression, Explained](https://dmicz.github.io/machine-learning/svd-image-compression/)
+- [This is the Difference of Gaussians](https://www.youtube.com/watch?v=5EuYKEvugLU)
+- [Learned Image Compression](https://www.youtube.com/watch?v=x_q7cZviXkY)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -136,6 +143,7 @@ Graphics - Resources
 Graphics - Academia
 - [What Makes a (Graphics) Systems Paper Beautiful](http://graphics.stanford.edu/~kayvonf/notes/systemspaper/)
 - [Writing your first ACM SIGGRAPH / TOG paper](https://research.siggraph.org/blog/guides/writing-your-first-acm-siggraph-tog-paper/)
+- [My first 100 days as a professor](https://irenechen.net/first100/)
 
 Graphics - Ray/Path Tracing
 - [Ray Marching &amp; Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
@@ -178,6 +186,10 @@ Graphics - Ray/Path Tracing
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)
 - [Solving Self-Intersection Artifacts in DirectX Raytracing](https://developer.nvidia.com/blog/solving-self-intersection-artifacts-in-directx-raytracing/)
 - [The Missing Primary Ray PDF in Path Tracing](https://agraphicsguynotes.com/posts/the_missing_primary_ray_pdf_in_path_tracing/)
+- [Fast Denoising with self-stabilizing recurrent blurs](https://developer.download.nvidia.com/video/gputechconf/gtc/2020/presentations/s22699-fast-denoising-with-self-stabilizing-recurrent-blurs.pdf)
+- [VNDF importance sampling for an isotropic Smith-GGX distribution](https://auzaiffe.wordpress.com/2024/04/15/vndf-importance-sampling-an-isotropic-distribution/)
+- [N-BVH: Neural ray queries with bounding volume hierarchies](https://weiphil.github.io/portfolio/neural_bvh)
+- [Implementing General Relativity: Rendering the Schwarzschild black hole](https://20k.github.io/c++/2024/05/31/schwarzschild.html)
 
 Graphics - Ray/Path Tracing - ReSTIR
 - [ReSTIR GI for Specular Bounces](http://www.zyanidelab.com/restir-gi-for-specular-bounces/)
@@ -218,6 +230,7 @@ Graphics - Simulation &amp; Animation
 - [Making a 2D soft-body physics engine](https://lisyarus.github.io/blog/physics/2023/05/10/soft-body-physics.html)
 - [A Practical Walk-on-Boundary Method for Boundary Value Problems](https://rsugimoto.net/WoBforBVPsProject/WoBforBVPs.pdf)
 - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
+- [Incremental Potential Contact](https://ipc-sim.github.io/)
 
 Graphics - Machine Learning
 - [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
@@ -251,6 +264,7 @@ Graphics - Voxels
 - [Voxel Dual Contouring](http://procworld.blogspot.com/2010/11/from-voxels-to-polygons.html)
 - [How Voxels Became 'The Next Big Thing'](https://medium.com/@EightyLevel/how-voxels-became-the-next-big-thing-4eb9665cd13a)
 - [Polygonising a scalar field](http://paulbourke.net/geometry/polygonise/)
+- [Voxel Displacement Renderer](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 
 Graphics - Swedish Cubes
 - [Ray-Box Intersection Algorithm for Efficient Dynamic Voxel Rendering](http://www.jcgt.org/published/0007/03/04/paper.pdf)
@@ -300,6 +314,9 @@ Graphics - GPUs
 - [Data Parallel Multi-GPU Path Tracing using Ray Queue Cycling](https://www.sci.utah.edu/~wald/Publications/2023/rqs/rqs-preprint.pdf)
 - [Implementing a GPU's Programming Model on a CPU](https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html?m=1)
 - [Segmented Sort and Locality Sort](https://moderngpu.github.io/segsort.html)
+- [Implementing a GPU-driven debug line renderer](https://www.gijskaerts.com/wordpress/?p=190)
+- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance](https://siboehm.com/articles/22/CUDA-MMM)
+- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 
 Graphics - OpenGL
 - [LearnOpenGL](http://www.learnopengl.com/)
@@ -363,6 +380,7 @@ Graphics - Shaders
 - [memory locality optimization in the Claybook GPU particle simulator](https://twitter.com/SebAaltonen/status/1580486755358502912)
 - [Tangent Spaces and Diamond Encoding](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)
 - [Winding Numbers](https://www.shadertoy.com/view/Nt2yzd)
+- [Death To Shading Languages](https://xol.io/blah/death-to-shading-languages/)
 
 Math - Geometry
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
@@ -401,6 +419,7 @@ Math - Geometry
 - [Reach For the Spheres: Tangency-Aware Surface Reconstruction of SDFs](https://odedstein.com/projects/reach-for-the-spheres/)
 - [A faster quaternion-vector multiplication](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
 - [Finding Real Polynomial Roots on GPUs](https://momentsingraphics.de/GPUPolynomialRoots.html)
+- [Faster quaternion product rotations](https://www.johndcook.com/blog/2021/06/16/faster-quaternion-rotations/)
 
 Math - Cryptography
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
@@ -449,6 +468,10 @@ Math - Randomness/Procedural Generation
 - [Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/abs/2306.09310)
 - [Modeling & Graph Grammars](https://paulmerrell.org/grammar/)
 - [Using a RNN for 2D Tile Map Synthesis](https://voxely.net/blog/using-a-rnn-for-2d-tile-map-synthesis/)
+- [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
+- [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
+- [Better Mountain Generators That Aren't Perlin Noise or Erosion](https://www.youtube.com/watch?v=gsJHzBTPG0Y)
+- [One Noise to Rule Them All](https://armanmaesumi.github.io/onenoise/)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -581,6 +604,8 @@ Machine Learning
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 - [Analyzing and Improving the Training Dynamics of Diffusion Models](https://huggingface.co/papers/2312.02696)
+- [Trilinear Point Splatting for Real-Time Radiance Field Rendering](https://lfranke.github.io/trips/)
+- [The Next Great Scientific Theory is Hiding Inside a Neural Network](https://www.youtube.com/watch?v=fk2r8y5TfNY)
 
 Games - Design
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -685,6 +710,7 @@ Software - Misc. Tools
 - [Free VDB Volumes](https://jangafx.com/software/embergen/download/free-vdb-animations/)
 - [Intel Graphics Samples](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html)
 - [Vector.js](https://vectorjs.org/)
+- [Three D Scans](https://threedscans.com/)
 
 Software - Misc. Libraries
 - [Single-File Libraries](https://github.com/nothings/single_file_libs)
@@ -710,6 +736,7 @@ Languages - Functional Programming
 - [Refactoring via Recursion and CPS Conversion](http://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
 - [What makes dependent type theory more suitable than set theory for proof assistants?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista)
 - [Notes on GADTs](https://camdar.io/static/h4t/stuff/04/notes.pdf)
+- [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 
 Languages - Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)
@@ -730,6 +757,9 @@ Languages - Compilers
 - [Lexical Analysis Strategies](https://nothings.org/computer/lexing.html)
 - [Complete Guide to LLVM](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 - [Optimizations enabled by -ffast-math](https://kristerw.github.io/2021/10/19/fast-math/)
+- [(Go) Finding unreachable functions with deadcode](https://go.dev/blog/deadcode)
+- [Compiling With Constraints](https://www.philipzucker.com/compile_constraints/)
+- [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 
 Languages - Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -744,6 +774,7 @@ Languages - Rust
 - [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
 - [How to debug rust with visual studio code](https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/)
 - [Streams in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
+- [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
 
 Languages - LLVM
 - [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
@@ -803,6 +834,7 @@ Languages - C++
 - [All C++20 Core Features with Examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
 - [C++ Exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
 - [Modern C++ Lamentations - Pythagorean Triples](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
+- [Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
 
 Languages - Misc.
 - [Jai Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -911,6 +943,7 @@ Computer Engineering - Low Level Programming
 - [Fast, Near Lossless ‘Compression’ of Normal Floats](https://martinfullerblog.wordpress.com/2023/01/15/fast-near-lossless-compression-of-normal-floats/)
 - [Float Compression Series](https://aras-p.info/blog/2023/01/29/Float-Compression-1-Generic/)
 - [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do/)
+- [Implementing a GPU's Programming Model on a CPU](https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -1048,3 +1081,5 @@ Technical History &amp; Stories
 - [Why is the Nuclear Power Industry Stagnant?](https://austinvernon.site/blog/nuclear.html)
 - [Ask HN: What are some of the best documentaries you've seen?](https://news.ycombinator.com/item?id=32799789)
 - [Intro to Computational Astrophotography](https://yager.io/Astro.html)
+- [Randar Explanation and Information](https://github.com/spawnmason/randar-explanation/?tab=readme-ov-file)
+- [Riven](https://www.filfre.net/2024/05/riven/)
