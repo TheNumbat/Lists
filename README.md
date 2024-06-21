@@ -417,7 +417,6 @@ Math - Geometry
 - [Spectre aperiodic monotile](https://www.desmos.com/calculator/vh3z0qhlrq)
 - [Boundary Value Caching for Walk on Spheres [SIGGRAPH 2023]](https://www.youtube.com/watch?v=gTYvZJiqvmY)
 - [Reach For the Spheres: Tangency-Aware Surface Reconstruction of SDFs](https://odedstein.com/projects/reach-for-the-spheres/)
-- [A faster quaternion-vector multiplication](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
 - [Finding Real Polynomial Roots on GPUs](https://momentsingraphics.de/GPUPolynomialRoots.html)
 - [Faster quaternion product rotations](https://www.johndcook.com/blog/2021/06/16/faster-quaternion-rotations/)
 
