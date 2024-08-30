@@ -34,10 +34,11 @@ Graphics - Techniques
 - [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/)
 - [Reverse Z (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 - [Creating a Directed Acyclic Graph from a Mesh](https://blog.traverseresearch.nl/creating-a-directed-acyclic-graph-from-a-mesh-1329e57286e5)
-- Recreating Nanite: [LOD generation](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html), [Runtime LOD selection](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html), [Mesh shader time](https://jglrxavpok.github.io/2024/05/13/recreating-nanite-mesh-shader-time.html)
+- Recreating Nanite: [LOD generation](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html), [Runtime LOD selection](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html), [Mesh shader time](https://jglrxavpok.github.io/2024/05/13/recreating-nanite-mesh-shader-time.html), [Raytracing](https://jglrxavpok.github.io/2024/08/21/recreating-nanite-raytracing.html)
 - [Beyond White Noise for Real-Time Rendering](https://www.youtube.com/watch?v=tethAU66xaA)
 - [Filtering After Shading with Stochastic Texture Filtering](https://www.youtube.com/watch?v=e3391_C6aXE)
 - [Texture Streaming in Wicked Engine](https://wickedengine.net/2024/06/texture-streaming/)
+- [Arcball Interface](https://romankogan.net/math/arcball_js/index.html)
 
 Graphics - Color &amp; Tone Mapping
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -47,6 +48,9 @@ Graphics - Color &amp; Tone Mapping
 - [HDR Color Grading and Display in Frostbite](https://www.ea.com/frostbite/news/high-dynamic-range-color-grading-and-display-in-frostbite)
 - [Tone Mapping](https://64.github.io/tonemapping/)
 - [Oklab Color Space](https://bottosson.github.io/posts/oklab/)
+- [Khronos PBR Neutral Tone Mapper](https://www.khronos.org/news/press/khronos-pbr-neutral-tone-mapper-released-for-true-to-life-color-rendering-of-3d-products)
+- [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
+- [Color Space Confusion](https://nanosys.com/blog-archive/2012/08/14/color-space-confusion)
 
 Graphics - Renderers
 - [Rasterization on Larabee](http://www.drdobbs.com/parallel/rasterization-on-larrabee/217200602?pgno=1)
@@ -190,6 +194,7 @@ Graphics - Ray/Path Tracing
 - [VNDF importance sampling for an isotropic Smith-GGX distribution](https://auzaiffe.wordpress.com/2024/04/15/vndf-importance-sampling-an-isotropic-distribution/)
 - [N-BVH: Neural ray queries with bounding volume hierarchies](https://weiphil.github.io/portfolio/neural_bvh)
 - [Implementing General Relativity: Rendering the Schwarzschild black hole](https://20k.github.io/c++/2024/05/31/schwarzschild.html)
+- [Machine Learning on the GPU - Case Study: Open Image Denoise](https://wallisc.github.io/rendering/2024/06/06/Intro-to-GPU-ML-Denoising.html)
 
 Graphics - Ray/Path Tracing - ReSTIR
 - [ReSTIR GI for Specular Bounces](http://www.zyanidelab.com/restir-gi-for-specular-bounces/)
@@ -231,6 +236,8 @@ Graphics - Simulation &amp; Animation
 - [A Practical Walk-on-Boundary Method for Boundary Value Problems](https://rsugimoto.net/WoBforBVPsProject/WoBforBVPs.pdf)
 - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
 - [Incremental Potential Contact](https://ipc-sim.github.io/)
+- [Fix Your Timestep!](https://www.gafferongames.com/post/fix_your_timestep/)
+- [Numerical Relativity 101: Simulating spacetime on the GPU](https://20k.github.io/c++/2024/07/31/nr101.html)
 
 Graphics - Machine Learning
 - [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
@@ -246,6 +253,7 @@ Graphics - Machine Learning
 - [Making Gaussian Splats smaller](https://aras-p.info/blog/2023/09/13/Making-Gaussian-Splats-smaller/)
 - [Iterative 𝛼-(de)Blending: a Minimalist Deterministic Diffusion Model](https://ggx-research.github.io/publication/2023/05/10/publication-iadb.html)
 - [XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies](https://research.nvidia.com/labs/toronto-ai/xcube/)
+- [Equivariant Neural Networks](https://www.youtube.com/watch?v=cKm4Ab4mQiY)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -317,6 +325,8 @@ Graphics - GPUs
 - [Implementing a GPU-driven debug line renderer](https://www.gijskaerts.com/wordpress/?p=190)
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance](https://siboehm.com/articles/22/CUDA-MMM)
 - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [A quick introduction to workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
+- [GPU Programming Primitives for Computer Graphics](https://gpu-primitives-course.github.io/)
 
 Graphics - OpenGL
 - [LearnOpenGL](http://www.learnopengl.com/)
@@ -356,6 +366,7 @@ Graphics - Vulkan/D3D12/WebGPU
 - [Debugging VK_ERROR_DEVICE_LOST with Nvidia Device Diagnostics](https://feresignum.com/debugging-vk_error_device_lost-with-nvidia-device-diagnostics/)
 - [D3D12 Work Graphs Preview](https://devblogs.microsoft.com/directx/d3d12-work-graphs-preview/)
 - [Render graphs and Vulkan — a deep dive](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+- [Workarounds for issues with mesh shaders + Vulkan + HLSL](https://anki3d.org/workarounds-for-issues-with-mesh-shaders-vulkan-hlsl/)
 
 Graphics - Shaders
 - [Single-Pass Wireframe Rendering](http://strattonbrazil.blogspot.com/2011/09/single-pass-wireframe-rendering_10.html)
@@ -420,6 +431,8 @@ Math - Geometry
 - [A faster quaternion-vector multiplication](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
 - [Finding Real Polynomial Roots on GPUs](https://momentsingraphics.de/GPUPolynomialRoots.html)
 - [Faster quaternion product rotations](https://www.johndcook.com/blog/2021/06/16/faster-quaternion-rotations/)
+- [Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
+- [The Triangle is Dead, Long Live the Triangle!](https://www.youtube.com/watch?v=wO2EfNIgBBY)
 
 Math - Cryptography
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
@@ -428,7 +441,7 @@ Math - Cryptography
 - [NaCl Crypto](https://nacl.cr.yp.to/)
 - [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
 
-Math - Randomness/Procedural Generation
+Math - RNG / Procedural Generation
 - [Maze Generation](http://www.astrolog.org/labyrnth/algrithm.htm)
 - [Maze + Room Generation](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
 - [Terrain Generation from Noise](http://www.redblobgames.com/maps/terrain-from-noise/)
@@ -457,21 +470,27 @@ Math - Randomness/Procedural Generation
 - [Fibonacci Fun](https://www.reddit.com/r/proceduralgeneration/comments/s5lrn2/fibonacci_fun/)
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior)
 - [ProcGen Resources](https://procgen.space/resources)
-- [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 - [How Pitfall Builds its World (Linear Feedback Shift Registers)](https://evoniuk.github.io/posts/pitfall.html)
 - [bleuje : Animations](https://bleuje.com/animationsite/2022_1/)
-- [An Introduction to Stochastic Calculus](https://bjlkeng.github.io/posts/an-introduction-to-stochastic-calculus/)
-- [Markov Chain Monte Carlo Methods, Rejection Sampling and the Metropolis-Hastings Algorithm](https://bjlkeng.github.io/posts/markov-chain-monte-carlo-mcmc-and-the-metropolis-hastings-algorithm/)
-- [Hamiltonian Monte Carlo](https://bjlkeng.github.io/posts/hamiltonian-monte-carlo/)
 - [Procedurally generated bitmap art](https://gitlab.com/suetanvil/bitart)
 - [SquirrelNoise5](http://eiserloh.net/noise/SquirrelNoise5.hpp)
 - [Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/abs/2306.09310)
 - [Modeling & Graph Grammars](https://paulmerrell.org/grammar/)
 - [Using a RNN for 2D Tile Map Synthesis](https://voxely.net/blog/using-a-rnn-for-2d-tile-map-synthesis/)
 - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
-- [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 - [Better Mountain Generators That Aren't Perlin Noise or Erosion](https://www.youtube.com/watch?v=gsJHzBTPG0Y)
 - [One Noise to Rule Them All](https://armanmaesumi.github.io/onenoise/)
+- [Procedural generation with workgraphs](https://gpuopen.com/learn/work_graphs_mesh_nodes/work_graphs_mesh_nodes-procedural_generation/)
+- [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
+- [Watabou's Procgen Arcana](https://watabou.github.io/)
+
+Math - Monte Carlo
+- [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+- [An Introduction to Stochastic Calculus](https://bjlkeng.github.io/posts/an-introduction-to-stochastic-calculus/)
+- [Markov Chain Monte Carlo Methods, Rejection Sampling and the Metropolis-Hastings Algorithm](https://bjlkeng.github.io/posts/markov-chain-monte-carlo-mcmc-and-the-metropolis-hastings-algorithm/)
+- [Hamiltonian Monte Carlo](https://bjlkeng.github.io/posts/hamiltonian-monte-carlo/)
+- [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
+- [On the Convergence of the Unadjusted Langevin Algorithm](https://fa.bianp.net/blog/2023/ulaq/)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -504,6 +523,7 @@ Math - Misc.
 - [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
 - [The Calculus of Variations](https://bjlkeng.github.io/posts/the-calculus-of-variations/)
 - [What Is the Complex Step Approximation?](https://nhigham.com/2020/10/06/what-is-the-complex-step-approximation/)
+- [Closed-Form 3x3 Matrix Decompositions](https://theorangeduck.com/page/closed-form-matrix-decompositions)
 
 Math - Summer of Math Exposition
 - [What Lies Between a Function and Its Derivative?](https://www.youtube.com/watch?v=2dwQUUDt5Is)
@@ -737,6 +757,10 @@ Languages - Functional Programming
 - [What makes dependent type theory more suitable than set theory for proof assistants?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista)
 - [Notes on GADTs](https://camdar.io/static/h4t/stuff/04/notes.pdf)
 - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
+- [How OCaml type checker works -- or what polymorphism and garbage collection have in common](https://okmij.org/ftp/ML/generalization.html)
+- [Soundly Handling Linearity](https://blog.sigplan.org/2024/08/12/soundly-handling-linearity/)
+- [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
+- [Higher-kinded bounded polymorphism](https://okmij.org/ftp/ML/higher-kind-poly.html)
 
 Languages - Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)
@@ -748,18 +772,19 @@ Languages - Compilers
 - [Embedding LuaJIT](https://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/)
 - [Terra - Low Level Embedded Lua Metaprogramming](http://terralang.org/)
 - [What I Learned Making my own JIT Language](http://www.mikedrivendevelopment.com/2018/06/what-i-learned-making-my-own-jit.html?m=1)
-- [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
-- [Lisp in 200 Lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
-- [How we get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
 - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - [Expression parsing algorithm](https://www.rhyscitlema.com/algorithms/expression-parsing-algorithm/)
 - [Optimizations in C++ Compilers](https://queue.acm.org/detail.cfm?id=3372264)
 - [Lexical Analysis Strategies](https://nothings.org/computer/lexing.html)
-- [Complete Guide to LLVM](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
-- [Optimizations enabled by -ffast-math](https://kristerw.github.io/2021/10/19/fast-math/)
 - [(Go) Finding unreachable functions with deadcode](https://go.dev/blog/deadcode)
 - [Compiling With Constraints](https://www.philipzucker.com/compile_constraints/)
 - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
+- [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
+- [AUTOMAP: How to do NumPy-style broadcasting in Futhark (but better)](https://futhark-lang.org/blog/2024-06-17-automap.html)
+- [The power of predicate pushdown](https://pola.rs/posts/predicate-pushdown-query-optimizer/)
+- [The Flix Programming Language](https://flix.dev/)
+- [Koka: A Functional Language with Effect Types and Handlers](https://koka-lang.github.io/koka/doc/index.html)
+- [Abstract interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
 
 Languages - Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -785,6 +810,7 @@ Languages - LLVM
 - [Using libclang to Parse C++](http://shaharmike.com/cpp/libclang/)
 - [How Clang Compiles a Function](https://blog.regehr.org/archives/1605)
 - [Building Useful ClangTools](https://www.youtube.com/watch?v=E6i8jmiy8MY)
+- [Complete Guide to LLVM](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 
 Languages - C
 - [Generics in C](https://stackoverflow.com/questions/16522341/pseudo-generics-in-c)
@@ -792,6 +818,8 @@ Languages - C
 - [GCC Function Names](https://gcc.gnu.org/onlinedocs/gcc/Function-Names.html)
 - [Auto-vectorization in GCC](https://locklessinc.com/articles/vectorize/)
 - [C Reflection with Clang](https://www.reddit.com/r/gamedev/comments/3lh0ba/using_clang_to_generate_c_reflection_data/)
+- [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+- [Lisp in 200 Lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
 - [Making Smaller C/C++ Binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 - [Making a Minimal Container Library in C](http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
 - [Embedded - What happens before main() is executed?](http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/)
@@ -799,6 +827,7 @@ Languages - C
 - [Some Dark Corners of C](https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/preview?slide=id.gec7eb408_3500)
 - [Some things every C programmer should know about C](https://web.archive.org/web/20030812081713/http://klausler.com/cnotes.txt)
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c#n-format-specifier)
+- [Optimizations enabled by -ffast-math](https://kristerw.github.io/2021/10/19/fast-math/)
 
 Languages - C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -835,6 +864,7 @@ Languages - C++
 - [C++ Exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
 - [Modern C++ Lamentations - Pythagorean Triples](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
 - [Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
+- [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 
 Languages - Misc.
 - [Jai Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -847,6 +877,7 @@ Languages - Misc.
 - [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
 - [K](http://www.math.bas.bg/bantchev/place/k.html)
 - [Featherweight Go](https://arxiv.org/pdf/2005.11710.pdf)
+- [We need visual programming. No, not like that.](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 
 Computer Engineering - Hardware
 - [NAND Game](https://nandgame.com/)
@@ -869,6 +900,7 @@ Computer Engineering - Hardware
 - [Can Doom Run It? An Adding Machine in Doom](https://blog.otterstack.com/posts/202212-doom-calculator/)
 - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 - [SMACNI to AVX512 the life cycle of an instruction set](https://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
+- [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 
 Computer Engineering - Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -944,6 +976,9 @@ Computer Engineering - Low Level Programming
 - [Float Compression Series](https://aras-p.info/blog/2023/01/29/Float-Compression-1-Generic/)
 - [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do/)
 - [Implementing a GPU's Programming Model on a CPU](https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
+- [Beating OpenBLAS and MKL in 150 lines of C Code: A Tutorial on High-Performance Matrix Multiplication](https://salykova.github.io/matmul-cpu)
+- [How we get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
+- [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -1083,3 +1118,6 @@ Technical History &amp; Stories
 - [Intro to Computational Astrophotography](https://yager.io/Astro.html)
 - [Randar Explanation and Information](https://github.com/spawnmason/randar-explanation/?tab=readme-ov-file)
 - [Riven](https://www.filfre.net/2024/05/riven/)
+- [On the origins of DS_store](https://www.arno.org/on-the-origins-of-ds-store)
+- [Twenty years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
+- ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
