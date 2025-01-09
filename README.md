@@ -39,6 +39,8 @@ Graphics - Techniques
 - [Filtering After Shading with Stochastic Texture Filtering](https://www.youtube.com/watch?v=e3391_C6aXE)
 - [Texture Streaming in Wicked Engine](https://wickedengine.net/2024/06/texture-streaming/)
 - [Arcball Interface](https://romankogan.net/math/arcball_js/index.html)
+- [Sparse Virtual Shadow Maps](https://ktstephano.github.io/rendering/stratusgfx/svsm)
+- [The details of transforming normals](https://github.com/graphitemaster/normals_revisited)
 
 Graphics - Color &amp; Tone Mapping
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -127,6 +129,7 @@ Graphics - Images
 - [SVD Image Compression, Explained](https://dmicz.github.io/machine-learning/svd-image-compression/)
 - [This is the Difference of Gaussians](https://www.youtube.com/watch?v=5EuYKEvugLU)
 - [Learned Image Compression](https://www.youtube.com/watch?v=x_q7cZviXkY)
+- [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -195,6 +198,7 @@ Graphics - Ray/Path Tracing
 - [N-BVH: Neural ray queries with bounding volume hierarchies](https://weiphil.github.io/portfolio/neural_bvh)
 - [Implementing General Relativity: Rendering the Schwarzschild black hole](https://20k.github.io/c++/2024/05/31/schwarzschild.html)
 - [Machine Learning on the GPU - Case Study: Open Image Denoise](https://wallisc.github.io/rendering/2024/06/06/Intro-to-GPU-ML-Denoising.html)
+- [Rendering Tiny Glades With Entirely Too Much Ray Marching](https://www.youtube.com/watch?v=jusWW2pPnA0&list=PLLaly9x9rqjsXLW1tMFruyh_657sh8epk&index=18)
 
 Graphics - Ray/Path Tracing - ReSTIR
 - [ReSTIR GI for Specular Bounces](http://www.zyanidelab.com/restir-gi-for-specular-bounces/)
@@ -238,6 +242,8 @@ Graphics - Simulation &amp; Animation
 - [Incremental Potential Contact](https://ipc-sim.github.io/)
 - [Fix Your Timestep!](https://www.gafferongames.com/post/fix_your_timestep/)
 - [Numerical Relativity 101: Simulating spacetime on the GPU](https://20k.github.io/c++/2024/07/31/nr101.html)
+- [Physics-Based Simulation Book](https://phys-sim-book.github.io/)
+- [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
 
 Graphics - Machine Learning
 - [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
@@ -254,6 +260,7 @@ Graphics - Machine Learning
 - [Iterative 𝛼-(de)Blending: a Minimalist Deterministic Diffusion Model](https://ggx-research.github.io/publication/2023/05/10/publication-iadb.html)
 - [XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies](https://research.nvidia.com/labs/toronto-ai/xcube/)
 - [Equivariant Neural Networks](https://www.youtube.com/watch?v=cKm4Ab4mQiY)
+- [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103)
 
 Graphics - Voxels
 - [Voxel-Based Global Illumination](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
@@ -327,6 +334,7 @@ Graphics - GPUs
 - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 - [A quick introduction to workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 - [GPU Programming Primitives for Computer Graphics](https://gpu-primitives-course.github.io/)
+- [Fixing The GPU](https://docs.google.com/document/u/0/d/1MyvFNjbaJl62v_RJ3oWhGIsUIOY74XYlcqlYHbZQriM/mobilebasic)
 
 Graphics - OpenGL
 - [LearnOpenGL](http://www.learnopengl.com/)
@@ -482,6 +490,8 @@ Math - RNG / Procedural Generation
 - [Procedural generation with workgraphs](https://gpuopen.com/learn/work_graphs_mesh_nodes/work_graphs_mesh_nodes-procedural_generation/)
 - [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 - [Watabou's Procgen Arcana](https://watabou.github.io/)
+- [Summing Blue Noise Octaves Like Perlin Noise](https://blog.demofox.org/2024/09/02/summing-blue-noise-octaves-like-perlin-noise/)
+- [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
 
 Math - Monte Carlo
 - [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
@@ -523,6 +533,8 @@ Math - Misc.
 - [The Calculus of Variations](https://bjlkeng.github.io/posts/the-calculus-of-variations/)
 - [What Is the Complex Step Approximation?](https://nhigham.com/2020/10/06/what-is-the-complex-step-approximation/)
 - [Closed-Form 3x3 Matrix Decompositions](https://theorangeduck.com/page/closed-form-matrix-decompositions)
+- [Derivative AT a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
+- [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 
 Math - Summer of Math Exposition
 - [What Lies Between a Function and Its Derivative?](https://www.youtube.com/watch?v=2dwQUUDt5Is)
@@ -568,6 +580,7 @@ CS - Algorithms
 - [Intelligent brute forcing](https://davidkoloski.me/blog/intelligent-brute-forcing/)
 - [Rapidly Solving Sudoku, N-Queens, Pentomino Placement, and More, With Knuth’s Algorithm X and Dancing Links.](https://blog.demofox.org/2022/10/30/rapidly-solving-sudoku-n-queens-pentomino-placement-and-more-with-knuths-algorithm-x-and-dancing-links/)
 - [The story behind the Packing Chromatic paper](https://bsubercaseaux.github.io/blog/2023/packingchromatic/)
+- [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 
 CS - Data Structures
 - [Masstree: Cache-Friendly trie/b-tree](https://www.the-paper-trail.org/post/masstree-paper-notes/)
@@ -579,6 +592,7 @@ CS - Data Structures
 - [Designing a Fast Hash Table](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)
 - [Blender Mesh Structure](https://wiki.blender.org/wiki/Source/Modeling/BMesh/Design)
 - [Hash Array Mapped Trie Implementation](https://github.com/mkirchner/hamt)
+- [The Only Undoable CRDTs are Counters](https://arxiv.org/pdf/2006.10494)
 
 CS - Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -596,6 +610,8 @@ CS - Concurrency
 - [Resource efficient thread pools in Zig](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
 - [Parallelizing the Naughty Dog engine using fibers](https://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
 - [2PLSF: Two-Phase Locking with Starvation-Freedom](https://zenodo.org/records/7886718)
+- [Designing A Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
+- [What every systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
 
 Machine Learning
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -625,6 +641,7 @@ Machine Learning
 - [Analyzing and Improving the Training Dynamics of Diffusion Models](https://huggingface.co/papers/2312.02696)
 - [Trilinear Point Splatting for Real-Time Radiance Field Rendering](https://lfranke.github.io/trips/)
 - [The Next Great Scientific Theory is Hiding Inside a Neural Network](https://www.youtube.com/watch?v=fk2r8y5TfNY)
+- [A Visual Dive into Conditional Flow Matching](https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/)
 
 Games - Design
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -684,6 +701,7 @@ Software - Technique
 - [OOP is Dead, Long Live Data Oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU)
 - [Practical Examples in Data Oriented Design](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
 - [Specs and Legion, two very different approaches to ECS](https://csherratt.github.io/blog/posts/specs-and-legion/)
+- [Producing Wrong Data Without Doing Anything Obviously Wrong!](https://users.cs.northwestern.edu/~robby/courses/322-2013-spring/mytkowicz-wrong-data.pdf)
 
 Software - Culture
 - [Confessions of a UE4 Engineering Firefighter](https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/)
@@ -760,6 +778,11 @@ Languages - Functional Programming
 - [Soundly Handling Linearity](https://blog.sigplan.org/2024/08/12/soundly-handling-linearity/)
 - [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
 - [Higher-kinded bounded polymorphism](https://okmij.org/ftp/ML/higher-kind-poly.html)
+- [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
+- [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
+- [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
+- [Tree calculus](https://treecalcul.us/)
+- [Proofs about a Folklore Let-Polymorphic Type Inference Algorithm](https://www.classes.cs.uchicago.edu/archive/2007/spring/32001-1/papers/p707-lee.pdf)
 
 Languages - Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)
@@ -784,6 +807,14 @@ Languages - Compilers
 - [The Flix Programming Language](https://flix.dev/)
 - [Koka: A Functional Language with Effect Types and Handlers](https://koka-lang.github.io/koka/doc/index.html)
 - [Abstract interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
+- [Lightweight region memory management in a two-stage language](https://gist.github.com/AndrasKovacs/fb172cb813d57da9ac22b95db708c4af)
+- [optimizing the Ion compiler backend](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
+- [A DSL for Peephole Transformation Rules of Integer Operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
+- [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
+- [Our optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
+- [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
+- [Fidget](https://www.mattkeeter.com/projects/fidget/)
+- [Explain mapping between OCaml memory model and C](https://github.com/ocaml/ocaml/pull/10995)
 
 Languages - Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -827,6 +858,7 @@ Languages - C
 - [Some things every C programmer should know about C](https://web.archive.org/web/20030812081713/http://klausler.com/cnotes.txt)
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c#n-format-specifier)
 - [Optimizations enabled by -ffast-math](https://kristerw.github.io/2021/10/19/fast-math/)
+- [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
 
 Languages - C++
 - [rvalue References](http://thbecker.net/articles/rvalue_references/section_01.html)
@@ -864,6 +896,7 @@ Languages - C++
 - [Modern C++ Lamentations - Pythagorean Triples](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
 - [Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
 - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
+- [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 
 Languages - Misc.
 - [Jai Demo Playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
@@ -900,6 +933,8 @@ Computer Engineering - Hardware
 - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 - [SMACNI to AVX512 the life cycle of an instruction set](https://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
 - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
+- [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
+- [The Alder Lake shlx anomaly](https://tavianator.com/2025/shlx.html)
 
 Computer Engineering - Memory
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -978,6 +1013,7 @@ Computer Engineering - Low Level Programming
 - [Beating OpenBLAS and MKL in 150 lines of C Code: A Tutorial on High-Performance Matrix Multiplication](https://salykova.github.io/matmul-cpu)
 - [How we get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
 - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
+- [The Fastest Mutexes](https://justine.lol/mutex/)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -993,6 +1029,7 @@ Computer Engineering - Operating Systems
 - [File system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 - [Surprisingly Slow](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/)
 - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
+- [Linux in a Pixel Shader - A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 - When will there be a sandboxed bytecode-vm userland ipc-only microkernel db-filesystem networked app-package operating system?
 
 Computer Engineering - Operating Systems - Windows
@@ -1120,3 +1157,6 @@ Technical History &amp; Stories
 - [On the origins of DS_store](https://www.arno.org/on-the-origins-of-ds-store)
 - [Twenty years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 - ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
+- [Phased Array Microphone](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
+- [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
+- [A Story About ‘Magic'](http://www.catb.org/jargon/html/magic-story.html)
