@@ -130,6 +130,8 @@ Graphics - Images
 - [This is the Difference of Gaussians](https://www.youtube.com/watch?v=5EuYKEvugLU)
 - [Learned Image Compression](https://www.youtube.com/watch?v=x_q7cZviXkY)
 - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
+- [Upsampling via Multisampling](http://filmicworlds.com/blog/upsampling-via-multisampling/)
+- [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -199,6 +201,9 @@ Graphics - Ray/Path Tracing
 - [Implementing General Relativity: Rendering the Schwarzschild black hole](https://20k.github.io/c++/2024/05/31/schwarzschild.html)
 - [Machine Learning on the GPU - Case Study: Open Image Denoise](https://wallisc.github.io/rendering/2024/06/06/Intro-to-GPU-ML-Denoising.html)
 - [Rendering Tiny Glades With Entirely Too Much Ray Marching](https://www.youtube.com/watch?v=jusWW2pPnA0&list=PLLaly9x9rqjsXLW1tMFruyh_657sh8epk&index=18)
+- [Sampling Analytic Participating Media](https://zero-radiance.github.io/post/analytic-media/)
+- [Radiometry, part 1: I got it backwards](https://momentsingraphics.de/Radiometry1Backwards.html)
+- [Uniform Sampling of Surfaces by Casting Rays](https://www.arxiv.org/pdf/2506.05268)
 
 Graphics - Ray/Path Tracing - ReSTIR
 - [ReSTIR GI for Specular Bounces](http://www.zyanidelab.com/restir-gi-for-specular-bounces/)
@@ -210,6 +215,7 @@ Graphics - Ray/Path Tracing - ReSTIR
 - [A Gentler Introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
 - [Combining Resampled Importance and Projected Solid Angle Samplings for Many Area Light Rendering](https://ishaanshah.github.io/risltc/)
 - [Dynamic diffuse global illumination](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
+- [Understanding The Math Behind ReSTIR GI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_gi/)
 
 Graphics - Simulation &amp; Animation
 - [GPU Based Clay Simulation and Rendering](https://www.youtube.com/watch?v=Xpf7Ua3UqOA)
@@ -244,6 +250,8 @@ Graphics - Simulation &amp; Animation
 - [Numerical Relativity 101: Simulating spacetime on the GPU](https://20k.github.io/c++/2024/07/31/nr101.html)
 - [Physics-Based Simulation Book](https://phys-sim-book.github.io/)
 - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
+- [Simulating water over terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
+- [Finding Paths of Least Action with Gradient Descent](https://greydanus.github.io/2023/03/05/ncf-tutorial/)
 
 Graphics - Machine Learning
 - [Phase-Functioned Neural Networks for Character Control - Demo](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
@@ -375,6 +383,8 @@ Graphics - Vulkan/D3D12/WebGPU
 - [D3D12 Work Graphs Preview](https://devblogs.microsoft.com/directx/d3d12-work-graphs-preview/)
 - [Render graphs and Vulkan — a deep dive](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 - [Workarounds for issues with mesh shaders + Vulkan + HLSL](https://anki3d.org/workarounds-for-issues-with-mesh-shaders-vulkan-hlsl/)
+- [Writing to Compressed Textures](https://gist.github.com/castano/6e517fde7ff8cf2652758ff55bf260cd#writing-to-compressed-textures)
+- [GPU Texture Compression Everywhere](https://www.ludicon.com/castano/blog/2025/02/gpu-texture-compression-everywhere/)
 
 Graphics - Shaders
 - [Single-Pass Wireframe Rendering](http://strattonbrazil.blogspot.com/2011/09/single-pass-wireframe-rendering_10.html)
@@ -440,6 +450,8 @@ Math - Geometry
 - [Faster quaternion product rotations](https://www.johndcook.com/blog/2021/06/16/faster-quaternion-rotations/)
 - [Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
 - [The Triangle is Dead, Long Live the Triangle!](https://www.youtube.com/watch?v=wO2EfNIgBBY)
+- [Winding numbers: a topological tool for geometry processing](https://www.cs.cmu.edu/~csd-phd-blog/2025/winding-numbers/)
+- [Gradients are the new intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
 
 Math - Cryptography
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
@@ -500,6 +512,7 @@ Math - Monte Carlo
 - [Hamiltonian Monte Carlo](https://bjlkeng.github.io/posts/hamiltonian-monte-carlo/)
 - [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 - [On the Convergence of the Unadjusted Langevin Algorithm](https://fa.bianp.net/blog/2023/ulaq/)
+- [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 
 Math - Misc.
 - [For Mathematicians, = Does not mean Equality](https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/)
@@ -581,6 +594,7 @@ CS - Algorithms
 - [Rapidly Solving Sudoku, N-Queens, Pentomino Placement, and More, With Knuth’s Algorithm X and Dancing Links.](https://blog.demofox.org/2022/10/30/rapidly-solving-sudoku-n-queens-pentomino-placement-and-more-with-knuths-algorithm-x-and-dancing-links/)
 - [The story behind the Packing Chromatic paper](https://bsubercaseaux.github.io/blog/2023/packingchromatic/)
 - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+- [The Busy Beaver Frontier](https://www.scottaaronson.com/papers/bb.pdf)
 
 CS - Data Structures
 - [Masstree: Cache-Friendly trie/b-tree](https://www.the-paper-trail.org/post/masstree-paper-notes/)
@@ -593,6 +607,7 @@ CS - Data Structures
 - [Blender Mesh Structure](https://wiki.blender.org/wiki/Source/Modeling/BMesh/Design)
 - [Hash Array Mapped Trie Implementation](https://github.com/mkirchner/hamt)
 - [The Only Undoable CRDTs are Counters](https://arxiv.org/pdf/2006.10494)
+- [What is a succinct rank data structure? How does it work?](https://stackoverflow.com/questions/72580828/what-is-a-succinct-rank-data-structure-how-does-it-work)
 
 CS - Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -642,6 +657,8 @@ Machine Learning
 - [Trilinear Point Splatting for Real-Time Radiance Field Rendering](https://lfranke.github.io/trips/)
 - [The Next Great Scientific Theory is Hiding Inside a Neural Network](https://www.youtube.com/watch?v=fk2r8y5TfNY)
 - [A Visual Dive into Conditional Flow Matching](https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/)
+- [Muon: An optimizer for hidden layers in neural networks](https://kellerjordan.github.io/posts/muon/)
+- [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
 
 Games - Design
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -815,6 +832,12 @@ Languages - Compilers
 - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 - [Explain mapping between OCaml memory model and C](https://github.com/ocaml/ocaml/pull/10995)
+- [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
+- [How I implement SSA form](https://gist.github.com/pizlonator/cf1e72b8600b1437dda8153ea3fdb963)
+- [Representing type lattices compactly](https://bernsteinbear.com/blog/lattice-bitset/)
+- [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
+- [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
+- [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
 
 Languages - Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -910,6 +933,9 @@ Languages - Misc.
 - [K](http://www.math.bas.bg/bantchev/place/k.html)
 - [Featherweight Go](https://arxiv.org/pdf/2005.11710.pdf)
 - [We need visual programming. No, not like that.](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+- [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
+- [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
+- [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 
 Computer Engineering - Hardware
 - [NAND Game](https://nandgame.com/)
@@ -942,6 +968,10 @@ Computer Engineering - Memory
 - [Implementing/Debugging malloc](https://danluu.com/malloc-tutorial/)
 - [Testing Memory Allocators](http://ithare.com/testing-memory-allocators-ptmalloc2-tcmalloc-hoard-jemalloc-while-trying-to-simulate-real-world-loads/)
 - [RAM Refresh Cycles](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/)
+- [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
+- [Static Memory Management in Neut](https://vekatze.github.io/neut/static-memory-management.html)
+- [Compiler-Assisted Malloc for Automatically Reducing Data Movement](https://www.cs.cmu.edu/~csd-phd-blog/2025/compiler-analysis-malloc/)
+- [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
 
 Computer Engineering - Security
 - [X86 Design Flaw Memory Sinkhole](https://www.youtube.com/watch?v=lR0nh-TdpVg)
@@ -964,7 +994,6 @@ Computer Engineering - Security
 Computer Engineering - Low Level Programming
 - [Computer Systems: a Programmer's Perspective](http://www.csapp.cs.cmu.edu/)
 - [Branch Prediction](https://danluu.com/branch-prediction/)
-- [AVX512 Benchmarks](https://developer.numscale.com/bsimd/benchmarks/)
 - [Generating Executable Files from Scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
 - [ASM Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
 - [Disabling IME](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
@@ -979,10 +1008,7 @@ Computer Engineering - Low Level Programming
 - [Testing all Floats](https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/)
 - [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 - [The Best Optimizer is between Your Ears](http://twimgs.com/ddj/abrashblackbook/gpbb1.pdf)
-- [Using SSE](https://www.cs.uaf.edu/2009/fall/cs301/lecture/11_13_sse_intrinsics.html)
 - [Riot Profiling C++](https://engineering.riotgames.com/news/profiling-measurement-and-analysis)
-- [SIMD String Prefix Matching](https://trent.me/is-prefix-of-string-in-table/)
-- [AVX512 Whitespace Removal](http://0x80.pl/notesen/2019-01-05-avx512vbmi-remove-spaces.html)
 - [When FFI Calls Beat Native C](https://nullprogram.com/blog/2018/05/27/)
 - [Rules of Optimization](http://www.humus.name/index.php?page=News&ID=383)
 - [Moustache Visual Debugger Demo](https://www.youtube.com/watch?v=msZa2EzI3zc)
@@ -1009,11 +1035,23 @@ Computer Engineering - Low Level Programming
 - [Fast, Near Lossless ‘Compression’ of Normal Floats](https://martinfullerblog.wordpress.com/2023/01/15/fast-near-lossless-compression-of-normal-floats/)
 - [Float Compression Series](https://aras-p.info/blog/2023/01/29/Float-Compression-1-Generic/)
 - [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do/)
-- [Implementing a GPU's Programming Model on a CPU](https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 - [Beating OpenBLAS and MKL in 150 lines of C Code: A Tutorial on High-Performance Matrix Multiplication](https://salykova.github.io/matmul-cpu)
 - [How we get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
-- [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 - [The Fastest Mutexes](https://justine.lol/mutex/)
+- [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
+
+Computer Engineering - SIMD
+- [AVX512 Benchmarks](https://developer.numscale.com/bsimd/benchmarks/)
+- [Using SSE](https://www.cs.uaf.edu/2009/fall/cs301/lecture/11_13_sse_intrinsics.html)
+- [SIMD String Prefix Matching](https://trent.me/is-prefix-of-string-in-table/)
+- [AVX512 Whitespace Removal](http://0x80.pl/notesen/2019-01-05-avx512vbmi-remove-spaces.html)
+- [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
+- [Implementing a GPU's Programming Model on a CPU](https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
+- [Using the most unhinged AVX-512 instruction to make the fastest phrase search algo](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
+- [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
+- [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
+- [Three fundamental flaws of SIMD ISAs](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
+- [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -1030,6 +1068,7 @@ Computer Engineering - Operating Systems
 - [Surprisingly Slow](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/)
 - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 - [Linux in a Pixel Shader - A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
+- [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 - When will there be a sandboxed bytecode-vm userland ipc-only microkernel db-filesystem networked app-package operating system?
 
 Computer Engineering - Operating Systems - Windows
@@ -1066,6 +1105,7 @@ Computer Engineering - Operating Systems - Windows
 - [Making Your Game Go Fast by Asking Windows Nicely](https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/)
 - [Please Restore Our Registers When You’re Done With Them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
 - [timeBeginPeriod function](https://learn.microsoft.com/en-us/windows/win32/api/timeapi/nf-timeapi-timebeginperiod)
+- [Multimedia Class Scheduler Service](https://learn.microsoft.com/en-us/windows/win32/procthread/multimedia-class-scheduler-service)
 
 Computer Engineering - Operating Systems - Linux
 - [Detecting GDB](https://stackoverflow.com/questions/3596781/how-to-detect-if-the-current-process-is-being-run-by-gdb)
@@ -1082,6 +1122,7 @@ Computer Engineering - Operating Systems - Linux
 - [Huge-Page Swapping](https://lwn.net/Articles/758677/)
 - [Forgotten Unix CLI Commands](https://hackernoon.com/unknown-and-forgotten-cli-commands-ca73b3cdd1fd)
 - [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
+- [Backtrace is finally cheap by abusing x86/linux's shadow stack](https://intmainreturn0.com/notes/stacktrace-is-finally-cheap.html)
 
 Networking
 - [How Multiplayer Games Sync their State](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1)
@@ -1160,3 +1201,5 @@ Technical History &amp; Stories
 - [Phased Array Microphone](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
 - [A Story About ‘Magic'](http://www.catb.org/jargon/html/magic-story.html)
+- [A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+- [Half-Life](https://www.filfre.net/2024/12/half-life/)
