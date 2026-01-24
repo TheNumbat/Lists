@@ -41,6 +41,7 @@ Graphics - Techniques
 - [Arcball Interface](https://romankogan.net/math/arcball_js/index.html)
 - [Sparse Virtual Shadow Maps](https://ktstephano.github.io/rendering/stratusgfx/svsm)
 - [The details of transforming normals](https://github.com/graphitemaster/normals_revisited)
+- [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 
 Graphics - Color &amp; Tone Mapping
 - [How Does HDR Work?](https://gamedev.stackexchange.com/questions/12528/how-does-hdr-work)
@@ -53,6 +54,7 @@ Graphics - Color &amp; Tone Mapping
 - [Khronos PBR Neutral Tone Mapper](https://www.khronos.org/news/press/khronos-pbr-neutral-tone-mapper-released-for-true-to-life-color-rendering-of-3d-products)
 - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 - [Color Space Confusion](https://nanosys.com/blog-archive/2012/08/14/color-space-confusion)
+- [Filmic Tonemapping Operators](http://filmicworlds.com/blog/filmic-tonemapping-operators/)
 
 Graphics - Renderers
 - [Rasterization on Larabee](http://www.drdobbs.com/parallel/rasterization-on-larrabee/217200602?pgno=1)
@@ -87,6 +89,7 @@ Graphics - Renderers
 - [Exploring Raytraced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf)
 - [ExileCon Dev Talk - Evolving Path of Exile's Renderer](https://www.youtube.com/watch?v=whyJzrVEgVc&t=605s)
 - [Radiance Cascades](https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view)
+- [Physically based rendering from first principles](https://imadr.me/pbr/)
 
 Graphics - 2D
 - [Fast 2D Rendering on the GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
@@ -132,6 +135,7 @@ Graphics - Images
 - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 - [Upsampling via Multisampling](http://filmicworlds.com/blog/upsampling-via-multisampling/)
 - [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
+- [How Does Lossless Compression in Fuji RAF Files work?](https://capnfabs.net/posts/fuji-raf-compression-algorithm/)
 
 Graphics - Resources
 - [Intro to Rendering Techniques](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Introduction%20to%20rendering%20techniques.pdf)
@@ -204,6 +208,7 @@ Graphics - Ray/Path Tracing
 - [Sampling Analytic Participating Media](https://zero-radiance.github.io/post/analytic-media/)
 - [Radiometry, part 1: I got it backwards](https://momentsingraphics.de/Radiometry1Backwards.html)
 - [Uniform Sampling of Surfaces by Casting Rays](https://www.arxiv.org/pdf/2506.05268)
+- [Spatial hashing for raytraced ambient occlusion](https://interplayoflight.wordpress.com/2025/11/23/spatial-hashing-for-raytraced-ambient-occlusion/)
 
 Graphics - Ray/Path Tracing - ReSTIR
 - [ReSTIR GI for Specular Bounces](http://www.zyanidelab.com/restir-gi-for-specular-bounces/)
@@ -314,6 +319,7 @@ Graphics - Swedish Cubes
 - [Voxel Chunk Frustrum Culling](https://sites.google.com/site/letsmakeavoxelengine/home/frustum-culling)
 - [Seed of Andromeda - Region File System](https://www.seedofandromeda.com/blogs/1-creating-a-region-file-system-for-a-voxel-game)
 - [A Voxel Renderer for Learning C/C++](https://jacco.ompf2.com/2021/02/01/a-voxel-renderer-for-learning-c-c/)
+- [Blocky Planet — Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
 
 Graphics - GPUs
 - [RenderDoc Debugger](https://renderdoc.org/)
@@ -343,6 +349,9 @@ Graphics - GPUs
 - [A quick introduction to workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 - [GPU Programming Primitives for Computer Graphics](https://gpu-primitives-course.github.io/)
 - [Fixing The GPU](https://docs.google.com/document/u/0/d/1MyvFNjbaJl62v_RJ3oWhGIsUIOY74XYlcqlYHbZQriM/mobilebasic)
+- [Single-pass Parallel Prefix Scan with Decoupled Look-back](https://research.nvidia.com/sites/default/files/pubs/2016-03_Single-pass-Parallel-Prefix/nvr-2016-002.pdf)
+- [State of GPU Hardware (End of Year 2025)](https://asawicki.info/articles/state_of_gpu_hardware_2025.php)
+- [(Ab)using Shader Execution Reordering](https://debaetsd.github.io/posts/ser/)
 
 Graphics - OpenGL
 - [LearnOpenGL](http://www.learnopengl.com/)
@@ -452,6 +461,9 @@ Math - Geometry
 - [The Triangle is Dead, Long Live the Triangle!](https://www.youtube.com/watch?v=wO2EfNIgBBY)
 - [Winding numbers: a topological tool for geometry processing](https://www.cs.cmu.edu/~csd-phd-blog/2025/winding-numbers/)
 - [Gradients are the new intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
+- [Improvements to the Separating Axis Test](https://cairno.substack.com/p/improvements-to-the-separating-axis)
+- [Geometric Tools](https://www.geometrictools.com/Documentation/Documentation.html)
+- [Simple Method for Distance to Ellipse](https://blog.chatfield.io/simple-method-for-distance-to-ellipse/)
 
 Math - Cryptography
 - [Elliptic Curve Cryptography](http://blog.wesleyac.com/posts/elliptic-curves)
@@ -504,6 +516,7 @@ Math - RNG / Procedural Generation
 - [Watabou's Procgen Arcana](https://watabou.github.io/)
 - [Summing Blue Noise Octaves Like Perlin Noise](https://blog.demofox.org/2024/09/02/summing-blue-noise-octaves-like-perlin-noise/)
 - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
+- [The Unreasonable Effectiveness of Quasirandom Sequences](https://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/)
 
 Math - Monte Carlo
 - [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
@@ -548,6 +561,10 @@ Math - Misc.
 - [Closed-Form 3x3 Matrix Decompositions](https://theorangeduck.com/page/closed-form-matrix-decompositions)
 - [Derivative AT a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
 - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
+- [Actually, you can't test if quantum uses complex numbers](https://algassert.com/post/2501)
+- [The Axiom of Choice is Wrong](https://cornellmath.wordpress.com/2007/09/13/the-axiom-of-choice-is-wrong/)
+- [Feynman's Trick](https://zackyzz.github.io/feynman.html)
+- [All 23-Bit Still Lifes Are Glider Constructible](https://mvr.github.io/posts/xs23.html)
 
 Math - Summer of Math Exposition
 - [What Lies Between a Function and Its Derivative?](https://www.youtube.com/watch?v=2dwQUUDt5Is)
@@ -608,6 +625,7 @@ CS - Data Structures
 - [Hash Array Mapped Trie Implementation](https://github.com/mkirchner/hamt)
 - [The Only Undoable CRDTs are Counters](https://arxiv.org/pdf/2006.10494)
 - [What is a succinct rank data structure? How does it work?](https://stackoverflow.com/questions/72580828/what-is-a-succinct-rank-data-structure-how-does-it-work)
+- [Deterministic RC Trees](https://docs.google.com/presentation/d/12uBrD5JuWuNW0ioUQ4L06ZZ1gipI7EmxQ94d2A5nvs0/edit?slide=id.g2e61cbd0136_1_670#slide=id.g2e61cbd0136_1_670)
 
 CS - Concurrency
 - [Lock-Free Work Stealing](https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -627,6 +645,8 @@ CS - Concurrency
 - [2PLSF: Two-Phase Locking with Starvation-Freedom](https://zenodo.org/records/7886718)
 - [Designing A Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
 - [What every systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
+- [Lock-Free Locks Revisited](https://arxiv.org/pdf/2201.00813)
+- [A Concurrency Cost Hierarchy](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
 
 Machine Learning
 - [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -659,6 +679,9 @@ Machine Learning
 - [A Visual Dive into Conditional Flow Matching](https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/)
 - [Muon: An optimizer for hidden layers in neural networks](https://kellerjordan.github.io/posts/muon/)
 - [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
+- [Tracing Attention Computation Through Feature Interactions](https://transformer-circuits.pub/2025/attention-qk/index.html)
+- [Understanding Optimization in Deep Learning with Central Flows](https://centralflows.github.io/part1/)
+- [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
 
 Games - Design
 - [Pacing Puzzle Games](https://taiji-game.com/2017/07/12/31-how-do-we-pace-puzzle-games/amp/)
@@ -800,6 +823,8 @@ Languages - Functional Programming
 - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
 - [Tree calculus](https://treecalcul.us/)
 - [Proofs about a Folklore Let-Polymorphic Type Inference Algorithm](https://www.classes.cs.uchicago.edu/archive/2007/spring/32001-1/papers/p707-lee.pdf)
+- [Control structures in programming languages: from goto to algebraic effects](https://xavierleroy.org/control-structures/)
+- [X Design Notes: Unifying OCaml Modules and Values](https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html)
 
 Languages - Compilers
 - [The Programming Language Pipeline](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919)
@@ -838,6 +863,10 @@ Languages - Compilers
 - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
 - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
+- [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
+- [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
+- [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
+- [Formally Verifying Peephole Optimisations In Lean](https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/)
 
 Languages - Rust
 - [Embedded Rust Setup Assignment](https://web.stanford.edu/class/cs140e/assignments/0-blinky/)
@@ -853,6 +882,8 @@ Languages - Rust
 - [How to debug rust with visual studio code](https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/)
 - [Streams in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
 - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
+- [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
+- [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 
 Languages - LLVM
 - [The LLVM Toolchain](https://www.youtube.com/watch?v=uZI_Qla4pNA)
@@ -864,6 +895,7 @@ Languages - LLVM
 - [How Clang Compiles a Function](https://blog.regehr.org/archives/1605)
 - [Building Useful ClangTools](https://www.youtube.com/watch?v=E6i8jmiy8MY)
 - [Complete Guide to LLVM](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
+- [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 
 Languages - C
 - [Generics in C](https://stackoverflow.com/questions/16522341/pseudo-generics-in-c)
@@ -936,6 +968,10 @@ Languages - Misc.
 - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
+- [The Saga of Multicore OCaml ](https://www.youtube.com/watch?v=XGGSPpk1IB0)
+- [Are arrays functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
+- [The Green Tea Garbage Collector](https://go.dev/blog/greenteagc)
+- [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
 
 Computer Engineering - Hardware
 - [NAND Game](https://nandgame.com/)
@@ -972,6 +1008,7 @@ Computer Engineering - Memory
 - [Static Memory Management in Neut](https://vekatze.github.io/neut/static-memory-management.html)
 - [Compiler-Assisted Malloc for Automatically Reducing Data Movement](https://www.cs.cmu.edu/~csd-phd-blog/2025/compiler-analysis-malloc/)
 - [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
+- [tcmalloc's Temeraire: A Hugepage-Aware Allocator](https://paulcavallaro.com/blog/tcmalloc-temeraire-hugepage-aware-allocator/)
 
 Computer Engineering - Security
 - [X86 Design Flaw Memory Sinkhole](https://www.youtube.com/watch?v=lR0nh-TdpVg)
@@ -1039,6 +1076,8 @@ Computer Engineering - Low Level Programming
 - [How we get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
 - [The Fastest Mutexes](https://justine.lol/mutex/)
 - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
+- [RISC instruction sets I have known and disliked](https://www.jwhitham.org/2016/02/risc-instruction-sets-i-have-known-and.html)
+- [Huge binaries](https://fzakaria.com/2025/12/28/huge-binaries)
 
 Computer Engineering - SIMD
 - [AVX512 Benchmarks](https://developer.numscale.com/bsimd/benchmarks/)
@@ -1052,6 +1091,7 @@ Computer Engineering - SIMD
 - [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
 - [Three fundamental flaws of SIMD ISAs](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
 - [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/)
+- [AVX-512: First Impressions on Performance and Programmability](https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/)
 
 Computer Engineering - Operating Systems
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -1069,6 +1109,8 @@ Computer Engineering - Operating Systems
 - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 - [Linux in a Pixel Shader - A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
+- [Building a Distributed Filesystem for Scalable Research](https://www.hudsonrivertrading.com/hrtbeat/distributed-filesystem-for-scalable-research/)
+- [TernFS — an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 - When will there be a sandboxed bytecode-vm userland ipc-only microkernel db-filesystem networked app-package operating system?
 
 Computer Engineering - Operating Systems - Windows
@@ -1123,6 +1165,7 @@ Computer Engineering - Operating Systems - Linux
 - [Forgotten Unix CLI Commands](https://hackernoon.com/unknown-and-forgotten-cli-commands-ca73b3cdd1fd)
 - [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
 - [Backtrace is finally cheap by abusing x86/linux's shadow stack](https://intmainreturn0.com/notes/stacktrace-is-finally-cheap.html)
+- [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/)
 
 Networking
 - [How Multiplayer Games Sync their State](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1)
@@ -1203,3 +1246,5 @@ Technical History &amp; Stories
 - [A Story About ‘Magic'](http://www.catb.org/jargon/html/magic-story.html)
 - [A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 - [Half-Life](https://www.filfre.net/2024/12/half-life/)
+- [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+- [The 26,000-Year Astronomical Monument Hidden in Plain Sight](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
